@@ -20,10 +20,10 @@ Each chapter gives a status label (Verified / Partly verified / Contested / Reje
 ## III. Selection in the genome
 
 8. [Linked selection and Lewontin’s paradox](chapters/08-linked-selection.md) — Verified (phenomenon); relative roles contested
-9. Hard and soft sweeps (to be written)
-10. Genetic load and the cost of domestication (to be written)
-11. Muller’s ratchet and the advantages of sex (to be written)
-12. Introgression and hybrid speciation (to be written)
+9. [Hard and soft sweeps](chapters/09-hard-soft-sweeps.md) — Verified (sweeps); hard versus soft frequency contested
+10. [Genetic load and the cost of domestication](chapters/10-genetic-load-domestication.md) — Partly verified
+11. [Muller’s ratchet and the advantages of sex](chapters/11-muller-ratchet-sex.md) — Verified (ratchet in non-recombining genomes); advantages of sex partly verified
+12. [Introgression and hybrid speciation](chapters/12-introgression-hybrid-speciation.md) — Verified (introgression); homoploid hybrid speciation partly verified
 
 ## IV. Classical theory of adaptation and structure
 
