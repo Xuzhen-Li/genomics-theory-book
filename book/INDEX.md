@@ -41,13 +41,13 @@ Each chapter gives a status label (Verified / Partly verified / Contested / Reje
 
 19. [Gene duplication: Ohno and subfunctionalization](chapters/19-gene-duplication-ohno-subfunctionalization.md) — Verified (most duplicates lost; source of new genes); subfunctionalization as main route partly verified
 20. [The gene balance (dosage) hypothesis](chapters/20-gene-balance-dosage.md) — Verified (dosage balance and reciprocal retention); as a general rule partly verified
-21. Is polyploidy an evolutionary dead end? (to be written)
-22. Biased fractionation and subgenome dominance (to be written)
+21. [Is polyploidy an evolutionary dead end?](chapters/21-polyploidy-dead-end.md) — Partly verified (lower diversification of recent polyploids); long-run dead end contested
+22. [Biased fractionation and subgenome dominance](chapters/22-biased-fractionation-subgenome-dominance.md) — Verified (after many allopolyploidies); causes partly verified
 
 ## VII. Base composition and codons
 
-23. GC-biased gene conversion (to be written)
-24. Codon usage bias (to be written)
+23. [GC-biased gene conversion](chapters/23-gc-biased-gene-conversion.md) — Verified (mammals and birds); as a widespread force in eukaryotes and plants partly verified
+24. [Codon usage bias](chapters/24-codon-usage-bias.md) — Verified (selection–mutation–drift balance; translational selection in large populations); as the main force in plants partly verified
 
 ## VIII. Chromosomes, sex and epigenetics
 

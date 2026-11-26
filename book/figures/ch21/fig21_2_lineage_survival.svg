@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="453.543307pt" height="187.086614pt" viewBox="0 0 453.543307 187.086614" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-26T17:27:22.700871</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 187.086614 
+L 453.543307 187.086614 
+L 453.543307 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 45.354331 149.669291 
+L 244.913386 149.669291 
+L 244.913386 22.450394 
+L 45.354331 22.450394 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="m5f7cf537f0" d="M 0 0 
+L 0 2.5 
+" style="stroke: #000000; stroke-width: 0.5"/>
+      </defs>
+      <g>
+       <use xlink:href="#m5f7cf537f0" x="45.354331" y="149.669291" style="stroke: #000000; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-size: 7px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'; text-anchor: middle" x="45.354331" y="160.765483" transform="rotate(-0 45.354331 160.765483)">0</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#m5f7cf537f0" x="85.266142" y="149.669291" style="stroke: #000000; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 7px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'; text-anchor: middle" x="85.266142" y="160.765483" transform="rotate(-0 85.266142 160.765483)">20</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#m5f7cf537f0" x="125.177953" y="149.669291" style="stroke: #000000; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-size: 7px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'; text-anchor: middle" x="125.177953" y="160.765483" transform="rotate(-0 125.177953 160.765483)">40</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#m5f7cf537f0" x="165.089764" y="149.669291" style="stroke: #000000; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font-size: 7px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'; text-anchor: middle" x="165.089764" y="160.765483" transform="rotate(-0 165.089764 160.765483)">60</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5">
+      <g>
+       <use xlink:href="#m5f7cf537f0" x="205.001575" y="149.669291" style="stroke: #000000; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font-size: 7px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'; text-anchor: middle" x="205.001575" y="160.765483" transform="rotate(-0 205.001575 160.765483)">80</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#m5f7cf537f0" x="244.913386" y="149.669291" style="stroke: #000000; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font-size: 7px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'; text-anchor: middle" x="244.913386" y="160.765483" transform="rotate(-0 244.913386 160.765483)">100</text>
+     </g>
+    </g>
+    <g id="text_7">
+     <text style="font-size: 8px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'; text-anchor: middle" x="145.133858" y="172.062846" transform="rotate(-0 145.133858 172.062846)">Time since origin (million years)</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_7">
+      <defs>
+       <path id="m7e037f038e" d="M 0 0 
+L -2.5 0 
+" style="stroke: #000000; stroke-width: 0.5"/>
+      </defs>
+      <g>
+       <use xlink:href="#m7e037f038e" x="45.354331" y="149.669291" style="stroke: #000000; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <text style="font-size: 7px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'; text-anchor: end" x="39.354331" y="152.217387" transform="rotate(-0 39.354331 152.217387)">0.0</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#m7e037f038e" x="45.354331" y="130.097153" style="stroke: #000000; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <text style="font-size: 7px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'; text-anchor: end" x="39.354331" y="132.645249" transform="rotate(-0 39.354331 132.645249)">0.2</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_9">
+      <g>
+       <use xlink:href="#m7e037f038e" x="45.354331" y="110.525015" style="stroke: #000000; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <text style="font-size: 7px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'; text-anchor: end" x="39.354331" y="113.073111" transform="rotate(-0 39.354331 113.073111)">0.4</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#m7e037f038e" x="45.354331" y="90.952877" style="stroke: #000000; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <text style="font-size: 7px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'; text-anchor: end" x="39.354331" y="93.500973" transform="rotate(-0 39.354331 93.500973)">0.6</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_11">
+      <g>
+       <use xlink:href="#m7e037f038e" x="45.354331" y="71.380739" style="stroke: #000000; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="text_12">
+      <text style="font-size: 7px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'; text-anchor: end" x="39.354331" y="73.928835" transform="rotate(-0 39.354331 73.928835)">0.8</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#m7e037f038e" x="45.354331" y="51.808601" style="stroke: #000000; stroke-width: 0.5"/>
+      </g>
+     </g>
+     <g id="text_13">
+      <text style="font-size: 7px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'; text-anchor: end" x="39.354331" y="54.356697" transform="rotate(-0 39.354331 54.356697)">1.0</text>
+     </g>
+    </g>
+    <g id="text_14">
+     <text style="font-size: 8px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'; text-anchor: middle" x="23.940737" y="86.059843" transform="rotate(-90 23.940737 86.059843)">Probability the lineage survives</text>
+    </g>
+   </g>
+   <g id="line2d_13">
+    <path d="M 45.354331 51.808601 
+L 46.551685 57.193946 
+L 47.948598 62.442006 
+L 49.345512 66.825612 
+L 50.742425 70.533704 
+L 52.338898 74.119387 
+L 53.93537 77.152544 
+L 55.531843 79.744046 
+L 57.327874 82.234427 
+L 59.123906 84.36021 
+L 61.119496 86.376363 
+L 63.314646 88.254187 
+L 65.509795 89.844236 
+L 67.904504 91.313518 
+L 70.498772 92.652412 
+L 73.492157 93.935421 
+L 76.685102 95.058154 
+L 80.277165 96.082995 
+L 84.268346 96.991612 
+L 88.858205 97.807689 
+L 94.246299 98.53256 
+L 100.632189 99.156324 
+L 108.215433 99.667607 
+L 117.794268 100.081507 
+L 130.366488 100.390985 
+L 148.725921 100.600867 
+L 180.65537 100.711131 
+L 244.913386 100.737835 
+L 244.913386 100.737835 
+" clip-path="url(#p3ea3c450a4)" style="fill: none; stroke: #1f72ae; stroke-width: 1.2; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_14">
+    <path d="M 45.354331 51.808601 
+L 46.751244 60.515194 
+L 48.148157 67.752437 
+L 49.545071 73.863206 
+L 51.141543 79.77726 
+L 52.738016 84.79791 
+L 54.334488 89.113254 
+L 56.13052 93.296319 
+L 57.926551 96.908268 
+L 59.722583 100.058471 
+L 61.718173 103.117566 
+L 63.913323 106.045575 
+L 66.108472 108.600461 
+L 68.503181 111.040278 
+L 71.097449 113.348782 
+L 73.891276 115.517263 
+L 76.884661 117.542771 
+L 80.077606 119.426576 
+L 83.47011 121.172904 
+L 87.261732 122.87151 
+L 91.452472 124.497078 
+L 96.042331 126.03324 
+L 101.230866 127.523992 
+L 107.018079 128.942546 
+L 113.403969 130.272405 
+L 120.588094 131.537455 
+L 128.770016 132.746951 
+L 138.149291 133.900845 
+L 148.92548 134.99397 
+L 161.298142 136.019246 
+L 175.666394 136.981946 
+L 192.628913 137.888828 
+L 212.784378 138.735143 
+L 236.731465 139.511589 
+L 244.913386 139.733881 
+L 244.913386 139.733881 
+" clip-path="url(#p3ea3c450a4)" style="fill: none; stroke: #f77e12; stroke-width: 1.2; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_15">
+    <path d="M 45.354331 100.738946 
+L 244.913386 100.738946 
+" clip-path="url(#p3ea3c450a4)" style="fill: none; stroke-dasharray: 0.6,0.99; stroke-dashoffset: 0; stroke: #1f72ae; stroke-width: 0.6"/>
+   </g>
+   <g id="line2d_16">
+    <path d="M 45.354331 143.145245 
+L 244.913386 143.145245 
+" clip-path="url(#p3ea3c450a4)" style="fill: none; stroke-dasharray: 0.6,0.99; stroke-dashoffset: 0; stroke: #f77e12; stroke-width: 0.6"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 45.354331 149.669291 
+L 45.354331 22.450394 
+" style="fill: none; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 244.913386 149.669291 
+L 244.913386 22.450394 
+" style="fill: none; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 45.354331 149.669291 
+L 244.913386 149.669291 
+" style="fill: none; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 45.354331 22.450394 
+L 244.913386 22.450394 
+" style="fill: none; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_15">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'; text-anchor: start" x="5.44252" y="15.257146" transform="rotate(-0 5.44252 15.257146)">a</text>
+   </g>
+   <g id="legend_1">
+    <g id="line2d_17">
+     <path d="M 102.348073 30.757571 
+L 108.848073 30.757571 
+L 115.348073 30.757571 
+" style="fill: none; stroke: #1f72ae; stroke-width: 1.2; stroke-linecap: square"/>
+    </g>
+    <g id="text_16">
+     <text style="font-size: 6.5px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'; text-anchor: start" x="120.548073" y="33.032571" transform="rotate(-0 120.548073 33.032571)">diploid: speciation 0.20, extinction 0.10</text>
+    </g>
+    <g id="line2d_18">
+     <path d="M 102.348073 40.107669 
+L 108.848073 40.107669 
+L 115.348073 40.107669 
+" style="fill: none; stroke: #f77e12; stroke-width: 1.2; stroke-linecap: square"/>
+    </g>
+    <g id="text_17">
+     <text style="font-size: 6.5px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'; text-anchor: start" x="120.548073" y="42.382669" transform="rotate(-0 120.548073 42.382669)">polyploid: speciation 0.15, extinction 0.14</text>
+    </g>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_7">
+    <path d="M 270.765354 71.092913 
+L 441.297638 71.092913 
+Q 446.740157 71.092913 446.740157 68.847874 
+L 446.740157 22.824567 
+Q 446.740157 20.579528 441.297638 20.579528 
+L 270.765354 20.579528 
+Q 265.322835 20.579528 265.322835 22.824567 
+L 265.322835 68.847874 
+Q 265.322835 71.092913 270.765354 71.092913 
+z
+" clip-path="url(#p37738b9b9f)" style="fill: #dee4f0; stroke: #333333; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 270.765354 127.218898 
+L 441.297638 127.218898 
+Q 446.740157 127.218898 446.740157 124.973858 
+L 446.740157 78.950551 
+Q 446.740157 76.705512 441.297638 76.705512 
+L 270.765354 76.705512 
+Q 265.322835 76.705512 265.322835 78.950551 
+L 265.322835 124.973858 
+Q 265.322835 127.218898 270.765354 127.218898 
+z
+" clip-path="url(#p37738b9b9f)" style="fill: #f6dede; stroke: #333333; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 270.765354 183.344882 
+L 441.297638 183.344882 
+Q 446.740157 183.344882 446.740157 181.099843 
+L 446.740157 135.076535 
+Q 446.740157 132.831496 441.297638 132.831496 
+L 270.765354 132.831496 
+Q 265.322835 132.831496 265.322835 135.076535 
+L 265.322835 181.099843 
+Q 265.322835 183.344882 270.765354 183.344882 
+z
+" clip-path="url(#p37738b9b9f)" style="fill: #f0f0f0; stroke: #333333; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_18">
+    <text style="font-weight: 700; font-size: 8px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'; text-anchor: start" x="270.765354" y="29.210046" transform="rotate(-0 270.765354 29.210046)">Most new polyploids are lost</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 7px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'" transform="translate(270.765354 42.48728)">With lower speciation and higher</text>
+    <text style="font-size: 7px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'" transform="translate(270.765354 51.027416)">extinction, a new polyploid lineage</text>
+    <text style="font-size: 7px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'" transform="translate(270.765354 59.567553)">usually leaves no living species</text>
+   </g>
+   <g id="text_20">
+    <text style="font-weight: 700; font-size: 8px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'; text-anchor: start" x="270.765354" y="85.33603" transform="rotate(-0 270.765354 85.33603)">A few survive and radiate</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 7px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'" transform="translate(270.765354 98.891623)">Survival is not zero; ancient</text>
+    <text style="font-size: 7px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'" transform="translate(270.765354 107.153401)">duplications in living plants come</text>
+    <text style="font-size: 7px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'" transform="translate(270.765354 116.385334)">from these rare successes</text>
+   </g>
+   <g id="text_22">
+    <text style="font-weight: 700; font-size: 8px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'; text-anchor: start" x="270.765354" y="141.462014" transform="rotate(-0 270.765354 141.462014)">Rates are hard to estimate</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 7px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'" transform="translate(270.765354 154.739248)">Model artefacts, missed cytotypes</text>
+    <text style="font-size: 7px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'" transform="translate(270.765354 163.279385)">and lags after duplication change</text>
+    <text style="font-size: 7px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'" transform="translate(270.765354 172.511319)">the estimated rates</text>
+   </g>
+   <g id="text_24">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'; text-anchor: start" x="260.787402" y="16.604169" transform="rotate(-0 260.787402 16.604169)">b</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p3ea3c450a4">
+   <rect x="45.354331" y="22.450394" width="199.559055" height="127.218898"/>
+  </clipPath>
+  <clipPath id="p37738b9b9f">
+   <rect x="0" y="0" width="453.543307" height="187.086614"/>
+  </clipPath>
+ </defs>
+</svg>
