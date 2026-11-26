@@ -37,6 +37,10 @@ python -B ch13_fisher_geometric_figures.py ../figures/ch13
 python -B ch14_population_structure_figures.py ../figures/ch14
 python -B ch15_c_value_figures.py ../figures/ch15
 python -B ch16_junk_dna_figures.py ../figures/ch16
+python -B ch17_selfish_dna_figures.py ../figures/ch17
+python -B ch18_drift_barrier_figures.py ../figures/ch18
+python -B ch19_duplication_figures.py ../figures/ch19
+python -B ch20_gene_balance_figures.py ../figures/ch20
 ```
 
 Needs Python 3 with numpy and matplotlib (Liberation Sans font recommended). Outputs are PNG and SVG.

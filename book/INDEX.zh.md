@@ -34,13 +34,13 @@
 
 15. [C 值之谜](chapters/15-c-value-enigma.zh.md) — 基因组大小与基因数脱钩已验证；其原因部分验证
 16. [垃圾 DNA 与 ENCODE 之争](chapters/16-junk-dna-encode.zh.md) — 很大的无功能部分已验证；ENCODE 80% 即功能已否定
-17. 自私 DNA 与转座子（待写）
-18. 漂变壁垒与突变危害假说（待写）
+17. [自私 DNA 与转座子](chapters/17-selfish-dna-transposable-elements.zh.md) — 自私扩散已验证；经常起适应作用部分验证
+18. [漂变壁垒与突变危害假说](chapters/18-drift-barrier-mutational-hazard.zh.md) — 漂变壁垒部分验证；突变危害有争议
 
 ## 六、重复、多倍化与剂量
 
-19. 基因重复：Ohno 与亚功能化（待写）
-20. 基因平衡（剂量）假说（待写）
+19. [基因重复：Ohno 与亚功能化](chapters/19-gene-duplication-ohno-subfunctionalization.zh.md) — 多数重复基因丢失、重复产生新基因已验证；亚功能化为主要途径部分验证
+20. [基因平衡（剂量）假说](chapters/20-gene-balance-dosage.zh.md) — 剂量平衡与互补保留已验证；作为一般规律部分验证
 21. 多倍化是进化死胡同吗（待写）
 22. 偏向性分级丢失与亚基因组优势（待写）
 
