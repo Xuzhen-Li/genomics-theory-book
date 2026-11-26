@@ -13,13 +13,13 @@ Each chapter gives a status label (Verified / Partly verified / Contested / Reje
 
 ## II. Genealogies, clocks and recombination
 
-5. The coalescent (to be written)
-6. The molecular clock (to be written)
-7. Recombination landscapes and linkage disequilibrium (to be written)
+5. [The coalescent](chapters/05-coalescent.md) — Verified (mathematical framework)
+6. [The molecular clock](chapters/06-molecular-clock.md) — Partly verified
+7. [Recombination landscapes and linkage disequilibrium](chapters/07-recombination-ld.md) — Verified
 
 ## III. Selection in the genome
 
-8. Linked selection and Lewontin’s paradox (to be written)
+8. [Linked selection and Lewontin’s paradox](chapters/08-linked-selection.md) — Verified (phenomenon); relative roles contested
 9. Hard and soft sweeps (to be written)
 10. Genetic load and the cost of domestication (to be written)
 11. Muller’s ratchet and the advantages of sex (to be written)

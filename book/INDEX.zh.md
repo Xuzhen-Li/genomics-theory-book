@@ -13,13 +13,13 @@
 
 ## 二、谱系、分子钟与重组
 
-5. 溯祖理论（待写）
-6. 分子钟（待写）
-7. 重组景观与连锁不平衡（待写）
+5. [溯祖理论](chapters/05-coalescent.zh.md) — 已验证（数学框架）
+6. [分子钟](chapters/06-molecular-clock.zh.md) — 部分验证
+7. [重组景观与连锁不平衡](chapters/07-recombination-ld.zh.md) — 已验证
 
 ## 三、基因组中的选择
 
-8. 连锁选择与 Lewontin 悖论（待写）
+8. [连锁选择与 Lewontin 悖论](chapters/08-linked-selection.zh.md) — 现象已验证；相对贡献有争议
 9. 硬扫荡与软扫荡（待写）
 10. 遗传负荷与驯化代价（待写）
 11. Muller 棘轮与有性生殖的优势（待写）

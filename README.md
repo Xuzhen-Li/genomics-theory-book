@@ -1,4 +1,4 @@
-# genomics-theory-mining
+# genomics-theory-book
 
 English | [中文](README.zh.md)
 
@@ -15,8 +15,8 @@ Book: [Genomics Theory Book](book/README.md), chapters on classic theories, each
 ## Install
 
 ```bash
-git clone https://github.com/Xuzhen-Li/genomics-theory-mining.git
-cp -R genomics-theory-mining/skills/genomics-theory-mining ~/.cursor/skills/
+git clone https://github.com/Xuzhen-Li/genomics-theory-book.git
+cp -R genomics-theory-book/skills/genomics-theory-mining ~/.cursor/skills/
 ```
 
 MIT. Unpublished genotypes and private coordinates do not belong here.
