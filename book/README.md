@@ -45,6 +45,10 @@ python -B ch21_polyploidy_figures.py ../figures/ch21
 python -B ch22_fractionation_figures.py ../figures/ch22
 python -B ch23_gbgc_figures.py ../figures/ch23
 python -B ch24_codon_usage_figures.py ../figures/ch24
+python -B ch25_centromere_drive_figures.py ../figures/ch25
+python -B ch26_sex_chromosome_figures.py ../figures/ch26
+python -B ch27_dmi_figures.py ../figures/ch27
+python -B ch28_epigenetic_inheritance_figures.py ../figures/ch28
 ```
 
 Needs Python 3 with numpy and matplotlib (Liberation Sans font recommended). Outputs are PNG and SVG.

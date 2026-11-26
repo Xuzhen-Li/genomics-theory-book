@@ -51,10 +51,10 @@ Each chapter gives a status label (Verified / Partly verified / Contested / Reje
 
 ## VIII. Chromosomes, sex and epigenetics
 
-25. Centromere drive (to be written)
-26. Sex chromosomes, Y degeneration and Haldane’s rule (to be written)
-27. Dobzhansky–Muller incompatibilities (to be written)
-28. Transgenerational epigenetic inheritance (to be written)
+25. [Centromere drive](chapters/25-centromere-drive.md) — Partly verified (drive in female meiosis shown in mice and monkeyflowers); as the general cause of rapid centromere evolution contested
+26. [Sex chromosomes, Y degeneration and Haldane’s rule](chapters/26-sex-chromosomes-y-degeneration-haldane.md) — Verified (Y degeneration; Haldane’s rule as a pattern); causes and the dominance explanation partly verified; sexual antagonism as the cause of recombination arrest contested
+27. [Dobzhansky–Muller incompatibilities](chapters/27-dobzhansky-muller-incompatibilities.md) — Verified (as a cause of hybrid sterility and inviability); snowball partly verified; forces behind divergence contested
+28. [Transgenerational epigenetic inheritance](chapters/28-transgenerational-epigenetic-inheritance.md) — Verified (epialleles in plants; small RNAs in nematodes over a few generations); lasting environmental memory and inheritance in mammals contested
 
 ## IX. Genome content and complex traits
 

@@ -51,10 +51,10 @@
 
 ## 八、染色体、性别与表观遗传
 
-25. 着丝粒驱动（待写）
-26. 性染色体、Y 退化与 Haldane 法则（待写）
-27. Dobzhansky–Muller 不亲和（待写）
-28. 跨代表观遗传（待写）
+25. [着丝粒驱动](chapters/25-centromere-drive.zh.md) — 雌性减数分裂中的驱动部分验证（已在小鼠和沟酸浆中证明）；作为着丝粒快速进化的普遍原因有争议
+26. [性染色体、Y 退化与 Haldane 法则](chapters/26-sex-chromosomes-y-degeneration-haldane.zh.md) — Y 退化与作为格局的 Haldane 法则已验证；成因与显性解释部分验证；性拮抗作为重组停止的原因有争议
+27. [Dobzhansky–Muller 不亲和](chapters/27-dobzhansky-muller-incompatibilities.zh.md) — 作为杂种不育和不能存活的原因已验证；雪球效应部分验证；分化背后的力量有争议
+28. [跨代表观遗传](chapters/28-transgenerational-epigenetic-inheritance.zh.md) — 植物表观等位基因与线虫若干代内的小 RNA 遗传已验证；持久的环境记忆和哺乳动物中的遗传有争议
 
 ## 九、基因组内容与复杂性状
 
