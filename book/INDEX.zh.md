@@ -27,13 +27,13 @@
 
 ## 四、适应与群体结构的经典理论
 
-13. Fisher 基本定理与几何模型（待写）
-14. 群体结构：距离隔离与转移平衡（待写）
+13. [Fisher 基本定理与几何模型](chapters/13-fisher-fundamental-theorem-geometric-model.zh.md) — 基本定理已验证；几何模型部分验证
+14. [群体结构：距离隔离与转移平衡](chapters/14-population-structure.zh.md) — 距离隔离已验证；转移平衡有争议
 
 ## 五、基因组大小与非编码 DNA
 
-15. C 值之谜（待写）
-16. 垃圾 DNA 与 ENCODE 之争（待写）
+15. [C 值之谜](chapters/15-c-value-enigma.zh.md) — 基因组大小与基因数脱钩已验证；其原因部分验证
+16. [垃圾 DNA 与 ENCODE 之争](chapters/16-junk-dna-encode.zh.md) — 很大的无功能部分已验证；ENCODE 80% 即功能已否定
 17. 自私 DNA 与转座子（待写）
 18. 漂变壁垒与突变危害假说（待写）
 
