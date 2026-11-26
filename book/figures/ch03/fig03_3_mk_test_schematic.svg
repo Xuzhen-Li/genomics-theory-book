@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="425.19685pt" height="198.425197pt" viewBox="0 0 425.19685 198.425197" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-26T14:48:28.674540</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 198.425197 
+L 425.19685 198.425197 
+L 425.19685 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 17.858268 182.551181 
+L 220.251969 182.551181 
+Q 225.354331 182.551181 225.354331 180.170079 
+L 225.354331 14.286614 
+Q 225.354331 11.905512 220.251969 11.905512 
+L 17.858268 11.905512 
+Q 12.755906 11.905512 12.755906 14.286614 
+L 12.755906 180.170079 
+Q 12.755906 182.551181 17.858268 182.551181 
+z
+" clip-path="url(#p37df661d8f)" style="fill: #f0f0f0; stroke: #333333; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 243.212598 95.244094 
+L 407.338583 95.244094 
+Q 412.440945 95.244094 412.440945 92.862992 
+L 412.440945 14.286614 
+Q 412.440945 11.905512 407.338583 11.905512 
+L 243.212598 11.905512 
+Q 238.110236 11.905512 238.110236 14.286614 
+L 238.110236 92.862992 
+Q 238.110236 95.244094 243.212598 95.244094 
+z
+" clip-path="url(#p37df661d8f)" style="fill: #dee4f0; stroke: #333333; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 243.212598 182.551181 
+L 407.338583 182.551181 
+Q 412.440945 182.551181 412.440945 180.170079 
+L 412.440945 109.530709 
+Q 412.440945 107.149606 407.338583 107.149606 
+L 243.212598 107.149606 
+Q 238.110236 107.149606 238.110236 109.530709 
+L 238.110236 180.170079 
+Q 238.110236 182.551181 243.212598 182.551181 
+z
+" clip-path="url(#p37df661d8f)" style="fill: #f6dede; stroke: #333333; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 21.259843 106.15748 
+L 216.850394 106.15748 
+" clip-path="url(#p37df661d8f)" style="fill: none; stroke: #333333; stroke-width: 0.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 21.259843 70.440945 
+L 216.850394 70.440945 
+" clip-path="url(#p37df661d8f)" style="fill: none; stroke: #333333; stroke-width: 0.5; stroke-linecap: square"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 8px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'; text-anchor: start" x="17.858268" y="20.706109" transform="rotate(-0 17.858268 20.706109)">McDonald-Kreitman table</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'" transform="translate(101.721555 49.450048)">Fixed between</text>
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'" transform="translate(107.552805 57.61289)">species (D)</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'" transform="translate(164.375091 49.450048)">Polymorphic</text>
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'" transform="translate(170.216302 57.61289)">within (P)</text>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'; text-anchor: start" x="25.511811" y="91.232257" transform="rotate(-0 25.511811 91.232257)">Nonsynonymous</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 7.5px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'; text-anchor: middle" x="127.559055" y="91.232257" transform="rotate(-0 127.559055 91.232257)">Dn</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 7.5px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'; text-anchor: middle" x="187.086614" y="91.232257" transform="rotate(-0 187.086614 91.232257)">Pn</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'; text-anchor: start" x="25.511811" y="124.96454" transform="rotate(-0 25.511811 124.96454)">Synonymous</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 7.5px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'; text-anchor: middle" x="127.559055" y="124.96454" transform="rotate(-0 127.559055 124.96454)">Ds</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 7.5px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'; text-anchor: middle" x="187.086614" y="124.96454" transform="rotate(-0 187.086614 124.96454)">Ps</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 7.5px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'; text-anchor: start" x="25.511811" y="164.649579" transform="rotate(-0 25.511811 164.649579)">Neutral expectation: Dn / Ds = Pn / Ps</text>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 8px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'; text-anchor: start" x="243.212598" y="20.706109" transform="rotate(-0 243.212598 20.706109)">Adaptive proportion</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 7px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'" transform="translate(243.212598 34.772508)">alpha = 1 - (Ds x Pn) / (Dn x Ps)</text>
+    <text style="font-size: 7px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'" transform="translate(243.212598 41.502489)"/>
+    <text style="font-size: 7px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'" transform="translate(243.212598 51.852782)">alpha &gt; 0: excess nonsynonymous</text>
+    <text style="font-size: 7px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'" transform="translate(243.212598 61.084715)">fixed differences</text>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 8px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'; text-anchor: start" x="243.212598" y="115.950203" transform="rotate(-0 243.212598 115.950203)">Bias to correct</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 7px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'" transform="translate(243.212598 130.016603)">Slightly deleterious polymorphisms</text>
+    <text style="font-size: 7px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'" transform="translate(243.212598 138.556739)">inflate Pn and push alpha down;</text>
+    <text style="font-size: 7px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'" transform="translate(243.212598 147.096876)">fit the DFE or drop rare variants</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p37df661d8f">
+   <rect x="0" y="0" width="425.19685" height="198.425197"/>
+  </clipPath>
+ </defs>
+</svg>

@@ -10,6 +10,8 @@ Skill: [`skills/genomics-theory-mining/SKILL.md`](skills/genomics-theory-mining/
 Filled notes: one folder per theory under [`skills/genomics-theory-mining/theories/`](skills/genomics-theory-mining/theories/) (each `THEORY.md`). [`SKILL.md`](skills/genomics-theory-mining/SKILL.md) dossier table is the index. Later additions (`reviews/`, `research/`, `scripts/`) go in that theory's folder.
 There are 145 filled theory notes.
 
+Book: [Genomics Theory Book](book/README.md), chapters on classic theories, each with a status label (Verified / Partly verified / Contested / Rejected), checked references and figures. Contents: [book/INDEX.md](book/INDEX.md). Status table: [book/STATUS.md](book/STATUS.md).
+
 ## Install
 
 ```bash
