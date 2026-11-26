@@ -85,7 +85,7 @@ No result has overturned particulate inheritance, but several classes of results
 3. SUTTON WS (1903) THE CHROMOSOMES IN HEREDITY. *The Biological Bulletin* 4:231-250. https://doi.org/10.2307/1535741
 4. Morgan TH (1910) Sex Limited Inheritance in Drosophila. *Science* 32:120-122. https://doi.org/10.1126/science.32.812.120
 5. Sturtevant AH (1913) The linear arrangement of six sex‐linked factors in Drosophila, as shown by their mode of association. *Journal of Experimental Zoology* 14:43-59. https://doi.org/10.1002/jez.1400140104
-6. Fisher RA (1936) Has Mendel's work been rediscovered?. *Annals of Science* 1:115-137. https://doi.org/10.1080/00033793600200111
+6. Fisher RA (1936) Has Mendel's work been rediscovered? *Annals of Science* 1:115-137. https://doi.org/10.1080/00033793600200111
 7. Hartl DL, Fairbanks DJ (2007) Mud Sticks: On the Alleged Falsification of Mendel's Data. *Genetics* 175:975-979. https://doi.org/10.1093/genetics/175.3.975
 8. Pires AM, Branco JA (2010) A Statistical Model to Explain the Mendel–Fisher Controversy. *Statistical Science* 25:545-565. https://doi.org/10.1214/10-sts342
 9. Weeden NF (2016) Are Mendel’s Data Reliable? The Perspective of a Pea Geneticist. *Journal of Heredity* 107:635-646. https://doi.org/10.1093/jhered/esw058
@@ -110,7 +110,7 @@ No result has overturned particulate inheritance, but several classes of results
 28. Kermicle JL (1970) DEPENDENCE OF THE R-MOTTLED ALEURONE PHENOTYPE IN MAIZE ON MODE OF SEXUAL TRANSMISSION. *Genetics* 66:69-85. https://doi.org/10.1093/genetics/66.1.69
 29. Brink RA (1956) A GENETIC CHANGE ASSOCIATED WITH THE R LOCUS IN MAIZE WHICH IS DIRECTED AND POTENTIALLY REVERSIBLE. *Genetics* 41:872-889. https://doi.org/10.1093/genetics/41.6.872
 30. Chandler VL (2007) Paramutation: From Maize to Mice. *Cell* 128:641-645. https://doi.org/10.1016/j.cell.2007.02.007
-31. Hagemann R (2000) Erwin Baur or Carl Correns: who really created the theory of plastid inheritance?. *Journal of Heredity* 91:435-440. https://doi.org/10.1093/jhered/91.6.435
+31. Hagemann R (2000) Erwin Baur or Carl Correns: who really created the theory of plastid inheritance? *Journal of Heredity* 91:435-440. https://doi.org/10.1093/jhered/91.6.435
 32. Haldane JBS (1930) Theoretical genetics of autopolyploids. *Journal of Genetics* 22:359-372. https://doi.org/10.1007/BF02984197
 33. Gerard D (2023) Double Reduction Estimation and Equilibrium Tests in Natural Autopolyploid Populations. *Biometrics* 79:2143-2156. https://doi.org/10.1111/biom.13722
 34. Massonnet M, Cochetel N, Minio A, et al. (2020) The genetic basis of sex determination in grapes. *Nature Communications* 11:2902. https://doi.org/10.1038/s41467-020-16700-z

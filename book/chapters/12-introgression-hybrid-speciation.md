@@ -83,7 +83,7 @@ Genome-wide tests for introgression came from human evolution. The draft Neander
 7. Schumer M, Xu C, Powell DL, et al. (2018) Natural selection interacts with recombination to shape the evolution of hybrid genomes. *Science* 360:656-660. https://doi.org/10.1126/science.aar3684
 8. Kim BY, Huber CD, Lohmueller KE (2018) Deleterious variation shapes the genomic landscape of introgression. *PLOS Genetics* 14:e1007741. https://doi.org/10.1371/journal.pgen.1007741
 9. Calfee E, Gates D, Lorant A, et al. (2021) Selective sorting of ancestral introgression in maize and teosinte along an elevational cline. *PLOS Genetics* 17:e1009810. https://doi.org/10.1371/journal.pgen.1009810
-10. Schumer M, Rosenthal GG, Andolfatto P (2014) HOW COMMON IS HOMOPLOID HYBRID SPECIATION?. *Evolution* 68:1553-1560. https://doi.org/10.1111/evo.12399
+10. Schumer M, Rosenthal GG, Andolfatto P (2014) HOW COMMON IS HOMOPLOID HYBRID SPECIATION? *Evolution* 68:1553-1560. https://doi.org/10.1111/evo.12399
 11. Huerta-Sánchez E, Jin X, Asan, et al. (2014) Altitude adaptation in Tibetans caused by introgression of Denisovan-like DNA. *Nature* 512:194-197. https://doi.org/10.1038/nature13408
 12. The Heliconius Genome Consortium (2012) Butterfly genome reveals promiscuous exchange of mimicry adaptations among species. *Nature* 487:94-98. https://doi.org/10.1038/nature11041
 13. Hedrick PW (2013) Adaptive introgression in animals: examples and comparison to new mutation and standing variation as sources of adaptive variation. *Molecular Ecology* 22:4606-4618. https://doi.org/10.1111/mec.12415

@@ -96,7 +96,7 @@ The principle is not contradicted, but its tests are often misused.
 12. Stoeckel S, Masson JP (2014) The Exact Distributions of FIS under Partial Asexuality in Small Finite Populations with Mutation. *PLoS ONE* 9:e85228. https://doi.org/10.1371/journal.pone.0085228
 13. Balloux F, Lehmann L, de Meeûs T (2003) The Population Genetics of Clonal and Partially Clonal Diploids. *Genetics* 164:1635-1644. https://doi.org/10.1093/genetics/164.4.1635
 14. Salanti G, Amountza G, Ntzani EE, et al. (2005) Hardy–Weinberg equilibrium in genetic association studies: an empirical evaluation of reporting, deviations, and power. *European Journal of Human Genetics* 13:840-848. https://doi.org/10.1038/sj.ejhg.5201410
-15. Waples RS (2015) Testing for Hardy–Weinberg Proportions: Have We Lost the Plot?. *Journal of Heredity* 106:1-19. https://doi.org/10.1093/jhered/esu062
+15. Waples RS (2015) Testing for Hardy–Weinberg Proportions: Have We Lost the Plot? *Journal of Heredity* 106:1-19. https://doi.org/10.1093/jhered/esu062
 16. Abramovs N, Brass A, Tassabehji M (2020) Hardy-Weinberg Equilibrium in the Large Scale Genomic Sequencing Era. *Frontiers in Genetics* 11:210. https://doi.org/10.3389/fgene.2020.00210
 17. McKinney GJ, Waples RK, Seeb LW, et al. (2017) Paralogs are revealed by proportion of heterozygotes and deviations in read ratios in genotyping‐by‐sequencing data from natural populations. *Molecular Ecology Resources* 17:656-669. https://doi.org/10.1111/1755-0998.12613
 18. Gerard D, Ferrão LFV, Garcia AAF, et al. (2018) Genotyping Polyploids from Messy Sequencing Data. *Genetics* 210:789-807. https://doi.org/10.1534/genetics.118.301468
