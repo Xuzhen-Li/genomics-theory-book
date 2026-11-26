@@ -58,9 +58,9 @@ Each chapter gives a status label (Verified / Partly verified / Contested / Reje
 
 ## IX. Genome content and complex traits
 
-29. Pangenomes, organelle-to-nucleus transfer and horizontal gene transfer (to be written)
-30. Missing heritability and the omnigenic model (to be written)
+29. [Pangenomes, organelle-to-nucleus transfer and horizontal gene transfer](chapters/29-pangenomes-organelle-transfer-hgt.md) — Verified (pangenomes; ongoing organelle-to-nucleus transfer; horizontal transfer in prokaryotes); horizontal transfer in plants and animals partly verified; adaptive versus neutral accessory genes contested; extensive transfer into the human and tardigrade genomes rejected
+30. [Missing heritability and the omnigenic model](chapters/30-missing-heritability-omnigenic.md) — Verified (the gap between hits and family heritability; heritability hidden in many small effects); rare variants and inflated family estimates partly verified; omnigenic core–peripheral model contested
 
 ## Appendix
 
-A. Rejected claims and common pitfalls (to be written)
+A. [Rejected claims and common pitfalls](chapters/appendix-a-rejected-claims-pitfalls.md) — six rejected claims, claims kept only in a narrower form, common pitfalls across chapters, glossary and figure index
