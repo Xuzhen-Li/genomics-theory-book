@@ -34,13 +34,13 @@ Each chapter gives a status label (Verified / Partly verified / Contested / Reje
 
 15. [The C-value enigma](chapters/15-c-value-enigma.md) — Verified (genome size decoupled from gene number); causes partly verified
 16. [Junk DNA and the ENCODE debate](chapters/16-junk-dna-encode.md) — Verified (large non-functional fraction); ENCODE 80% as function rejected
-17. Selfish DNA and transposable elements (to be written)
-18. The drift-barrier and mutational-hazard hypotheses (to be written)
+17. [Selfish DNA and transposable elements](chapters/17-selfish-dna-transposable-elements.md) — Verified (selfish spread); regular adaptive role partly verified
+18. [The drift-barrier and mutational-hazard hypotheses](chapters/18-drift-barrier-mutational-hazard.md) — Partly verified (drift barrier); mutational hazard contested
 
 ## VI. Duplication, polyploidy and dosage
 
-19. Gene duplication: Ohno and subfunctionalization (to be written)
-20. The gene balance (dosage) hypothesis (to be written)
+19. [Gene duplication: Ohno and subfunctionalization](chapters/19-gene-duplication-ohno-subfunctionalization.md) — Verified (most duplicates lost; source of new genes); subfunctionalization as main route partly verified
+20. [The gene balance (dosage) hypothesis](chapters/20-gene-balance-dosage.md) — Verified (dosage balance and reciprocal retention); as a general rule partly verified
 21. Is polyploidy an evolutionary dead end? (to be written)
 22. Biased fractionation and subgenome dominance (to be written)
 
