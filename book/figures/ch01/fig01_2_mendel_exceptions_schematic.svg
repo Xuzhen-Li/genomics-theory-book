@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="518.740157pt" height="283.464567pt" viewBox="0 0 518.740157 283.464567" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-26T14:48:22.271817</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 283.464567 
+L 518.740157 283.464567 
+L 518.740157 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 16.599685 65.19685 
+L 247.957795 65.19685 
+Q 254.182677 65.19685 254.182677 61.795276 
+L 254.182677 11.905512 
+Q 254.182677 8.503937 247.957795 8.503937 
+L 16.599685 8.503937 
+Q 10.374803 8.503937 10.374803 11.905512 
+L 10.374803 61.795276 
+Q 10.374803 65.19685 16.599685 65.19685 
+z
+" clip-path="url(#p5af74c14d4)" style="fill: #dee4f0; stroke: #333333; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 270.782362 65.19685 
+L 502.140472 65.19685 
+Q 508.365354 65.19685 508.365354 61.795276 
+L 508.365354 11.905512 
+Q 508.365354 8.503937 502.140472 8.503937 
+L 270.782362 8.503937 
+Q 264.55748 8.503937 264.55748 11.905512 
+L 264.55748 61.795276 
+Q 264.55748 65.19685 270.782362 65.19685 
+z
+" clip-path="url(#p5af74c14d4)" style="fill: #dee4f0; stroke: #333333; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 16.599685 182.834646 
+L 159.771969 182.834646 
+Q 165.99685 182.834646 165.99685 179.433071 
+L 165.99685 101.19685 
+Q 165.99685 97.795276 159.771969 97.795276 
+L 16.599685 97.795276 
+Q 10.374803 97.795276 10.374803 101.19685 
+L 10.374803 179.433071 
+Q 10.374803 182.834646 16.599685 182.834646 
+z
+" clip-path="url(#p5af74c14d4)" style="fill: #f0f0f0; stroke: #333333; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 187.783937 182.834646 
+L 330.95622 182.834646 
+Q 337.181102 182.834646 337.181102 179.433071 
+L 337.181102 101.19685 
+Q 337.181102 97.795276 330.95622 97.795276 
+L 187.783937 97.795276 
+Q 181.559055 97.795276 181.559055 101.19685 
+L 181.559055 179.433071 
+Q 181.559055 182.834646 187.783937 182.834646 
+z
+" clip-path="url(#p5af74c14d4)" style="fill: #f0f0f0; stroke: #333333; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 358.968189 182.834646 
+L 502.140472 182.834646 
+Q 508.365354 182.834646 508.365354 179.433071 
+L 508.365354 101.19685 
+Q 508.365354 97.795276 502.140472 97.795276 
+L 358.968189 97.795276 
+Q 352.743307 97.795276 352.743307 101.19685 
+L 352.743307 179.433071 
+Q 352.743307 182.834646 358.968189 182.834646 
+z
+" clip-path="url(#p5af74c14d4)" style="fill: #f0f0f0; stroke: #333333; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 16.599685 276.377953 
+L 159.771969 276.377953 
+Q 165.99685 276.377953 165.99685 272.976378 
+L 165.99685 194.740157 
+Q 165.99685 191.338583 159.771969 191.338583 
+L 16.599685 191.338583 
+Q 10.374803 191.338583 10.374803 194.740157 
+L 10.374803 272.976378 
+Q 10.374803 276.377953 16.599685 276.377953 
+z
+" clip-path="url(#p5af74c14d4)" style="fill: #f0f0f0; stroke: #333333; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 187.783937 276.377953 
+L 330.95622 276.377953 
+Q 337.181102 276.377953 337.181102 272.976378 
+L 337.181102 194.740157 
+Q 337.181102 191.338583 330.95622 191.338583 
+L 187.783937 191.338583 
+Q 181.559055 191.338583 181.559055 194.740157 
+L 181.559055 272.976378 
+Q 181.559055 276.377953 187.783937 276.377953 
+z
+" clip-path="url(#p5af74c14d4)" style="fill: #f0f0f0; stroke: #333333; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 358.968189 276.377953 
+L 502.140472 276.377953 
+Q 508.365354 276.377953 508.365354 272.976378 
+L 508.365354 194.740157 
+Q 508.365354 191.338583 502.140472 191.338583 
+L 358.968189 191.338583 
+Q 352.743307 191.338583 352.743307 194.740157 
+L 352.743307 272.976378 
+Q 352.743307 276.377953 358.968189 276.377953 
+z
+" clip-path="url(#p5af74c14d4)" style="fill: #f0f0f0; stroke: #333333; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 8px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'; text-anchor: start" x="16.599685" y="18.580124" transform="rotate(-0 16.599685 18.580124)">Law of segregation</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 7px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'" transform="translate(16.599685 38.565264)">Aa gives A and a gametes 1:1</text>
+    <text style="font-size: 7px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'" transform="translate(16.599685 47.793369)">F2 of Aa x Aa: 1 AA : 2 Aa : 1 aa</text>
+    <text style="font-size: 7px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'" transform="translate(16.599685 56.208819)">Test cross Aa x aa: 1 Aa : 1 aa</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 8px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'; text-anchor: start" x="270.782362" y="18.580124" transform="rotate(-0 270.782362 18.580124)">Law of independent assortment</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 7px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'" transform="translate(270.782362 39.257061)">Unlinked loci A and B combine at random</text>
+    <text style="font-size: 7px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'" transform="translate(270.782362 47.704776)">F2: 9 : 3 : 3 : 1</text>
+    <text style="font-size: 7px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'" transform="translate(270.782362 56.208819)">Test cross: 1 : 1 : 1 : 1</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 8px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'; text-anchor: middle" x="259.370079" y="80.942329" transform="rotate(-0 259.370079 80.942329)">Exceptions change the ratios, not the particulate gene</text>
+   </g>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 8px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'; text-anchor: start" x="16.599685" y="107.871463" transform="rotate(-0 16.599685 107.871463)">Linkage</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 7px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'" transform="translate(16.599685 127.856603)">Loci on one chromosome co-segregate;</text>
+    <text style="font-size: 7px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'" transform="translate(16.599685 137.088536)">recombination fraction &lt; 0.5</text>
+    <text style="font-size: 7px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'" transform="translate(16.599685 144.936876)">(Morgan 1910; Sturtevant 1913)</text>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 8px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'; text-anchor: start" x="187.783937" y="107.871463" transform="rotate(-0 187.783937 107.871463)">Segregation distortion</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 7px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'" transform="translate(187.783937 127.856603)">Drive or killer-protector systems;</text>
+    <text style="font-size: 7px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'" transform="translate(187.783937 136.396739)">rice S5 locus in indica x japonica</text>
+    <text style="font-size: 7px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'" transform="translate(187.783937 144.936876)">(Sandler &amp; Novitski 1957; Yang 2012)</text>
+   </g>
+   <g id="text_10">
+    <text style="font-weight: 700; font-size: 8px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'; text-anchor: start" x="358.968189" y="107.871463" transform="rotate(-0 358.968189 107.871463)">Parent-of-origin effects</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 7px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'" transform="translate(358.968189 127.856603)">Expression depends on the parent</text>
+    <text style="font-size: 7px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'" transform="translate(358.968189 136.675099)">that transmitted the allele;</text>
+    <text style="font-size: 7px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'" transform="translate(358.968189 144.938517)">maize R-mottled (Kermicle 1970)</text>
+   </g>
+   <g id="text_12">
+    <text style="font-weight: 700; font-size: 8px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'; text-anchor: start" x="16.599685" y="201.41477" transform="rotate(-0 16.599685 201.41477)">Paramutation</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 7px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'" transform="translate(16.599685 221.39991)">One allele changes the heritable</text>
+    <text style="font-size: 7px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'" transform="translate(16.599685 230.218406)">state of the other; maize b1, R</text>
+    <text style="font-size: 7px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'" transform="translate(16.599685 238.481824)">(Brink 1956; Chandler 2007)</text>
+   </g>
+   <g id="text_14">
+    <text style="font-weight: 700; font-size: 8px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'; text-anchor: start" x="187.783937" y="201.41477" transform="rotate(-0 187.783937 201.41477)">Organelle inheritance</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 7px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'" transform="translate(187.783937 222.091707)">Plastids and mitochondria sort out</text>
+    <text style="font-size: 7px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'" transform="translate(187.783937 230.631843)">without Mendelian ratios</text>
+    <text style="font-size: 7px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'" transform="translate(187.783937 238.480183)">(Baur; Hagemann 2000)</text>
+   </g>
+   <g id="text_16">
+    <text style="font-weight: 700; font-size: 8px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'; text-anchor: start" x="358.968189" y="201.41477" transform="rotate(-0 358.968189 201.41477)">Polysomic segregation</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 7px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'" transform="translate(358.968189 221.39991)">Autotetraploid AAaa gametes</text>
+    <text style="font-size: 7px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'" transform="translate(358.968189 229.940046)">AA : Aa : aa = 1 : 4 : 1, plus</text>
+    <text style="font-size: 7px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'" transform="translate(358.968189 238.481824)">double reduction (Haldane 1930)</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p5af74c14d4">
+   <rect x="0" y="0" width="518.740157" height="283.464567"/>
+  </clipPath>
+ </defs>
+</svg>

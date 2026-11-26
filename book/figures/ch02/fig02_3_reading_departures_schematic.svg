@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="518.740157pt" height="226.771654pt" viewBox="0 0 518.740157 226.771654" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-26T14:48:23.937968</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 226.771654 
+L 518.740157 226.771654 
+L 518.740157 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 161.846929 49.889764 
+L 356.893228 49.889764 
+Q 363.11811 49.889764 363.11811 47.168504 
+L 363.11811 9.524409 
+Q 363.11811 6.80315 356.893228 6.80315 
+L 161.846929 6.80315 
+Q 155.622047 6.80315 155.622047 9.524409 
+L 155.622047 47.168504 
+Q 155.622047 49.889764 161.846929 49.889764 
+z
+" clip-path="url(#p0aa98e23be)" style="fill: #f0f0f0; stroke: #333333; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 16.599685 158.740157 
+L 159.771969 158.740157 
+Q 165.99685 158.740157 165.99685 156.018898 
+L 165.99685 70.752756 
+Q 165.99685 68.031496 159.771969 68.031496 
+L 16.599685 68.031496 
+Q 10.374803 68.031496 10.374803 70.752756 
+L 10.374803 156.018898 
+Q 10.374803 158.740157 16.599685 158.740157 
+z
+" clip-path="url(#p0aa98e23be)" style="fill: #dee4f0; stroke: #333333; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 187.783937 158.740157 
+L 330.95622 158.740157 
+Q 337.181102 158.740157 337.181102 156.018898 
+L 337.181102 70.752756 
+Q 337.181102 68.031496 330.95622 68.031496 
+L 187.783937 68.031496 
+Q 181.559055 68.031496 181.559055 70.752756 
+L 181.559055 156.018898 
+Q 181.559055 158.740157 187.783937 158.740157 
+z
+" clip-path="url(#p0aa98e23be)" style="fill: #f6dede; stroke: #333333; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 358.968189 158.740157 
+L 502.140472 158.740157 
+Q 508.365354 158.740157 508.365354 156.018898 
+L 508.365354 70.752756 
+Q 508.365354 68.031496 502.140472 68.031496 
+L 358.968189 68.031496 
+Q 352.743307 68.031496 352.743307 70.752756 
+L 352.743307 156.018898 
+Q 352.743307 158.740157 358.968189 158.740157 
+z
+" clip-path="url(#p0aa98e23be)" style="fill: #f0f0f0; stroke: #333333; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 16.599685 219.968504 
+L 502.140472 219.968504 
+Q 508.365354 219.968504 508.365354 217.247244 
+L 508.365354 175.067717 
+Q 508.365354 172.346457 502.140472 172.346457 
+L 16.599685 172.346457 
+Q 10.374803 172.346457 10.374803 175.067717 
+L 10.374803 217.247244 
+Q 10.374803 219.968504 16.599685 219.968504 
+z
+" clip-path="url(#p0aa98e23be)" style="fill: #ffffff; stroke: #333333; stroke-width: 0.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 8px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'; text-anchor: start" x="161.846929" y="16.028943" transform="rotate(-0 161.846929 16.028943)">Locus departs from HWE</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 7px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'; text-anchor: start" x="161.846929" y="32.068256" transform="rotate(-0 161.846929 32.068256)">First check: exact test, multiple testing, power</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 8px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'; text-anchor: start" x="16.599685" y="77.25729" transform="rotate(-0 16.599685 77.25729)">Heterozygote deficit (F &gt; 0)</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 7px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'" transform="translate(16.599685 93.296603)">Many loci: selfing, inbreeding,</text>
+    <text style="font-size: 7px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'" transform="translate(16.599685 101.83838)">or Wahlund effect (structure)</text>
+    <text style="font-size: 7px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'" transform="translate(16.599685 110.376876)">Few loci: null alleles, allele dropout,</text>
+    <text style="font-size: 7px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'" transform="translate(16.599685 118.917013)">low depth, selection</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 8px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'; text-anchor: start" x="187.783937" y="77.25729" transform="rotate(-0 187.783937 77.25729)">Heterozygote excess (F &lt; 0)</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 7px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'" transform="translate(187.783937 93.296603)">Many loci: clonality, small number</text>
+    <text style="font-size: 7px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'" transform="translate(187.783937 101.836739)">of parents, outbreeding</text>
+    <text style="font-size: 7px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'" transform="translate(187.783937 110.376876)">Few loci: collapsed paralogs,</text>
+    <text style="font-size: 7px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'" transform="translate(187.783937 118.917013)">heterozygote advantage</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 8px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'; text-anchor: start" x="358.968189" y="77.25729" transform="rotate(-0 358.968189 77.25729)">Sex- or ploidy-specific</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 7px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'" transform="translate(358.968189 93.988399)">X-linked: use males as well</text>
+    <text style="font-size: 7px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'" transform="translate(358.968189 101.836739)">Polyploids: model dosage and</text>
+    <text style="font-size: 7px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'" transform="translate(358.968189 111.068673)">double reduction</text>
+    <text style="font-size: 7px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'" transform="translate(358.968189 118.917013)">Haplodiploids: separate sexes</text>
+   </g>
+   <g id="text_9">
+    <text style="font-weight: 700; font-size: 8px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'; text-anchor: start" x="16.599685" y="181.57225" transform="rotate(-0 16.599685 181.57225)">Technical checks before biology</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 7px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'" transform="translate(16.599685 197.611563)">Does F track read depth or missingness?   Are heterozygote read ratios far from 0.5?</text>
+    <text style="font-size: 7px; font-family: 'Liberation Sans', 'Noto Sans CJK SC'" transform="translate(16.599685 206.1517)">Are clones, synonyms or relatives in the sample?   Does the pattern hold within each genetic cluster?</text>
+   </g>
+   <g id="patch_7">
+    <path d="M 259.370079 49.889764 
+Q 173.777953 58.393701 88.853361 66.831316 
+" style="fill: none; stroke: #333333; stroke-width: 0.6; stroke-linecap: round"/>
+    <path d="M 91.778057 67.947628 
+L 88.853361 66.831316 
+L 91.501228 65.161346 
+z
+" style="fill: #333333; stroke: #333333; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 259.370079 49.889764 
+Q 259.370079 58.393701 259.370079 66.226817 
+" style="fill: none; stroke: #333333; stroke-width: 0.6; stroke-linecap: round"/>
+    <path d="M 260.770079 63.426817 
+L 259.370079 66.226817 
+L 257.970079 63.426817 
+z
+" style="fill: #333333; stroke: #333333; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 259.370079 49.889764 
+Q 344.962205 58.393701 429.886797 66.831316 
+" style="fill: none; stroke: #333333; stroke-width: 0.6; stroke-linecap: round"/>
+    <path d="M 427.23893 65.161346 
+L 429.886797 66.831316 
+L 426.962101 67.947628 
+z
+" style="fill: #333333; stroke: #333333; stroke-width: 0.6; stroke-linecap: round"/>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p0aa98e23be">
+   <rect x="0" y="0" width="518.740157" height="226.771654"/>
+  </clipPath>
+ </defs>
+</svg>

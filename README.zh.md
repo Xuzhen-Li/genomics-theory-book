@@ -9,6 +9,8 @@ Skill: [`skills/genomics-theory-mining/SKILL.md`](skills/genomics-theory-mining/
 已填写的笔记：[`skills/genomics-theory-mining/theories/`](skills/genomics-theory-mining/theories/) 目录下每个理论对应一个文件夹（包含 `THEORY.md`）。[`SKILL.md`](skills/genomics-theory-mining/SKILL.md) 档案表作为索引。后续添加的内容（`reviews/`，`research/`，`scripts/`）放在该理论的文件夹中。
 共有 145 个已填写的理论笔记。
 
+书：[Genomics Theory Book](book/README.zh.md)，逐章讲经典理论，每章有地位标签（已验证 / 部分验证 / 有争议 / 被否定）、核对过的参考文献和图。目录：[book/INDEX.zh.md](book/INDEX.zh.md)。地位总表：[book/STATUS.zh.md](book/STATUS.zh.md)。
+
 ## 安装
 
 ```bash
