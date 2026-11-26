@@ -14,10 +14,10 @@ Labels: **Verified** = core predictions hold repeatedly across data types; **Par
 | 06 | [The molecular clock](chapters/06-molecular-clock.md) | **Partly verified** | Divergence grows with time and relaxed-clock dating works; the strict clock fails, with rates varying by lineage, life history and timescale. | 31 | 1 / 1 |
 | 07 | [Recombination landscapes and linkage disequilibrium](chapters/07-recombination-ld.md) | **Verified** | LD decays with 4Nc as predicted; LD maps agree with pedigree maps at broad scales; hotspots (PRDM9 in mammals, promoters in plants) are established. | 29 | 1 / 1 |
 | 08 | [Linked selection and Lewontin’s paradox](chapters/08-linked-selection.md) | **Verified (phenomenon); Contested (relative roles, Lewontin’s paradox)** | Diversity tracks recombination in many taxa and BGS models fit human data; the share of sweeps and whether linked selection explains Lewontin’s paradox are disputed. | 27 | 1 / 1 |
-| 09 | Hard and soft sweeps | to be written | | | |
-| 10 | Genetic load and the cost of domestication | to be written | | | |
-| 11 | Muller’s ratchet and the advantages of sex | to be written | | | |
-| 12 | Introgression and hybrid speciation | to be written | | | |
+| 09 | [Hard and soft sweeps](chapters/09-hard-soft-sweeps.md) | **Verified (sweeps occur); Contested (hard versus soft frequency)** | Sweep footprints are confirmed at loci with functional evidence such as LCT and tb1; whether soft sweeps dominate adaptation depends on demographic models and is disputed. | 29 | 1 / 1 |
+| 10 | [Genetic load and the cost of domestication](chapters/10-genetic-load-domestication.md) | **Partly verified** | Mutation load, inbreeding depression and purging are established; a higher deleterious burden after domestication is found in rice, cassava, sunflower, maize and grapevine but not in soybean, and counts are not fitness. | 31 | 1 / 1 |
+| 11 | [Muller’s ratchet and the advantages of sex](chapters/11-muller-ratchet-sex.md) | **Verified (ratchet in non-recombining genomes); Partly verified (advantages of sex)** | The ratchet is shown in experiments and neo-Y chromosomes, with faster deleterious change in many asexual lineages but not all; which advantage maintains sex in nature is unsettled. | 33 | 1 / 1 |
+| 12 | [Introgression and hybrid speciation](chapters/12-introgression-hybrid-speciation.md) | **Verified (introgression); Partly verified (homoploid hybrid speciation)** | Gene flow between species and adaptive introgression are well supported; hybrid speciation without polyploidy meets strict criteria in only a few systems. | 25 | 1 / 1 |
 | 13 | Fisher’s fundamental theorem and geometric model | to be written | | | |
 | 14 | Population structure: isolation by distance and shifting balance | to be written | | | |
 | 15 | The C-value enigma | to be written | | | |

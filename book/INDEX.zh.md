@@ -20,10 +20,10 @@
 ## 三、基因组中的选择
 
 8. [连锁选择与 Lewontin 悖论](chapters/08-linked-selection.zh.md) — 现象已验证；相对贡献有争议
-9. 硬扫荡与软扫荡（待写）
-10. 遗传负荷与驯化代价（待写）
-11. Muller 棘轮与有性生殖的优势（待写）
-12. 渐渗与杂交物种形成（待写）
+9. [硬扫荡与软扫荡](chapters/09-hard-soft-sweeps.zh.md) — 清除已验证；硬扫荡与软扫荡的比例有争议
+10. [遗传负荷与驯化代价](chapters/10-genetic-load-domestication.zh.md) — 部分验证
+11. [Muller 棘轮与有性生殖的优势](chapters/11-muller-ratchet-sex.zh.md) — 棘轮在不重组基因组中已验证；有性生殖的优势部分验证
+12. [渐渗与杂交物种形成](chapters/12-introgression-hybrid-speciation.zh.md) — 渐渗已验证；同倍体杂交物种形成部分验证
 
 ## 四、适应与群体结构的经典理论
 

@@ -29,6 +29,10 @@ python -B ch05_coalescent_figures.py ../figures/ch05
 python -B ch06_molecular_clock_figures.py ../figures/ch06
 python -B ch07_recombination_ld_figures.py ../figures/ch07
 python -B ch08_linked_selection_figures.py ../figures/ch08
+python -B ch09_sweeps_figures.py ../figures/ch09
+python -B ch10_genetic_load_figures.py ../figures/ch10
+python -B ch11_muller_ratchet_figures.py ../figures/ch11
+python -B ch12_introgression_figures.py ../figures/ch12
 ```
 
 Needs Python 3 with numpy and matplotlib (Liberation Sans font recommended). Outputs are PNG and SVG.
