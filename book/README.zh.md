@@ -33,6 +33,10 @@ python -B ch09_sweeps_figures.py ../figures/ch09
 python -B ch10_genetic_load_figures.py ../figures/ch10
 python -B ch11_muller_ratchet_figures.py ../figures/ch11
 python -B ch12_introgression_figures.py ../figures/ch12
+python -B ch13_fisher_geometric_figures.py ../figures/ch13
+python -B ch14_population_structure_figures.py ../figures/ch14
+python -B ch15_c_value_figures.py ../figures/ch15
+python -B ch16_junk_dna_figures.py ../figures/ch16
 ```
 
 需要 Python 3、numpy 和 matplotlib（建议安装 Liberation Sans 字体），输出 PNG 和 SVG。

@@ -27,13 +27,13 @@ Each chapter gives a status label (Verified / Partly verified / Contested / Reje
 
 ## IV. Classical theory of adaptation and structure
 
-13. Fisher’s fundamental theorem and geometric model (to be written)
-14. Population structure: isolation by distance and shifting balance (to be written)
+13. [Fisher’s fundamental theorem and geometric model](chapters/13-fisher-fundamental-theorem-geometric-model.md) — Verified (fundamental theorem); geometric model partly verified
+14. [Population structure: isolation by distance and shifting balance](chapters/14-population-structure.md) — Verified (isolation by distance); shifting balance contested
 
 ## V. Genome size and non-coding DNA
 
-15. The C-value enigma (to be written)
-16. Junk DNA and the ENCODE debate (to be written)
+15. [The C-value enigma](chapters/15-c-value-enigma.md) — Verified (genome size decoupled from gene number); causes partly verified
+16. [Junk DNA and the ENCODE debate](chapters/16-junk-dna-encode.md) — Verified (large non-functional fraction); ENCODE 80% as function rejected
 17. Selfish DNA and transposable elements (to be written)
 18. The drift-barrier and mutational-hazard hypotheses (to be written)
 
