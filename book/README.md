@@ -49,6 +49,9 @@ python -B ch25_centromere_drive_figures.py ../figures/ch25
 python -B ch26_sex_chromosome_figures.py ../figures/ch26
 python -B ch27_dmi_figures.py ../figures/ch27
 python -B ch28_epigenetic_inheritance_figures.py ../figures/ch28
+python -B ch29_pangenome_figures.py ../figures/ch29
+python -B ch30_missing_heritability_figures.py ../figures/ch30
+python -B appA_status_figures.py ../figures/appA
 ```
 
 Needs Python 3 with numpy and matplotlib (Liberation Sans font recommended). Outputs are PNG and SVG.
