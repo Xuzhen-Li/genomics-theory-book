@@ -1,4 +1,4 @@
-# genomics-theory-mining
+# genomics-theory-book
 
 [English](README.md) | 中文
 
@@ -14,8 +14,8 @@ Skill: [`skills/genomics-theory-mining/SKILL.md`](skills/genomics-theory-mining/
 ## 安装
 
 ```bash
-git clone https://github.com/Xuzhen-Li/genomics-theory-mining.git
-cp -R genomics-theory-mining/skills/genomics-theory-mining ~/.cursor/skills/
+git clone https://github.com/Xuzhen-Li/genomics-theory-book.git
+cp -R genomics-theory-book/skills/genomics-theory-mining ~/.cursor/skills/
 ```
 
 MIT。未发表的基因型和私有坐标不属于此处。

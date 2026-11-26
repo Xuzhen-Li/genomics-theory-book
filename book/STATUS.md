@@ -10,10 +10,10 @@ Labels: **Verified** = core predictions hold repeatedly across data types; **Par
 | 02 | [The Hardy–Weinberg principle](chapters/02-hardy-weinberg.md) | **Verified (null model)** | The derivation is exact; departures are expected and diagnose selfing, structure, clonality, selection or genotyping error. | 29 | 1 / 2 |
 | 03 | [The neutral theory of molecular evolution](chapters/03-neutral-theory.md) | **Partly verified** | Constraint and the rarity of advantageous mutations hold; the share of adaptive substitution varies widely among species and is disputed. | 29 | 1 / 2 |
 | 04 | [The nearly neutral theory](chapters/04-nearly-neutral-theory.md) | **Partly verified** | Selection efficacy rises with Ne across mammals, animals, plants and mating systems; quantitative predictions depend on the DFE shape. | 31 | 1 / 1 |
-| 05 | The coalescent | to be written | | | |
-| 06 | The molecular clock | to be written | | | |
-| 07 | Recombination landscapes and linkage disequilibrium | to be written | | | |
-| 08 | Linked selection and Lewontin’s paradox | to be written | | | |
+| 05 | [The coalescent](chapters/05-coalescent.md) | **Verified (mathematical framework)** | Exact large-population limit of standard models, confirmed by simulation; structure, linked selection, skewed offspring and clonality make inferred histories model-dependent. | 27 | 1 / 2 |
+| 06 | [The molecular clock](chapters/06-molecular-clock.md) | **Partly verified** | Divergence grows with time and relaxed-clock dating works; the strict clock fails, with rates varying by lineage, life history and timescale. | 31 | 1 / 1 |
+| 07 | [Recombination landscapes and linkage disequilibrium](chapters/07-recombination-ld.md) | **Verified** | LD decays with 4Nc as predicted; LD maps agree with pedigree maps at broad scales; hotspots (PRDM9 in mammals, promoters in plants) are established. | 29 | 1 / 1 |
+| 08 | [Linked selection and Lewontin’s paradox](chapters/08-linked-selection.md) | **Verified (phenomenon); Contested (relative roles, Lewontin’s paradox)** | Diversity tracks recombination in many taxa and BGS models fit human data; the share of sweeps and whether linked selection explains Lewontin’s paradox are disputed. | 27 | 1 / 1 |
 | 09 | Hard and soft sweeps | to be written | | | |
 | 10 | Genetic load and the cost of domestication | to be written | | | |
 | 11 | Muller’s ratchet and the advantages of sex | to be written | | | |

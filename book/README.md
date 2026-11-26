@@ -25,6 +25,10 @@ python -B ch01_mendel_figures.py ../figures/ch01
 python -B ch02_hwe_figures.py ../figures/ch02
 python -B ch03_neutral_figures.py ../figures/ch03
 python -B ch04_nearly_neutral_figures.py ../figures/ch04
+python -B ch05_coalescent_figures.py ../figures/ch05
+python -B ch06_molecular_clock_figures.py ../figures/ch06
+python -B ch07_recombination_ld_figures.py ../figures/ch07
+python -B ch08_linked_selection_figures.py ../figures/ch08
 ```
 
 Needs Python 3 with numpy and matplotlib (Liberation Sans font recommended). Outputs are PNG and SVG.
