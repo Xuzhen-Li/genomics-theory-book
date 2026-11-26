@@ -41,13 +41,13 @@
 
 19. [基因重复：Ohno 与亚功能化](chapters/19-gene-duplication-ohno-subfunctionalization.zh.md) — 多数重复基因丢失、重复产生新基因已验证；亚功能化为主要途径部分验证
 20. [基因平衡（剂量）假说](chapters/20-gene-balance-dosage.zh.md) — 剂量平衡与互补保留已验证；作为一般规律部分验证
-21. 多倍化是进化死胡同吗（待写）
-22. 偏向性分级丢失与亚基因组优势（待写）
+21. [多倍化是进化死胡同吗](chapters/21-polyploidy-dead-end.zh.md) — 新近多倍体分化较慢部分验证；长期死胡同有争议
+22. [偏向性分级丢失与亚基因组优势](chapters/22-biased-fractionation-subgenome-dominance.zh.md) — 许多异源多倍化之后已验证；成因部分验证
 
 ## 七、碱基组成与密码子
 
-23. GC 偏向基因转换（待写）
-24. 密码子使用偏好（待写）
+23. [GC 偏向基因转换](chapters/23-gc-biased-gene-conversion.zh.md) — 哺乳动物和鸟类中已验证；作为真核生物和植物中普遍的力量部分验证
+24. [密码子使用偏好](chapters/24-codon-usage-bias.zh.md) — 选择–突变–漂变平衡与大群体中的翻译选择已验证；在植物中为主要力量部分验证
 
 ## 八、染色体、性别与表观遗传
 

@@ -41,6 +41,10 @@ python -B ch17_selfish_dna_figures.py ../figures/ch17
 python -B ch18_drift_barrier_figures.py ../figures/ch18
 python -B ch19_duplication_figures.py ../figures/ch19
 python -B ch20_gene_balance_figures.py ../figures/ch20
+python -B ch21_polyploidy_figures.py ../figures/ch21
+python -B ch22_fractionation_figures.py ../figures/ch22
+python -B ch23_gbgc_figures.py ../figures/ch23
+python -B ch24_codon_usage_figures.py ../figures/ch24
 ```
 
 Needs Python 3 with numpy and matplotlib (Liberation Sans font recommended). Outputs are PNG and SVG.
