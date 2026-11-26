@@ -96,8 +96,8 @@ The theory does not claim that most mutations are neutral. It claims that most n
 16. Galtier N (2016) Adaptive Protein Evolution in Animals and the Effective Population Size Hypothesis. *PLOS Genetics* 12:e1005774. https://doi.org/10.1371/journal.pgen.1005774
 17. Nei M, Suzuki Y, Nozawa M (2010) The Neutral Theory of Molecular Evolution in the Genomic Era. *Annual Review of Genomics and Human Genetics* 11:265-289. https://doi.org/10.1146/annurev-genom-082908-150129
 18. Smith NGC, Eyre-Walker A (2002) Adaptive protein evolution in Drosophila. *Nature* 415:1022-1024. https://doi.org/10.1038/4151022a
-19. Sella G, Petrov DA, Przeworski M, et al. (2009) Pervasive Natural Selection in the Drosophila Genome?. *PLoS Genetics* 5:e1000495. https://doi.org/10.1371/journal.pgen.1000495
-20. Leffler EM, Bullaughey K, Matute DR, et al. (2012) Revisiting an Old Riddle: What Determines Genetic Diversity Levels within Species?. *PLoS Biology* 10:e1001388. https://doi.org/10.1371/journal.pbio.1001388
+19. Sella G, Petrov DA, Przeworski M, et al. (2009) Pervasive Natural Selection in the Drosophila Genome? *PLoS Genetics* 5:e1000495. https://doi.org/10.1371/journal.pgen.1000495
+20. Leffler EM, Bullaughey K, Matute DR, et al. (2012) Revisiting an Old Riddle: What Determines Genetic Diversity Levels within Species? *PLoS Biology* 10:e1001388. https://doi.org/10.1371/journal.pbio.1001388
 21. Romiguier J, Gayral P, Ballenghien M, et al. (2014) Comparative population genomics in animals uncovers the determinants of genetic diversity. *Nature* 515:261-263. https://doi.org/10.1038/nature13685
 22. Hahn MW (2008) TOWARD A SELECTION THEORY OF MOLECULAR EVOLUTION. *Evolution* 62:255-265. https://doi.org/10.1111/j.1558-5646.2007.00308.x
 23. Moutinho AF, Bataillon T, Dutheil JY (2020) Variation of the adaptive substitution rate between species and within genomes. *Evolutionary Ecology* 34:315-338. https://doi.org/10.1007/s10682-019-10026-z

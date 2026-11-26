@@ -84,7 +84,7 @@ Maynard Smith 和 Haigh 表明，当一个有利替代发生时，连锁中性�
 8. Begun DJ, Aquadro CF (1992) Levels of naturally occurring DNA polymorphism correlate with recombination rates in D. melanogaster. *Nature* 356:519-520. https://doi.org/10.1038/356519a0
 9. Comeron JM (2014) Background Selection as Baseline for Nucleotide Variation across the Drosophila Genome. *PLoS Genetics* 10:e1004434. https://doi.org/10.1371/journal.pgen.1004434
 10. Elyashiv E, Sattath S, Hu TT, et al. (2016) A Genomic Map of the Effects of Linked Selection in Drosophila. *PLOS Genetics* 12:e1006130. https://doi.org/10.1371/journal.pgen.1006130
-11. Sella G, Petrov DA, Przeworski M, et al. (2009) Pervasive Natural Selection in the Drosophila Genome?. *PLoS Genetics* 5:e1000495. https://doi.org/10.1371/journal.pgen.1000495
+11. Sella G, Petrov DA, Przeworski M, et al. (2009) Pervasive Natural Selection in the Drosophila Genome? *PLoS Genetics* 5:e1000495. https://doi.org/10.1371/journal.pgen.1000495
 12. McVicker G, Gordon D, Davis C, et al. (2009) Widespread Genomic Signatures of Natural Selection in Hominid Evolution. *PLoS Genetics* 5:e1000471. https://doi.org/10.1371/journal.pgen.1000471
 13. Murphy DA, Elyashiv E, Amster G, et al. (2023) Broad-scale variation in human genetic diversity levels is predicted by purifying selection on coding and non-coding elements. *eLife* 12:e76065. https://doi.org/10.7554/eLife.76065
 14. Pouyet F, Aeschbacher S, Thiéry A, et al. (2018) Background selection and biased gene conversion affect more than 95% of the human genome and bias demographic inferences. *eLife* 7:e36317. https://doi.org/10.7554/eLife.36317
@@ -92,7 +92,7 @@ Maynard Smith 和 Haigh 表明，当一个有利替代发生时，连锁中性�
 16. Burri R, Nater A, Kawakami T, et al. (2015) Linked selection and recombination rate variation drive the evolution of the genomic landscape of differentiation across the speciation continuum of Ficedula flycatchers. *Genome Research* 25:1656-1665. https://doi.org/10.1101/gr.196485.115
 17. Burri R (2017) Interpreting differentiation landscapes in the light of long-term linked selection. *Evolution Letters* 1:118-131. https://doi.org/10.1002/evl3.14
 18. Buffalo V (2021) Quantifying the relationship between genetic diversity and population size suggests natural selection cannot explain Lewontin’s Paradox. *eLife* 10:e67509. https://doi.org/10.7554/eLife.67509
-19. Charlesworth B, Jensen JD (2022) How Can We Resolve Lewontin’s Paradox?. *Genome Biology and Evolution* 14:evac096. https://doi.org/10.1093/gbe/evac096
+19. Charlesworth B, Jensen JD (2022) How Can We Resolve Lewontin’s Paradox? *Genome Biology and Evolution* 14:evac096. https://doi.org/10.1093/gbe/evac096
 20. Filatov DA (2019) Extreme Lewontin’s Paradox in Ubiquitous Marine Phytoplankton Species. *Molecular Biology and Evolution* 36:4-14. https://doi.org/10.1093/molbev/msy195
 21. Stephan W (2010) Genetic hitchhiking versus background selection: the controversy and its implications. *Philosophical Transactions of the Royal Society B: Biological Sciences* 365:1245-1253. https://doi.org/10.1098/rstb.2009.0278
 22. Charlesworth B, Jensen JD (2021) Effects of Selection at Linked Sites on Patterns of Genetic Variability. *Annual Review of Ecology, Evolution, and Systematics* 52:177-197. https://doi.org/10.1146/annurev-ecolsys-010621-044528

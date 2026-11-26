@@ -85,7 +85,7 @@ Maynard Smith 和 Haigh 表明，当一个有利替代发生时，连锁中性�
 10. Pennings PS, Hermisson J (2006) Soft Sweeps II—Molecular Population Genetics of Adaptation from Recurrent Mutation or Migration. *Molecular Biology and Evolution* 23:1076-1084. https://doi.org/10.1093/molbev/msj117
 11. Przeworski M, Coop G, Wall JD (2005) THE SIGNATURE OF POSITIVE SELECTION ON STANDING GENETIC VARIATION. *Evolution* 59:2312-2323. https://doi.org/10.1111/j.0014-3820.2005.tb00941.x
 12. Garud NR, Messer PW, Buzbas EO, et al. (2015) Recent Selective Sweeps in North American Drosophila melanogaster Show Signatures of Soft Sweeps. *PLOS Genetics* 11:e1005004. https://doi.org/10.1371/journal.pgen.1005004
-13. Teshima KM, Coop G, Przeworski M (2006) How reliable are empirical genomic scans for selective sweeps?. *Genome Research* 16:702-712. https://doi.org/10.1101/gr.5105206
+13. Teshima KM, Coop G, Przeworski M (2006) How reliable are empirical genomic scans for selective sweeps? *Genome Research* 16:702-712. https://doi.org/10.1101/gr.5105206
 14. Tishkoff SA, Reed FA, Ranciaro A, et al. (2007) Convergent adaptation of human lactase persistence in Africa and Europe. *Nature Genetics* 39:31-40. https://doi.org/10.1038/ng1946
 15. Karasov T, Messer PW, Petrov DA (2010) Evidence that Adaptation in Drosophila Is Not Limited by Mutation at Single Sites. *PLoS Genetics* 6:e1000924. https://doi.org/10.1371/journal.pgen.1000924
 16. Schrider DR, Kern AD (2016) S/HIC: Robust Identification of Soft and Hard Sweeps Using Machine Learning. *PLOS Genetics* 12:e1005928. https://doi.org/10.1371/journal.pgen.1005928

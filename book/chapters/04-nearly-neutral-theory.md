@@ -90,7 +90,7 @@ Lynch and Conery extended the logic from single mutations to genome architecture
 14. Arunkumar R, Ness RW, Wright SI, et al. (2015) The Evolution of Selfing Is Accompanied by Reduced Efficacy of Selection and Purging of Deleterious Mutations. *Genetics* 199:817-829. https://doi.org/10.1534/genetics.114.172809
 15. Slotte T, Hazzouri KM, Ågren JA, et al. (2013) The Capsella rubella genome and the genomic consequences of rapid mating system evolution. *Nature Genetics* 45:831-835. https://doi.org/10.1038/ng.2669
 16. Wright SI, Andolfatto P (2008) The Impact of Natural Selection on the Genome: Emerging Patterns in Drosophila and Arabidopsis. *Annual Review of Ecology, Evolution, and Systematics* 39:193-213. https://doi.org/10.1146/annurev.ecolsys.39.110707.173342
-17. Galtier N, Rousselle M (2020) How Much Does Ne Vary Among Species?. *Genetics* 216:559-572. https://doi.org/10.1534/genetics.120.303622
+17. Galtier N, Rousselle M (2020) How Much Does Ne Vary Among Species? *Genetics* 216:559-572. https://doi.org/10.1534/genetics.120.303622
 18. Huber CD, Kim BY, Marsden CD, et al. (2017) Determining the factors driving selective effects of new nonsynonymous mutations. *Proceedings of the National Academy of Sciences* 114:4465-4470. https://doi.org/10.1073/pnas.1619508114
 19. Lohmueller KE, Indap AR, Schmidt S, et al. (2008) Proportionally more deleterious genetic variation in European than in African populations. *Nature* 451:994-997. https://doi.org/10.1038/nature06611
 20. Simons YB, Turchin MC, Pritchard JK, et al. (2014) The deleterious mutation load is insensitive to recent population history. *Nature Genetics* 46:220-224. https://doi.org/10.1038/ng.2896
