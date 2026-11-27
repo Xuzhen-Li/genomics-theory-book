@@ -13,14 +13,14 @@ Original paper (year): Nei M. 1972. Genetic distance
   opened (same author, title, journal, 106(949):283-292,
   1972-05, DOI). Semantic Scholar API opened (M. Nei;
   American Naturalist; 1972; DOI). Chicago journal HTML
-  was Cloudflare this wave; no PMID on EuropePMC REST.
+  was Cloudflare; no PMID on EuropePMC REST.
   Lock author+year+venue from Crossref + CiNii. Title is
   the named distance; the paper formulates a genetic
   distance from the identity of genes between populations.
   Distinct from filled Wright 1931 island (FST as a
   function of Nem) and filled Wright 1943 IBD (similarity
   declining with continuous distance). Distinct from
-  filled Weir and Cockerham 1984 (this wave; the FST
+  filled Weir and Cockerham 1984 (the FST
   estimator). Distinct from filled Nei, Gu and Sitnikova
   1997 birth-and-death (a gene-family process, not a
   between-population distance).

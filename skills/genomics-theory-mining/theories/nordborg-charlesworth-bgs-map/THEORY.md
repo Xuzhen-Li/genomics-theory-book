@@ -39,7 +39,7 @@ Original paper (year): Nordborg M, Charlesworth B,
   filled Charlesworth 1993 (BGS original). Distinct
   from filled Charlesworth 1994 (weakly selected
   substitution rates). Distinct from filled Hudson
-  and Kaplan 1995 (this wave; analytic pi with
+  and Kaplan 1995 (analytic pi with
   recombination, not the arbitrary-map / tip-versus-
   centre patterning). Distinct from filled Begun and
   Aquadro 1992 (recombination-diversity correlation

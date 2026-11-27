@@ -26,7 +26,7 @@ Original paper (year): Slatkin M. 1981. Estimating levels of
   frequency as log Nm; the later lock). Distinct from
   filled Slatkin 1993 (pairwise M from FST). Distinct from
   filled Slatkin 1973 / 1975 two-locus (clines). Distinct
-  from filled Slatkin and Maruyama 1975 (this wave; drift
+  from filled Slatkin and Maruyama 1975 (drift
   flattening a cline). Distinct from filled Wright 1931
   (island FST = f(Nem) as theory, not this occupancy
   estimator). Slatkin 1987 Science remains a review.

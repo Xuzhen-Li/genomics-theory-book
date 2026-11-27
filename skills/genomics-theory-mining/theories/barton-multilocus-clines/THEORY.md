@@ -25,7 +25,7 @@ Original paper (year): Barton NH. 1983. Multilocus clines.
   spread over many loci. Distinct from filled Barton 1979
   (single-locus / hybrid-zone dynamics; this paper is
   multilocus coupling). Distinct from filled Key 1968
-  (this wave; names the tension zone). Distinct from
+  (names the tension zone). Distinct from
   filled Haldane 1948 / Slatkin 1973 / Nagylaki 1975
   (single-locus clines). Barton and Hewitt 1985 remains
   a review.

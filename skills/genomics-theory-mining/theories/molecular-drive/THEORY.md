@@ -21,7 +21,7 @@ Original paper (year): Dover G. 1982. Molecular drive:
   population. Distinct from filled Nei, Gu and
   Sitnikova 1997 birth-and-death (copies need not
   homogenize). Distinct from filled selfish DNA 1980.
-  Wave 5 red line forbade citing Dover 1982 as the
+  Earlier guidelines forbade citing Dover 1982 as the
   concerted original; this note fills drive as a
   different job.
 One-sentence prediction: Turnover (unequal exchange,

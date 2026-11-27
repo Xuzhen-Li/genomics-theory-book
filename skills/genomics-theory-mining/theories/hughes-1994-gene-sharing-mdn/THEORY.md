@@ -44,10 +44,10 @@ Original paper (year): Hughes AL. 1994.
   subfunctions; not the MDN critique or
   the gene-sharing prelude). Distinct from
   filled Ohno 1970 gene balance. Distinct
-  from filled Walsh 1995 (this wave; neo
+  from filled Walsh 1995 (neo
   versus null probability). Distinct from
-  filled Lynch and Conery 2000 (this wave;
-  genomic rate). Distinct from filled
+  filled Lynch and Conery 2000
+  (genomic rate). Distinct from filled
   birth-and-death (Nei family process;
   Nei and Hughes 1992 chapter was not
   opened). Hughes 1999 book was not used.

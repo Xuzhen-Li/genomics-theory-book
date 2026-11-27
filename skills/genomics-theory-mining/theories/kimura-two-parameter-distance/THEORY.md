@@ -28,7 +28,7 @@ Original paper (year): Kimura M. 1980. A simple method
   sites. Distinct from filled Zuckerkandl and Pauling
   1962 / 1965 (clock as linear divergence; not the K80
   formula). Distinct from filled Tajima and Nei 1984
-  (this wave; unequal rates among nucleotide pairs).
+  (unequal rates among nucleotide pairs).
   Jukes and Cantor 1969 was not opened as a lockable
   claim page (book chapter); not the source.
 One-sentence prediction: Pairwise sequence distance is

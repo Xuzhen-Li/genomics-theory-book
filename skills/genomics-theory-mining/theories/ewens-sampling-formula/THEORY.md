@@ -7,7 +7,7 @@ Original paper (year): Ewens WJ. 1972. The sampling theory of
   3(1):87-112. DOI 10.1016/0040-5809(72)90035-4 PMID 4667078.
   EuropePMC HTML landing opened (author, title, year, venue,
   volume, issue, pages, DOI, PMID). ScienceDirect HTML timed
-  out this wave; lock from the EuropePMC page. The paper
+  out; lock from the EuropePMC page. The paper
   begins a sampling theory of a sample of genes from a
   selectively neutral locus, including a test that the
   alleles are indeed selectively neutral. Karlin and McGregor

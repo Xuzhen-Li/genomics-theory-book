@@ -41,7 +41,7 @@ Original paper (year): Levin DA. 1975.
   1975 model). Distinct from filled
   Stebbins 1947 types and filled
   Masterson 1994 stomatal census.
-  Distinct from Felber 1991 this wave
+  Distinct from Felber 1991
   (2n-gamete threshold, not the
   minority-pollination model). Levin
   1983 Am Nat still has no claim text.

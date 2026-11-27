@@ -44,7 +44,7 @@ Original paper (year): Kondrashov AS. 2003.
   (parapatric resident-immigrant wait).
   Distinct from filled Dobzhansky 1937
   BDM. Distinct from filled Lynch and
-  Force 2000 Am Nat (this wave; DLS
+  Force 2000 Am Nat (DLS
   duplicate resolution, not the
   interaction-number split). Three-page
   note; the lock is the linear-versus-

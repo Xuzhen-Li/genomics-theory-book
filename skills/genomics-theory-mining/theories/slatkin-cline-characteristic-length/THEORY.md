@@ -18,7 +18,7 @@ Original paper (year): Slatkin M. 1973. Gene flow and
   the exact dispersal function. (2) Heterozygote unfitness
   steepens the cline. (3) A barrier shifts frequencies
   drastically only when almost all would-be migrants are
-  stopped. Distinct from filled Haldane 1948 (this wave; the
+  stopped. Distinct from filled Haldane 1948 (the
   slope formula at a step, not the characteristic-length
   scale). Distinct from filled Endler 1977 and filled Barton
   1979. Distinct from filled Slatkin 1985 private alleles

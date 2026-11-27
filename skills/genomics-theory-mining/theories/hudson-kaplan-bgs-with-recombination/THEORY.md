@@ -25,12 +25,12 @@ Original paper (year): Hudson RR, Kaplan NL. 1995.
   Charlesworth 1993 (BGS original; no/low-
   recombination formulas, not this analytic-with-
   recombination result). Distinct from filled
-  Charlesworth 1994 (this wave; weakly selected
+  Charlesworth 1994 (weakly selected
   substitution rates, not the recombination formula
   for pi). Distinct from filled Kaplan, Hudson and
   Langley 1989 (coalescent hitchhiking reduction of
   polymorphic sites; not BGS). Distinct from filled
-  Nordborg 1996 (this wave; arbitrary-map extension).
+  Nordborg 1996 (arbitrary-map extension).
 One-sentence prediction: Expected nucleotide diversity
   at a neutral locus has an analytic BGS form when
   deleterious mutation and recombination both act;

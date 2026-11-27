@@ -37,12 +37,12 @@ Original paper (year): Felber F. 1991.
   gamete production. Wiley HTML still
   cookies-blocked; the lock is the
   Crossref Abstract. Distinct from
-  Levin 1975 this wave (minority
+  Levin 1975 (minority
   pollination, not the 2n threshold).
   Distinct from filled Husband 2000
   (experimental fitness, not the 17.16
   percent threshold). Distinct from
-  Felber and Bever 1997 this wave
+  Felber and Bever 1997
   (triploid fitness, not the two-
   cytotype 2n threshold). Distinct from
   filled Stebbins 1947 and filled

@@ -40,7 +40,7 @@ Original paper (year): Walsh B. 2003.
   Distinct from filled Lynch and Force
   2000 Genetics P(subfunctionalization).
   Distinct from filled Lynch, O'Hely,
-  Walsh and Force 2001 this wave
+  Walsh and Force 2001
   (1/(4N) establishment bound). Distinct
   from filled Lynch and Conery 2000
   (genomic rate). Distinct from filled

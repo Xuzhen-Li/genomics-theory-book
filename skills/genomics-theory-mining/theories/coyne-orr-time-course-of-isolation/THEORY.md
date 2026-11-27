@@ -42,8 +42,8 @@ Original paper (year): Coyne JA, Orr HA. 1989.
   1942 (biological species concept). Distinct
   from filled Haldane 1922 (states the rule).
   Distinct from filled Turelli and Orr 1995
-  (this wave; dominance theory). Distinct from
-  filled Orr 1995 (this wave; snowball math).
+  (dominance theory). Distinct from
+  filled Orr 1995 (snowball math).
   Distinct from filled Barton and de Cara 2009
   (coupling). Coyne and Orr 1997 is a revisit;
   1989 is the lock.

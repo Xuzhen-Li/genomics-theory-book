@@ -60,7 +60,7 @@ Original paper (year): Lynch M, O'Hely M,
   birth and few-Myr silencing). Distinct
   from filled Walsh 1995 (rho-S neo
   versus null). Distinct from filled
-  Walsh 2003 this wave (three-fate
+  Walsh 2003 (three-fate
   verbal models). Distinct from filled
   Ohno 1970 gene balance.
 One-sentence prediction: A newly arisen

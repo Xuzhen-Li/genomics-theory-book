@@ -23,7 +23,7 @@ Original paper (year): Braverman JM, Hudson RR, Kaplan NL,
   from filled Tajima 1989 (the D statistic as a neutrality
   test; this paper is the hitchhiking prediction for D).
   Distinct from filled Kaplan, Hudson and Langley 1989
-  (this wave; reduction in the number of sites, not the
+  (reduction in the number of sites, not the
   SFS / D prediction). Distinct from filled Fay and Wu
   2000 H (derived high-frequency excess). Distinct from
   filled Maynard Smith and Haigh 1974.

@@ -39,12 +39,12 @@ Original paper (year): Walsh JB. 1995. How
   versus null). Distinct from filled Ohno
   1970 gene balance / neofunctionalization
   book. Distinct from filled Lynch and
-  Conery 2000 (this wave; genomic rate,
+  Conery 2000 (genomic rate,
   not the rho-S threshold). Distinct from
   filled Lynch and Force 2000 Genetics
-  (this wave; P of subfunctionalization).
-  Distinct from filled Hughes 1994 (this
-  wave; gene sharing / MDN). Walsh 2003
+  (P of subfunctionalization).
+  Distinct from filled Hughes 1994
+  (gene sharing / MDN). Walsh 2003
   was not opened.
 One-sentence prediction: A recent duplicate
   becomes a pseudogene unless rho S >> 1;

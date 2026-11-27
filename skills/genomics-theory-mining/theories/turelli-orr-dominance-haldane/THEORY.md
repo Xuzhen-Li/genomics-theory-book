@@ -35,9 +35,9 @@ Original paper (year): Turelli M, Orr HA. 1995.
   dominance theory). Distinct from filled
   Charlesworth 1978 (Y degeneration by ratchet /
   no recombination). Distinct from filled Orr 1995
-  (this wave; snowball of complementary genes).
-  Distinct from filled Coyne and Orr 1989 (this
-  wave; comparative time course). Distinct from
+  (snowball of complementary genes).
+  Distinct from filled Coyne and Orr 1989
+  (comparative time course). Distinct from
   filled Dobzhansky 1937 BDM.
 One-sentence prediction: Hybrid-fitness alleles
   are partially recessive, so the heterogametic

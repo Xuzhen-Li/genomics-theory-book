@@ -20,7 +20,7 @@ Original paper (year): Sagan L. 1967. On the origin
   Distinct from filled selfish DNA 1980. Endosymbiotic
   gene transfer is not filled: Timmis, Ayliffe, Huang
   and Martin 2004 Nat Rev Genet is a review (red
-  line); a Martin original was not opened this wave.
+  line); a Martin original was not opened.
 One-sentence prediction: Mitochondria and plastids
   originated as free-living prokaryotes that became
   organelles, not as autogenous partitions of a

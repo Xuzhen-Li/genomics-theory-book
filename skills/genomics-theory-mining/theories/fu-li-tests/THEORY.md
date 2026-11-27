@@ -19,7 +19,7 @@ Original paper (year): Fu YX, Li WH. 1993. Statistical tests
   (pi versus theta_W; no external/internal split). Distinct
   from filled Watterson 1975 (S as a theta estimator) and
   filled Kimura 1969 infinite-sites. Distinct from filled
-  HKA 1987 and filled Fay and Wu 2000 H (this wave; derived
+  HKA 1987 and filled Fay and Wu 2000 H (derived
   high-frequency excess, not external-branch counts).
 One-sentence prediction: Selection (or a non-neutral
   demography that mimics it) shows up first as a deviation

@@ -10,7 +10,7 @@ Original paper (year): Dobzhansky T. 1940. Speciation
   because hybridization is maladaptive.
   (Dobzhansky 1937 book is the BDM source, already
   filled. This 1940 paper is the reinforcement
-  argument, not that book. Wave 2 dropped a 1936
+  argument, not that book. Earlier notes dropped a 1936
   year; the journal page is 1 July 1940, pages
   312-321.)
 One-sentence prediction: Where hybrids are unfit,

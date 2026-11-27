@@ -50,7 +50,7 @@ Original paper (year): Husband BC. 2000.
   palaeo-hexaploid dataset, not the theory
   original). Levin 1975 Taxon (the verbal
   minority-cytotype model) was not opened
-  this wave (Wiley timeout). Ramsey and
+  (Wiley timeout). Ramsey and
   Schemske 1998 / 2002 are reviews. Comai
   2005, Otto and Whitton 2000, Adams and
   Wendel 2005, and Edger and Pires 2009

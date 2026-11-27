@@ -33,7 +33,7 @@ Original paper (year): Barton NH, Turelli M.
   producing loci. Distinct from filled
   Lande 1979 (G beta mean response; not
   preference-trait LD). Distinct from
-  filled Turelli 1984 (this wave; House-of-
+  filled Turelli 1984 (House-of-
   Cards VA). Distinct from filled Turelli
   and Orr 1995 (dominance theory of
   Haldane's rule). Distinct from filled

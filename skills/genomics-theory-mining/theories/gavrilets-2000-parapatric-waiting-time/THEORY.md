@@ -44,7 +44,7 @@ Original paper (year): Gavrilets S. 2000.
   Dobzhansky 1937 BDM. Distinct from
   filled Orr 1995 (t-squared snowball).
   Distinct from filled Orr and Turelli
-  2001 (this wave; allopatric pairwise p
+  2001 (allopatric pairwise p
   and waiting-time distribution, not the
   parapatric resident-immigrant walk).
   Distinct from filled Coyne and Orr 1989
