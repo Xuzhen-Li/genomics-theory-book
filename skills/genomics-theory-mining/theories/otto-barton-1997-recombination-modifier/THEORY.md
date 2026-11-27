@@ -52,7 +52,7 @@ Original paper (year): Otto SP, Barton
   and Robertson 1966. Distinct from
   filled Maynard Smith 1978 two-fold
   cost (does not map). Distinct from
-  Barton 1995 this wave (fixation
+  Barton 1995 (fixation
   limits, not evolution of a
   recombination modifier). Distinct
   from filled Barton 1979 / 1983 /

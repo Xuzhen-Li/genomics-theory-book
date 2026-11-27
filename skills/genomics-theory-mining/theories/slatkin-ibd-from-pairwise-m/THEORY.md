@@ -24,8 +24,8 @@ Original paper (year): Slatkin M. 1993. Isolation by
   estimator of that pattern, the same split as filled Weir-
   Cockerham 1984 versus filled Wright 1931 island math.
   Distinct from filled Kimura and Weiss 1964 stepping-stone
-  and from filled Slatkin 1985 private alleles (this wave;
-  a different gene-flow estimator). Distinct from filled
+  and from filled Slatkin 1985 private alleles
+  (a different gene-flow estimator). Distinct from filled
   serial founder (Ramachandran et al. 2005).
 One-sentence prediction: Pairwise M declines with geographic
   distance under restricted dispersal, in both equilibrium

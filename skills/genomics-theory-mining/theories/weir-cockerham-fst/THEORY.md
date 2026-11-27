@@ -9,7 +9,7 @@ Original paper (year): Weir BS, Cockerham CC. 1984.
   EuropePMC HTML opened (Weir BS, Cockerham CC;
   Department of Statistics, North Carolina State
   University; 01 Nov 1984; Evolution 38(6):1358-1370;
-  DOI; PMID). Wiley / OUP HTML not used (prior-wave
+  DOI; PMID). Wiley / OUP HTML not used (earlier
   Cloudflare pattern). Wright 1951 / 1965 named FST,
   FIT, and FIS; 1931 already filled as the island-model
   math. 1984 is the moment estimator from allele-frequency
@@ -19,7 +19,7 @@ Original paper (year): Weir BS, Cockerham CC. 1984.
   island (the parameter FST = f(Nem), no distance decay).
   Distinct from filled Wright 1943 IBD and Kimura and
   Weiss 1964 stepping-stone. Distinct from filled Nei 1972
-  genetic distance (this wave; a between-population
+  genetic distance (a between-population
   identity distance, not an FST estimator).
 One-sentence prediction: Population structure is summarized
   by moment estimates of FST / FIT / FIS from allele-

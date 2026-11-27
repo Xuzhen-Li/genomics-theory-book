@@ -24,8 +24,8 @@ Original paper (year): Rockman MV. 2012. The QTN program
   the argument that mapped QTNs mislead). Distinct from
   filled Fisher 1930 geometric (large mutations almost
   never help). Distinct from filled Orr 1998 exponential
-  factors. Distinct from filled Berg and Coop 2014 (this
-  wave; the population-genetic signal of polygenic
+  factors. Distinct from filled Berg and Coop 2014
+  (the population-genetic signal of polygenic
   adaptation). Boyle, Li and Pritchard 2017 omnigenic was
   tagged Review; not used.
 One-sentence prediction: The large-effect QTNs one can

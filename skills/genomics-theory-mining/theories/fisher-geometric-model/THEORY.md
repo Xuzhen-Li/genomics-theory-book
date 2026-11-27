@@ -23,7 +23,7 @@ Original paper (year): Fisher RA. 1930. The Genetical
   Distinct from filled Fisher 1918 infinitesimal /
   polygenic (many small Mendelian loci for a metric
   trait). 1930 geometric is random mutations in an
-  n-dimensional phenotype space. Wave 5 had dropped
+  n-dimensional phenotype space. Earlier notes omitted
   this item because the geometric page was not locked;
   it is filled now.
 One-sentence prediction: A large random mutation almost

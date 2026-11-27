@@ -23,7 +23,7 @@ Original paper (year): Whitlock MC. 1992. Temporal
   much more than temporal variation. Such properties make
   some species unsuitable for estimating migration with
   indirect genetic measures. Distinct from filled Wade and
-  McCauley 1988 (this wave; migrant / propagule and K versus
+  McCauley 1988 (migrant / propagule and K versus
   2Nm, not the 1992 fluctuation / spatial-versus-temporal
   result). Distinct from filled Levins 1969 occupancy.
   Distinct from filled Wright 1931 static island. Distinct

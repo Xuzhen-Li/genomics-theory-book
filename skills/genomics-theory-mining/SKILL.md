@@ -264,12 +264,12 @@ heterozygotes in clonal lineages).
 | [Rodin-Riggs 2003 epigenetic complementation](theories/rodin-riggs-2003-epigenetic-complementation/THEORY.md) | Rodin and Riggs 2003 J Mol Evol 56:718-729 | Tissue- or stage-complementary epigenetic silencing exposes each new duplicate to purifying selection, protecting it from pseudogenization and cooperating with DDC, especially in small populations and in methylated genomes | Palaeo-hexaploid ohnologs are not a recent methylated pair; clone SVs are not epigenetic silencing | Jaillon 2007 ohnologs: not a Rodin-Riggs epigenetic-complementation series after clone filter (Force 1999 remains DDC; Walsh 1995 remains neo versus null) |
 | [Felber-Bever 1997 triploid-fitness coexistence](theories/felber-bever-1997-triploid-fitness-coexistence/THEORY.md) | Felber and Bever 1997 Biol J Linn Soc 60:95-106 | When tetraploid fitness is at least that of the diploid, raising triploid fitness lowers the 2n-gamete threshold that fixes tetraploids; triploids are not a dead end and can decide the fate of a mixed-cytotype population | Vitis is palaeo-hexaploid, not a mixed 2x / 3x / 4x sexual population; grafted clones skip cytotype mating | Jaillon 2007 is the Vitis hexaploidy contrast, not a Felber-Bever triploid-fitness series (Felber 1991 remains the 2n threshold; Husband 2000 remains experimental fitness; Husband 2004 was not opened) |
 
-One hundred forty-five filled notes (eight first wave, nine second wave, nine third wave, twelve fourth wave, ten fifth wave, ten sixth wave, nine seventh wave, eight eighth wave, nine ninth wave, eight tenth wave, ten eleventh wave, ten twelfth wave, nine thirteenth wave, eight fourteenth wave, nine fifteenth wave, seven sixteenth wave). Kaplan, Hudson and Langley 1989 was dropped as a duplicate of the filled Kaplan coalescent hitchhiking note. Notes live one-per-folder under `theories/`. One theory per job.
+One hundred forty-five filled notes. Kaplan, Hudson and Langley 1989 was dropped as a duplicate of the filled Kaplan coalescent hitchhiking note. Notes live one-per-folder under `theories/`. One theory per job.
 
 Kondrashov 1988 (cost of males) is on the door list but was not filled: it does not map onto grafted clones.
 Muller 1942 was not locked on a publisher page and is not cited for BDM.
 Flor 1971 is a review and was not used as a theory source.
-Flor 1955 Phytopathology / Flor 1956 Adv Genet were not opened on a publisher page this wave and are not cited.
+Flor 1955 Phytopathology / Flor 1956 Adv Genet were not opened on a publisher page and are not cited.
 Haldane 1922 is filled as "does not map onto Vitis SDR"; grape is not XX/XY.
 
 Reinforcement (Dobzhansky 1940 Am Nat 74:312-321) is filled as a
@@ -635,7 +635,7 @@ centromere / CenH3 paper is locked.
 - Do not treat clone-private SNPs as McDonald-Kreitman substitutions.
 - Do not write a clone tree in years-since-planting as the molecular clock.
 - Do not invent a heterogametic sterility pattern for Vitis. Haldane does not map onto the SDR.
-- Do not cite Flor 1971. Flor 1955 / 1956 originals were not locked this wave.
+- Do not cite Flor 1971. Flor 1955 / 1956 originals were not locked.
 - Do not invent a grape powdery-mildew NLR paper.
 
 - Do not cite Lynch 2010 Trends Genet as the drift-barrier source (review).
@@ -674,13 +674,13 @@ Vavilov centers / domestication syndrome is on the candidate list but was not fi
 - Do not write Holliday 1964 as Galtier 2001 gBGC.
 - Do not write Sagan 1967 as Lynch 1996 organelle ratchet, or as EGT.
 - Do not invent a grape Ewens, peak-shift, FGM, mutation-load-equilibrium, rDNA-drive, conversion-tract, quasispecies, serial-founder, G-matrix, or organelle-origin paper.
-- Do not fill heterosis, EGT, isolation-by-colonization as a second original, soft vs hard selection, outcrossing depression, Avise phylogeography, or Vavilov / domestication syndrome this wave.
+- Do not fill heterosis, EGT, isolation-by-colonization as a second original, soft vs hard selection, outcrossing depression, Avise phylogeography, or Vavilov / domestication syndrome yet.
 
 Heterosis / hybrid vigor is on the candidate list but was not filled: no single named original distinct from filled Darwin 1876 and dropped overdominance (Hull 1946 vs Dobzhansky 1950); Shull 1908 / 1914 pages were not opened; standing clone heterozygosity is not hybrid vigor.
-Soft vs hard selection (Wallace 1968 chapter / Wallace 1975 Evolution 29:465-473 DOI 10.1111/j.1558-5646.1975.tb00836.x PMID 28563194 / Christiansen 1975 Am Nat 109:11-16 DOI 10.1086/282970) is on the candidate list but was not filled: Wallace 1975 EuropePMC HTML opened for author+year+venue this wave but carried no abstract or claim text; the 1968 Lewontin-volume chapter was not opened; Christiansen 1975 Chicago HTML was Cloudflare. Do not fill without quoting the hard/soft claim from an opened page.
+Soft vs hard selection (Wallace 1968 chapter / Wallace 1975 Evolution 29:465-473 DOI 10.1111/j.1558-5646.1975.tb00836.x PMID 28563194 / Christiansen 1975 Am Nat 109:11-16 DOI 10.1086/282970) is on the candidate list but was not filled: Wallace 1975 EuropePMC HTML opened for author+year+venue but carried no abstract or claim text; the 1968 Lewontin-volume chapter was not opened; Christiansen 1975 Chicago HTML was Cloudflare. Do not fill without quoting the hard/soft claim from an opened page.
 Phylogeography Avise is on the candidate list but was not filled: Avise et al. 1987 Annu Rev Ecol Syst is a review.
 Trivers 1974 parent-offspring conflict is on the candidate list but was not filled: not a genomics job for this skill.
-Pritchard JK, Stephens M, Donnelly P. 2000. Inference of population structure using multilocus genotype data. Genetics 155(2):945-959. DOI 10.1093/genetics/155.2.945 PMID 10835412 PMC1461096. EuropePMC HTML opened (abstract names a model-based clustering method and software). DROP: method, not a named theory; this skill is not a methods bake-off.
+Pritchard JK, Stephens M, Donnelly P. 2000. Inference of population structure using multilocus genotype data. Genetics 155(2):945-959. DOI 10.1093/genetics/155.2.945 PMID 10835412 PMC1461096. EuropePMC HTML opened (abstract names a model-based clustering method and software). Omitted: method, not a named theory; this skill is not a methods bake-off.
 Li and Durbin 2011 PSMC is on the candidate list but was not filled: too new, and a method, not a named original theory.
 Lewontin 1974 The Genetic Basis of Evolutionary Change (Columbia) is on the candidate list but was not filled: book pages were not opened; the paradox-of-variation job would overlap filled Kimura 1968 / Lewontin-Hubby territory without a locked 1966 page.
 Kimura 1983 The Neutral Theory of Molecular Evolution (book) was skipped: Kimura 1968 is already filled.
@@ -705,14 +705,14 @@ Mayr founder effect as a second named original was skipped: 1942 is the BSC lock
 - Do not invent a grape Vavilov-centre, Price-equation, kin-selection, Nei-distance, FST-estimator, adaptive-walk, Y-degeneration, biological-species, or HKA paper.
 
 Heterosis / hybrid vigor is on the candidate list but was not filled: no single named original distinct from filled Darwin 1876 and dropped overdominance (Hull 1946 vs Dobzhansky 1950); Shull 1908 Journal of Heredity os-4:296-301 DOI 10.1093/jhered/os-4.1.296 bibliographic lock only (Oxford 406 / timeout; Zenodo / CSHL PDF not opened); 1914 coinage first printed later (often 1922 / Shull 1948 Genetics 33:439-446 clarification). Standing clone heterozygosity is not hybrid vigor.
-Soft vs hard selection (Wallace B. 1975. Evolution 29(3):465-473. DOI 10.1111/j.1558-5646.1975.tb00836.x PMID 28563194 / Christiansen FB. 1975. Am Nat 109:11-16. DOI 10.1086/282970 / Wallace 1968 Lewontin-volume chapter) is on the candidate list but was not filled: Wallace 1975 EuropePMC HTML opened this wave (author, Department of Genetics, Development, and Physiology, Cornell; 01 Sep 1975; Evolution 29(3):465-473; DOI; PMID) but carried no abstract or claim text; Christiansen 1975 Crossref JSON opened (Freddy Bugge Christiansen; The American Naturalist 109(965):11-16; 1975-01; DOI) with no abstract; 1968 chapter not opened. Do not fill without quoting the hard/soft claim from an opened page.
+Soft vs hard selection (Wallace B. 1975. Evolution 29(3):465-473. DOI 10.1111/j.1558-5646.1975.tb00836.x PMID 28563194 / Christiansen FB. 1975. Am Nat 109:11-16. DOI 10.1086/282970 / Wallace 1968 Lewontin-volume chapter) is on the candidate list but was not filled: Wallace 1975 EuropePMC HTML opened (author, Department of Genetics, Development, and Physiology, Cornell; 01 Sep 1975; Evolution 29(3):465-473; DOI; PMID) but carried no abstract or claim text; Christiansen 1975 Crossref JSON opened (Freddy Bugge Christiansen; The American Naturalist 109(965):11-16; 1975-01; DOI) with no abstract; 1968 chapter not opened. Do not fill without quoting the hard/soft claim from an opened page.
 Mayr founder effect / genetic revolution (Mayr E. 1954. Change of genetic environment and evolution. Pp. 157-180 in Huxley J, Hardy AC, Ford EB, eds. Evolution as a Process. Allen and Unwin, London) is on the candidate list but was not filled: Ridley classic-texts HTML opened (title, 1954, Huxley/Hardy/Ford, pp. 157-180) but the chapter PDF timed out; 1942 remains the BSC lock. Serial founder remains Ramachandran 2005.
 Charlesworth 1991 Science 251:1030-1033 was skipped: tagged review; 1978 PNAS is the filled Y-degeneration original.
-Slatkin M. 1987. Gene flow and the geographic structure of natural populations. Science 236(4803):787-792. DOI 10.1126/science.3576198 PMID 3576198. EuropePMC HTML opened (abstract is a review of direct and indirect gene-flow methods). DROP: review; 1985 is the lock.
-Wright S. 1951. The genetical structure of populations. Ann Eugen 15(4):323-354 (Wiley / Crossref also print January 1949, vol. 15 issue 1, same pages). DOI 10.1111/j.1469-1809.1949.tb02451.x PMID 24540312. EuropePMC HTML opened (author, 01 Mar 1951, 15(4):323-354, DOI, PMID) but no abstract or claim text. Wiley Cloudflare. DROP without a quoted FIS/FIT/FST claim. Wright 1965 Evolution 19:395-420 DOI 10.1111/j.1558-5646.1965.tb01731.x likewise not opened for claim text. 1931 remains island math; 1943 remains IBD; 1984 remains the estimator.
-Beaumont MA, Nichols RA. 1996. Evaluating loci for use in the genetic analysis of population structure. Proc R Soc Lond B 263:1619-1626. DROP: method, not a named theory; Lewontin-Krakauer 1973 is the lock.
+Slatkin M. 1987. Gene flow and the geographic structure of natural populations. Science 236(4803):787-792. DOI 10.1126/science.3576198 PMID 3576198. EuropePMC HTML opened (abstract is a review of direct and indirect gene-flow methods). Review article; not used as a primary source; 1985 is the lock.
+Wright S. 1951. The genetical structure of populations. Ann Eugen 15(4):323-354 (Wiley / Crossref also print January 1949, vol. 15 issue 1, same pages). DOI 10.1111/j.1469-1809.1949.tb02451.x PMID 24540312. EuropePMC HTML opened (author, 01 Mar 1951, 15(4):323-354, DOI, PMID) but no abstract or claim text. Wiley Cloudflare. Omitted without a quoted FIS/FIT/FST claim. Wright 1965 Evolution 19:395-420 DOI 10.1111/j.1558-5646.1965.tb01731.x likewise not opened for claim text. 1931 remains island math; 1943 remains IBD; 1984 remains the estimator.
+Beaumont MA, Nichols RA. 1996. Evaluating loci for use in the genetic analysis of population structure. Proc R Soc Lond B 263:1619-1626. Omitted: method, not a named theory; Lewontin-Krakauer 1973 is the lock.
 Hudson 1990 Oxford Surveys in Evolutionary Biology 7:1-44 was skipped: survey chapter; not a named original. Hudson 2002 ms remains a software method.
-Muller HJ. 1950. Our load of mutations. Am J Hum Genet 2(2):111-176. PMID 14771033 PMCID PMC1716299. PMC / EuropePMC HTML opened (title, June 1950, 2(2):111-176, PMID, PMC) but no abstract or body. DROP as source; Crow 1958 is the lock. Morton, Crow and Muller 1956 PNAS 42:855-863 DOI 10.1073/pnas.42.11.855 PMID 16589958 PMC528351 opened as bibliographic only; not used as the source.
+Muller HJ. 1950. Our load of mutations. Am J Hum Genet 2(2):111-176. PMID 14771033 PMCID PMC1716299. PMC / EuropePMC HTML opened (title, June 1950, 2(2):111-176, PMID, PMC) but no abstract or body. Omitted as source; Crow 1958 is the lock. Morton, Crow and Muller 1956 PNAS 42:855-863 DOI 10.1073/pnas.42.11.855 PMID 16589958 PMC528351 opened as bibliographic only; not used as the source.
 Stebbins 1950 Variation and Evolution in Plants was skipped: 1947 Adv Genet is already filled as allopolyploidy.
 Grant V. 1981. Plant Speciation. 2nd ed. Columbia University Press. Not opened; later synthesis. Not filled.
 Rieseberg hybrid speciation was not filled: Rieseberg 1997 Annu Rev Ecol Syst is a review; no named original locked. Abbott hybrid-speciation reviews were skipped.
@@ -732,22 +732,22 @@ Barton and Hewitt 1985 Analysis of hybrid zones. Annu Rev Ecol Syst 16:113-148 i
 - Do not write Lewontin-Krakauer 1973 as Wright 1931 / 1943 or as Weir-Cockerham 1984.
 - Do not invent a grape FST-outlier, Fay-Wu, Fu-Li, private-allele, pairwise-M, hybrid-zone, cline, or genetic-load paper.
 
-Wright S. 1951. The genetical structure of populations. Ann Eugen 15(4):323-354 (also printed 1949). DOI 10.1111/j.1469-1809.1949.tb02451.x PMID 24540312. Wright 1965 Evolution 19:395-420 DOI 10.1111/j.1558-5646.1965.tb01731.x. Still no claim text. DROP. 1931 remains island math; 1943 remains IBD; 1984 remains the estimator.
-Slatkin M. 1987. Gene flow and the geographic structure of natural populations. Science 236(4803):787-792. DOI 10.1126/science.3576198 PMID 3576198. Review. DROP. 1985 is the lock.
+Wright S. 1951. The genetical structure of populations. Ann Eugen 15(4):323-354 (also printed 1949). DOI 10.1111/j.1469-1809.1949.tb02451.x PMID 24540312. Wright 1965 Evolution 19:395-420 DOI 10.1111/j.1558-5646.1965.tb01731.x. Still no claim text. Omitted. 1931 remains island math; 1943 remains IBD; 1984 remains the estimator.
+Slatkin M. 1987. Gene flow and the geographic structure of natural populations. Science 236(4803):787-792. DOI 10.1126/science.3576198 PMID 3576198. Review article; not used as a primary source. 1985 is the lock.
 Mayr E. 1954. Change of genetic environment and evolution. Pp. 157-180 in Huxley J, Hardy AC, Ford EB, eds. Evolution as a Process. Allen and Unwin, London. Chapter PDF still not opened. 1942 remains the BSC lock. Serial founder remains Ramachandran 2005.
 Muller HJ. 1950. Our load of mutations. Am J Hum Genet 2(2):111-176. PMID 14771033 PMC1716299. Body still not opened. Crow 1958 remains the load lock.
 Barton NH, Hewitt GM. 1985. Analysis of hybrid zones. Annu Rev Ecol Syst 16:113-148. Review. 1979 and 1983 are the locks.
-Fisher RA. 1937. The wave of advance of advantageous genes. Ann Eugen 7(4):355-369. DOI 10.1111/j.1469-1809.1937.tb02153.x. Wiley HTML opened as a historical-archive disclaimer only (no scientific abstract). Adelaide digital-library PDF 404. DROP without a quoted wave-of-advance claim from an opened page.
-Kolmogorov AN, Petrovsky IG, Piscounov NS. 1937. KPP travelling-wave equation. Russian original not opened. DROP.
-Stephan W, Wiehe THE, Lenz MW. 1992. The effect of strongly selected substitutions on neutral polymorphism: analytical results based on diffusion theory. Theor Popul Biol 41(2):237-254. DOI 10.1016/0040-5809(92)90045-U. ScienceDirect HTML timed out; no EuropePMC / PMID page opened this wave. DROP. Kaplan 1989 is the coalescent-hitchhiking lock.
-Nielsen R. 2005. Molecular signatures of natural selection. Annu Rev Genet 39:197-218. Methods / review. Skip.
-Voight BF, Kudaravalli S, Wen X, Pritchard JK. 2006. A map of recent positive selection in the human genome. PLoS Biol 4(3):e72. iHS method. Skip.
-Sabeti PC et al. 2002. Detecting recent positive selection in the human genome from haplotype structure. Nature 419:832-837. EHH method. Skip.
-Pritchard JK, Pickrell JK, Coop G. 2010. The genetics of human adaptation: hard sweeps, soft sweeps, and polygenic adaptation. Curr Biol 20(4):R208-R215. DOI 10.1016/j.cub.2009.11.055 PMID 20178769 PMC2994553. Tagged review on publisher / PMC pages. DROP. Hermisson 2005 remains the soft-sweep lock; Berg and Coop 2014 is the polygenic lock.
-Coop G et al. 2009. The role of geography in human adaptation. Not opened as a named original this wave. Not filled.
-Boyle EA, Li YI, Pritchard JK. 2017. An expanded view of complex traits: from polygenic to omnigenic. Cell 169(7):1177-1186. DOI 10.1016/j.cell.2017.05.038 PMID 28622505 PMC5536862. EuropePMC HTML opened and tagged Review. DROP.
-Mackay TFC. 2001. Quantitative trait loci in Drosophila. Nat Rev Genet 2(1):11-20. DOI 10.1038/35047544 PMID 11253063. Review. DROP.
-Falconer DS. Introduction to Quantitative Genetics (book). No specific chapter opened this wave. Not filled. Fisher 1918 remains the infinitesimal lock; Lande 1979 remains the multivariate-response lock.
+Fisher RA. 1937. The wave of advance of advantageous genes. Ann Eugen 7(4):355-369. DOI 10.1111/j.1469-1809.1937.tb02153.x. Wiley HTML opened as a historical-archive disclaimer only (no scientific abstract). Adelaide digital-library PDF 404. Omitted without a quoted wave-of-advance claim from an opened page.
+Kolmogorov AN, Petrovsky IG, Piscounov NS. 1937. KPP travelling-wave equation. Russian original not opened. Omitted.
+Stephan W, Wiehe THE, Lenz MW. 1992. The effect of strongly selected substitutions on neutral polymorphism: analytical results based on diffusion theory. Theor Popul Biol 41(2):237-254. DOI 10.1016/0040-5809(92)90045-U. ScienceDirect HTML timed out; no EuropePMC / PMID page opened. Omitted. Kaplan 1989 is the coalescent-hitchhiking lock.
+Nielsen R. 2005. Molecular signatures of natural selection. Annu Rev Genet 39:197-218. Methods / review article; not used as a primary source.
+Voight BF, Kudaravalli S, Wen X, Pritchard JK. 2006. A map of recent positive selection in the human genome. PLoS Biol 4(3):e72. iHS method. Omitted.
+Sabeti PC et al. 2002. Detecting recent positive selection in the human genome from haplotype structure. Nature 419:832-837. EHH method. Omitted.
+Pritchard JK, Pickrell JK, Coop G. 2010. The genetics of human adaptation: hard sweeps, soft sweeps, and polygenic adaptation. Curr Biol 20(4):R208-R215. DOI 10.1016/j.cub.2009.11.055 PMID 20178769 PMC2994553. Tagged review on publisher / PMC pages; not used as a primary source. Hermisson 2005 remains the soft-sweep lock; Berg and Coop 2014 is the polygenic lock.
+Coop G et al. 2009. The role of geography in human adaptation. Not opened as a named original. Not filled.
+Boyle EA, Li YI, Pritchard JK. 2017. An expanded view of complex traits: from polygenic to omnigenic. Cell 169(7):1177-1186. DOI 10.1016/j.cell.2017.05.038 PMID 28622505 PMC5536862. EuropePMC HTML opened and tagged as a review article; not used as a primary source.
+Mackay TFC. 2001. Quantitative trait loci in Drosophila. Nat Rev Genet 2(1):11-20. DOI 10.1038/35047544 PMID 11253063. Review article; not used as a primary source.
+Falconer DS. Introduction to Quantitative Genetics (book). No specific chapter opened. Not filled. Fisher 1918 remains the infinitesimal lock; Lande 1979 remains the multivariate-response lock.
 Heterosis / hybrid vigor remains unfilled: Shull 1908 / 1914 pages still not opened; Darwin 1876 already filled; standing clone heterozygosity is not hybrid vigor.
 
 - Do not cite Fisher 1937 as the cline source (wave-of-advance claim text not opened).
@@ -766,16 +766,16 @@ Heterosis / hybrid vigor remains unfilled: Shull 1908 / 1914 pages still not ope
 - Do not write Rockman 2012 as Fisher 1918.
 - Do not invent a grape cline, tension-zone, hitchhiking-SFS, polygenic-adaptation, or QTN-catalog paper.
 
-Fisher RA. 1937. The wave of advance of advantageous genes. Ann Eugen 7(4):355-369. DOI 10.1111/j.1469-1809.1937.tb02153.x. Wiley HTML still a historical-archive disclaimer (no scientific abstract). Adelaide digital-library item page bibliographic (Fisher; 1937; Annals of Eugenics 7:355-369); PDF 404. DROP without a quoted wave-of-advance claim from an opened page.
-Kolmogorov AN, Petrovsky IG, Piscounov NS. 1937. KPP travelling-wave equation. Russian original not opened. DROP.
-Stephan W, Wiehe THE, Lenz MW. 1992. The effect of strongly selected substitutions on neutral polymorphism: analytical results based on diffusion theory. Theor Popul Biol 41(2):237-254. DOI 10.1016/0040-5809(92)90045-U. ScienceDirect HTML 403 / timeout; Semantic Scholar no abstract; no EuropePMC abstract page. DROP. Kaplan 1989 remains the coalescent-hitchhiking lock.
-Barton NH. 2000. Not opened as a named original this wave. 1986 papers are the locks.
+Fisher RA. 1937. The wave of advance of advantageous genes. Ann Eugen 7(4):355-369. DOI 10.1111/j.1469-1809.1937.tb02153.x. Wiley HTML still a historical-archive disclaimer (no scientific abstract). Adelaide digital-library item page bibliographic (Fisher; 1937; Annals of Eugenics 7:355-369); PDF 404. Omitted without a quoted wave-of-advance claim from an opened page.
+Kolmogorov AN, Petrovsky IG, Piscounov NS. 1937. KPP travelling-wave equation. Russian original not opened. Omitted.
+Stephan W, Wiehe THE, Lenz MW. 1992. The effect of strongly selected substitutions on neutral polymorphism: analytical results based on diffusion theory. Theor Popul Biol 41(2):237-254. DOI 10.1016/0040-5809(92)90045-U. ScienceDirect HTML 403 / timeout; Semantic Scholar no abstract; no EuropePMC abstract page. Omitted. Kaplan 1989 remains the coalescent-hitchhiking lock.
+Barton NH. 2000. Not opened as a named original. 1986 papers are the locks.
 Slatkin M, Maruyama T. 1975. Genetic drift in a cline. Genetics 81(1):209-222. Not opened as the lock; 1975 two-locus paper is the lock.
-Malecot G. 1948. Les mathematiques de l'heredite. Masson. English 1969 Freeman translation (Yermanos). Book; no lockable claim page opened. Wright 1943 remains IBD. DROP.
-Hewitt GM. 1988. Hybrid zones-natural laboratories for evolutionary studies. Trends Ecol Evol 3(7):158-167. DOI 10.1016/0169-5347(88)90033-X PMID 21227192. Review. Skip. 1968 / 1979 / 1983 / 1986 are the locks.
-Haldane JBS. 1932. The Causes of Evolution. Longmans / Princeton reprints. Book; no specific chapter opened this wave. Not filled.
-Pannell JR, Charlesworth B. 2000. Effects of metapopulation processes on measures of genetic diversity. Philos Trans R Soc Lond B. Review. Skip. Wade 1988 is the extinction-recolonization lock.
-Harrison RG. 1993. Hybrid zones and the evolutionary process (book / review). Skip unless a lockable original paper; none opened.
+Malecot G. 1948. Les mathematiques de l'heredite. Masson. English 1969 Freeman translation (Yermanos). Book; no lockable claim page opened. Wright 1943 remains IBD. Omitted.
+Hewitt GM. 1988. Hybrid zones-natural laboratories for evolutionary studies. Trends Ecol Evol 3(7):158-167. DOI 10.1016/0169-5347(88)90033-X PMID 21227192. Review article; not used as a primary source. 1968 / 1979 / 1983 / 1986 are the locks.
+Haldane JBS. 1932. The Causes of Evolution. Longmans / Princeton reprints. Book; no specific chapter opened. Not filled.
+Pannell JR, Charlesworth B. 2000. Effects of metapopulation processes on measures of genetic diversity. Philos Trans R Soc Lond B. Review article; not used as a primary source. Wade 1988 is the extinction-recolonization lock.
+Harrison RG. 1993. Hybrid zones and the evolutionary process (book / review). Not used unless there is a lockable original paper; none opened.
 Wright S. 1951 / 1965 F-statistics. Still no claim text. 1931 remains island math; 1943 remains IBD; 1984 remains the estimator.
 
 - Do not cite Fisher 1937 as the wave-of-advance source (claim text still not opened).
@@ -795,15 +795,15 @@ Wright S. 1951 / 1965 F-statistics. Still no claim text. 1931 remains island mat
 - Do not write VviAGL11 as the sex locus (Dong 2023 chromosome-2 SDR).
 - Do not invent a grape IBD, AMOVA, metapopulation-FST, two-locus-cline, hybrid-barrier, or drift-trajectory paper.
 
-Fisher RA. 1937. The wave of advance of advantageous genes. Ann Eugen 7(4):355-369. DOI 10.1111/j.1469-1809.1937.tb02153.x. Wiley HTML still a historical-archive disclaimer (no scientific abstract). DROP without a quoted wave-of-advance claim from an opened page.
-Kolmogorov AN, Petrovsky IG, Piscounov NS. 1937. KPP travelling-wave equation. Russian original not opened. DROP.
-Stephan W, Wiehe THE, Lenz MW. 1992. The effect of strongly selected substitutions on neutral polymorphism: analytical results based on diffusion theory. Theor Popul Biol 41(2):237-254. DOI 10.1016/0040-5809(92)90045-U. ScienceDirect HTML Cloudflare-blocked this wave; no EuropePMC abstract page opened. DROP. Kaplan 1989 remains the coalescent-hitchhiking lock.
-Barton NH. 2000. Genetic hitchhiking. Philos Trans R Soc Lond B 355:1553-1562. DOI 10.1098/rstb.2000.0716 PMID 11127900. Tagged Review. DROP. Maynard Smith and Haigh 1974 remains the hitchhiking lock.
-Jukes TH, Cantor CR. 1969. Evolution of protein molecules. In Munro HN (ed.) Mammalian Protein Metabolism vol. III, pp. 21-132. Academic Press. Book chapter; no lockable claim page opened. Kimura 1980 is the nucleotide-distance lock. DROP.
-Wright S. 1951 / 1949. The genetical structure of populations. Ann Eugen 15:323-354. DOI 10.1111/j.1469-1809.1949.tb02451.x PMID 24540312. Wiley HTML still a historical-archive disclaimer; no scientific claim text. 1931 remains island math; 1943 remains IBD; 1984 remains the estimator. DROP.
-Sabeti PC et al. 2002. Detecting recent positive selection in the human genome from haplotype structure. Nature 419:832-837. DOI 10.1038/nature01140 PMID 12397357. Method (EHH / long-range haplotype scan). Skip. Maynard Smith and Haigh 1974 remains hitchhiking.
-Andolfatto P. 2005. Adaptive evolution of non-coding DNA in Drosophila. Nature 437:1149-1152. DOI 10.1038/nature04107. Nature HTML opened (author, 2005, Nature 437:1149-1152, DOI, abstract: MK extension to non-coding DNA). DROP as a named theory: empirical result using filled MK 1991, not a new original. MK remains the lock.
-Rieseberg LH. 1997. Hybrid origins of plant species. Annu Rev Ecol Syst 28:359-389. Review. Skip. 2003 is the lock.
+Fisher RA. 1937. The wave of advance of advantageous genes. Ann Eugen 7(4):355-369. DOI 10.1111/j.1469-1809.1937.tb02153.x. Wiley HTML still a historical-archive disclaimer (no scientific abstract). Omitted without a quoted wave-of-advance claim from an opened page.
+Kolmogorov AN, Petrovsky IG, Piscounov NS. 1937. KPP travelling-wave equation. Russian original not opened. Omitted.
+Stephan W, Wiehe THE, Lenz MW. 1992. The effect of strongly selected substitutions on neutral polymorphism: analytical results based on diffusion theory. Theor Popul Biol 41(2):237-254. DOI 10.1016/0040-5809(92)90045-U. ScienceDirect HTML Cloudflare-blocked; no EuropePMC abstract page opened. Omitted. Kaplan 1989 remains the coalescent-hitchhiking lock.
+Barton NH. 2000. Genetic hitchhiking. Philos Trans R Soc Lond B 355:1553-1562. DOI 10.1098/rstb.2000.0716 PMID 11127900. Tagged as a review article; not used as a primary source. Maynard Smith and Haigh 1974 remains the hitchhiking lock.
+Jukes TH, Cantor CR. 1969. Evolution of protein molecules. In Munro HN (ed.) Mammalian Protein Metabolism vol. III, pp. 21-132. Academic Press. Book chapter; no lockable claim page opened. Kimura 1980 is the nucleotide-distance lock. Omitted.
+Wright S. 1951 / 1949. The genetical structure of populations. Ann Eugen 15:323-354. DOI 10.1111/j.1469-1809.1949.tb02451.x PMID 24540312. Wiley HTML still a historical-archive disclaimer; no scientific claim text. 1931 remains island math; 1943 remains IBD; 1984 remains the estimator. Omitted.
+Sabeti PC et al. 2002. Detecting recent positive selection in the human genome from haplotype structure. Nature 419:832-837. DOI 10.1038/nature01140 PMID 12397357. Method (EHH / long-range haplotype scan). Omitted. Maynard Smith and Haigh 1974 remains hitchhiking.
+Andolfatto P. 2005. Adaptive evolution of non-coding DNA in Drosophila. Nature 437:1149-1152. DOI 10.1038/nature04107. Nature HTML opened (author, 2005, Nature 437:1149-1152, DOI, abstract: MK extension to non-coding DNA). Omitted as a named theory: empirical result using filled MK 1991, not a new original. MK remains the lock.
+Rieseberg LH. 1997. Hybrid origins of plant species. Annu Rev Ecol Syst 28:359-389. Review article; not used as a primary source. 2003 is the lock.
 Malecot G. 1948 / 1969 isolation. Book; no lockable claim page. Wright 1943 remains IBD.
 
 - Do not cite Fisher 1937 as the wave-of-advance source (claim text still not opened).
@@ -828,25 +828,25 @@ Malecot G. 1948 / 1969 isolation. Book; no lockable claim page. Wright 1943 rema
 - Do not write VviAGL11 as the sex locus (Dong 2023 chromosome-2 SDR).
 - Do not invent a grape GST, conditional-frequency, drift-cline, unbiased-distance, K80, Tajima-Nei-distance, recombination-diversity, nearly-neutral-precursor, isolation-coupling, or hybrid-speciation paper.
 
-Jukes TH, Cantor CR. 1969. Evolution of protein molecules. In Munro HN (ed.) Mammalian Protein Metabolism vol. III, pp. 21-132. Academic Press. Book chapter; no lockable claim page opened. Kimura 1980 remains the nucleotide-distance lock. DROP.
-Kimura M, Ohta T. 1971. Protein polymorphism as a phase of molecular evolution. Nature 229(5285):467-469. DOI 10.1038/229467a0 PMID 4925204. EuropePMC HTML opened this wave; no abstract / no claim text. DROP.
-Tajima F. 1993. Measurement of DNA polymorphism. Book chapter / later methods paper; no lockable claim page opened this wave. Tajima 1983 is the lock. DROP.
-Fay JC, Wyckoff GJ, Wu CI. 2001. Positive and negative selection on the human genome. Genetics 158(3):1227-1234. DOI 10.1093/genetics/158.3.1227 PMID 11454770. Search listing opened; empirical MK extension to genomic data, not a named theory original. MK 1991 remains. DROP.
-Fay JC, Wyckoff GJ, Wu CI. 2002. Testing the neutral theory of molecular evolution with genomic data from Drosophila. Nature 415(6875):1024-1026. DOI 10.1038/4151024a PMID 11875569. Search listing opened; empirical MK extension. MK 1991 remains. DROP.
-Stephan W, Wiehe THE, Lenz MW. 1992. The effect of strongly selected substitutions on neutral polymorphism: analytical results based on diffusion theory. Theor Popul Biol 41(2):237-254. DOI 10.1016/0040-5809(92)90045-U. Still no lockable abstract page this wave. DROP. Kaplan 1989 remains the coalescent-hitchhiking lock; Wiehe and Stephan 1993 is the lock for alpha v.
-Gillespie JH. 1991. The Causes of Molecular Evolution. Oxford University Press. Book. Skip.
-Gillespie JH. 1994. Substitution processes in molecular evolution. III. Deleterious alleles. Genetics 138(3):943-952. DOI 10.1093/genetics/138.3.943 PMID 7851786. Paper exists (house-of-cards / deleterious substitutions); not draft-adjacent. Gillespie 2000 remains the draft lock. DROP this wave.
-Orr HA. 2005. Dobzhansky-Muller / speciation review or later paper. Not opened. 1995 is the snowball lock. DROP.
-Coyne JA, Orr HA. 1997. Patterns of speciation in Drosophila revisited. Evolution 51:295-303. Revisit. 1989 is the lock. DROP.
-Grant V. 1981. Plant Speciation. Book. Skip.
-Arnold ML. 1997 / 2006. Hybridization books. Skip.
-Mallet J. 2007. Hybrid speciation. Nature 446:279-283. Review dump. Skip. Rieseberg 2003 remains the complementary-gene hybrid-speciation lock.
-Abbott R et al. 2013. Hybridization and speciation. J Evol Biol. Review. Skip.
-Soltis DE / Soltis PS. 2009 / 2015 polyploidy papers. Not opened as a distinct original this wave. Stebbins 1947 and Thomas-Freeling 2006 remain. DROP.
-Comai L. 2005. The advantages and disadvantages of being polyploid. Nat Rev Genet 6(11):836-846. DOI 10.1038/nrg1711 PMID 16304599. Tagged Review. DROP.
-Otto SP, Whitton J. 2000. Polyploid incidence and evolution. Annu Rev Genet. Review. Skip.
-Wright S. 1938. Size of population and breeding structure in relation to evolution. Science 87:430-431. Short letter; no lockable claim page opened. Wright 1931 remains island / Ne math. DROP.
-Crow JF, Kimura M. 1970. An Introduction to Population Genetics Theory. Book. Skip.
+Jukes TH, Cantor CR. 1969. Evolution of protein molecules. In Munro HN (ed.) Mammalian Protein Metabolism vol. III, pp. 21-132. Academic Press. Book chapter; no lockable claim page opened. Kimura 1980 remains the nucleotide-distance lock. Omitted.
+Kimura M, Ohta T. 1971. Protein polymorphism as a phase of molecular evolution. Nature 229(5285):467-469. DOI 10.1038/229467a0 PMID 4925204. EuropePMC HTML opened; no abstract / no claim text. Omitted.
+Tajima F. 1993. Measurement of DNA polymorphism. Book chapter / later methods paper; no lockable claim page opened. Tajima 1983 is the lock. Omitted.
+Fay JC, Wyckoff GJ, Wu CI. 2001. Positive and negative selection on the human genome. Genetics 158(3):1227-1234. DOI 10.1093/genetics/158.3.1227 PMID 11454770. Search listing opened; empirical MK extension to genomic data, not a named theory original. MK 1991 remains. Omitted.
+Fay JC, Wyckoff GJ, Wu CI. 2002. Testing the neutral theory of molecular evolution with genomic data from Drosophila. Nature 415(6875):1024-1026. DOI 10.1038/4151024a PMID 11875569. Search listing opened; empirical MK extension. MK 1991 remains. Omitted.
+Stephan W, Wiehe THE, Lenz MW. 1992. The effect of strongly selected substitutions on neutral polymorphism: analytical results based on diffusion theory. Theor Popul Biol 41(2):237-254. DOI 10.1016/0040-5809(92)90045-U. Still no lockable abstract page. Omitted. Kaplan 1989 remains the coalescent-hitchhiking lock; Wiehe and Stephan 1993 is the lock for alpha v.
+Gillespie JH. 1991. The Causes of Molecular Evolution. Oxford University Press. Book. Omitted.
+Gillespie JH. 1994. Substitution processes in molecular evolution. III. Deleterious alleles. Genetics 138(3):943-952. DOI 10.1093/genetics/138.3.943 PMID 7851786. Paper exists (house-of-cards / deleterious substitutions); not draft-adjacent. Gillespie 2000 remains the draft lock. Omitted.
+Orr HA. 2005. Dobzhansky-Muller / speciation review or later paper. Not opened. 1995 is the snowball lock. Not used as a primary source.
+Coyne JA, Orr HA. 1997. Patterns of speciation in Drosophila revisited. Evolution 51:295-303. Revisit. 1989 is the lock. Omitted.
+Grant V. 1981. Plant Speciation. Book. Omitted.
+Arnold ML. 1997 / 2006. Hybridization books. Omitted.
+Mallet J. 2007. Hybrid speciation. Nature 446:279-283. Review article; not used as a primary source. Rieseberg 2003 remains the complementary-gene hybrid-speciation lock.
+Abbott R et al. 2013. Hybridization and speciation. J Evol Biol. Review article; not used as a primary source.
+Soltis DE / Soltis PS. 2009 / 2015 polyploidy papers. Not opened as a distinct original. Stebbins 1947 and Thomas-Freeling 2006 remain. Omitted.
+Comai L. 2005. The advantages and disadvantages of being polyploid. Nat Rev Genet 6(11):836-846. DOI 10.1038/nrg1711 PMID 16304599. Tagged as a review article; not used as a primary source.
+Otto SP, Whitton J. 2000. Polyploid incidence and evolution. Annu Rev Genet. Review article; not used as a primary source.
+Wright S. 1938. Size of population and breeding structure in relation to evolution. Science 87:430-431. Short letter; no lockable claim page opened. Wright 1931 remains island / Ne math. Omitted.
+Crow JF, Kimura M. 1970. An Introduction to Population Genetics Theory. Book. Omitted.
 
 - Do not cite Jukes and Cantor 1969 as the nucleotide-distance source (book chapter not opened; Kimura 1980 remains).
 - Do not cite Kimura and Ohta 1971 Nature as the polymorphism-phase source (no claim text).
@@ -871,33 +871,33 @@ Crow JF, Kimura M. 1970. An Introduction to Population Genetics Theory. Book. Sk
 - Do not write VviAGL11 as the sex locus (Dong 2023 chromosome-2 SDR).
 - Do not invent a grape nucleotide-diversity, nucleon-genealogy, 4Ne, BGS-on-selected, BGS-with-recombination, BGS-map, alpha-v hitchhiking, snowball-incompatibility, Haldane-dominance, or isolation-time-course paper.
 
-Coyne JA, Orr HA. 1997. "Patterns of speciation in Drosophila" revisited. Evolution 51(1):295-303. DOI 10.1111/j.1558-5646.1997.tb02412.x PMID 28568795. PubMed / EuropePMC opened this wave; no abstract / no new claim text. Revisit. 1989 is the lock. DROP.
-Orr HA. 2005. The genetic theory of adaptation: a brief history. Nat Rev Genet 6:119-127 (or later speciation review). Not opened as a distinct original this wave. Review risk. 1995 remains snowball; 1998 remains exponential; 2001 is the waiting-time lock. DROP.
-Gavrilets S. 1997. Evolution and speciation on holey adaptive landscapes. Trends Ecol Evol 12(8):307-312. Review. Skip.
-Gavrilets S. 1999. A dynamical theory of speciation on holey adaptive landscapes. Am Nat 154(1):1-22. DOI 10.1086/303217. Chicago HTML Cloudflare-blocked; no claim page opened this wave. DROP. 2000 is the lockable paper.
-Gavrilets S. 2004. Fitness Landscapes and the Origin of Species. Princeton University Press. Book. Skip.
-Kondrashov AS. 1988. Deleterious mutations and the evolution of sexual reproduction. Nature 336:435-440. Already dropped; does not map onto grafted clones. Not this paper. DROP.
-Kondrashov AS. 2003. Accumulation of Dobzhansky-Muller incompatibilities within a spatially structured population. Evolution (or related 2003 paper). Not opened this wave. 1995 is the dangerous-range lock; Orr 1995 / 2001 remain DMI math. DROP.
-Muller HJ. 1942. Isolating mechanisms, evolution and temperature. Biol Symp 6:71-125. Still no lockable claim page. Distinct job from Muller 1964 not established on a page. DROP.
-Wright S. 1938. Size of population and breeding structure in relation to evolution. Science 87:430-431. Short letter; no lockable claim page. Wright 1931 remains. DROP.
-Kimura M, Ohta T. 1971. Protein polymorphism as a phase of molecular evolution. Nature 229(5285):467-469. DOI 10.1038/229467a0 PMID 4925204. EuropePMC HTML reopened this wave; still no abstract / no claim text. DROP.
-Lande R. 1976. Natural selection and random genetic drift in phenotypic evolution. Evolution 30(2):314-334. DOI 10.1111/j.1558-5646.1976.tb00911.x PMID 28563044. EuropePMC HTML opened; no abstract / no claim text. 1979 remains the G-matrix lock. DROP this wave.
-Lande R. 1980. The genetic covariance between characters maintained by pleiotropic mutations. Genetics 94(1):203-215. DOI 10.1093/genetics/94.1.203. Genetics / PMC page not opened with claim text this wave. DROP this wave.
-Barton NH, Turelli M. 2004. Effects of genetic drift on variance components under a general model of epistasis. Evolution 58(10):2111-2132. DOI 10.1111/j.0014-3820.2004.tb01591.x PMID 15562679. Methods dump (variance components after bottlenecks). Not used as a named original. DROP.
-Bulmer MG. 1971. The effect of selection on genetic variability. Am Nat 105(943):201-211. DOI 10.1086/282718. Chicago HTML timed out; no EuropePMC claim page opened. DROP this wave.
-Burger R. 2000. The Mathematical Theory of Selection, Recombination and Mutation. Wiley. Book. Skip.
-Comai L. 2005. The advantages and disadvantages of being polyploid. Nat Rev Genet 6(11):836-846. DOI 10.1038/nrg1711. Tagged Review. DROP.
-Otto SP, Whitton J. 2000. Polyploid incidence and evolution. Annu Rev Genet 34:401-437. Review. Skip.
-Soltis DE / Soltis PS. 2009 / 2015 polyploidy papers. Not opened as a distinct original this wave. Stebbins 1947 and Thomas-Freeling 2006 remain. DROP.
-Bennett MD, Leitch IJ. 2011. Nuclear DNA amounts in angiosperms. Review / compilation. Skip.
-Wendel JF. 2000 / 2015 polyploidy reviews. Skip.
-Adams KL, Wendel JF. 2005. Polyploidy and genome evolution in plants. Curr Opin Plant Biol 8(2):135-141. DOI 10.1016/j.pbi.2005.01.001 PMID 15752992. Tagged Review. DROP.
-Freeling M. 2009. Bias in plant gene content following different sorts of duplication. Annu Rev Plant Biol. Review. Skip.
-Edger PP, Pires JC. 2009. Gene and genome duplications: the impact of dosage-sensitivity on the fate of nuclear genes. Chromosome Res 17(5):699-717. DOI 10.1007/s10577-009-9055-9 PMID 19802709. Tagged Review. Birchler 2007 remains gene balance. DROP.
-Mallet J. 2007. Hybrid speciation. Nature 446:279-283. Review dump. Rieseberg 2003 remains. DROP.
-Abbott R et al. 2013. Hybridization and speciation. J Evol Biol. Review. Skip.
-Arnold ML. 1992 / 1997 hybridization papers / books. Not locked as a distinct original. Skip.
-Grant V. 1981. Plant Speciation. Book. Skip.
+Coyne JA, Orr HA. 1997. "Patterns of speciation in Drosophila" revisited. Evolution 51(1):295-303. DOI 10.1111/j.1558-5646.1997.tb02412.x PMID 28568795. PubMed / EuropePMC opened; no abstract / no new claim text. Revisit. 1989 is the lock. Omitted.
+Orr HA. 2005. The genetic theory of adaptation: a brief history. Nat Rev Genet 6:119-127 (or later speciation review). Not opened as a distinct original. Review risk. 1995 remains snowball; 1998 remains exponential; 2001 is the waiting-time lock. Omitted.
+Gavrilets S. 1997. Evolution and speciation on holey adaptive landscapes. Trends Ecol Evol 12(8):307-312. Review article; not used as a primary source.
+Gavrilets S. 1999. A dynamical theory of speciation on holey adaptive landscapes. Am Nat 154(1):1-22. DOI 10.1086/303217. Chicago HTML Cloudflare-blocked; no claim page opened. Omitted. 2000 is the lockable paper.
+Gavrilets S. 2004. Fitness Landscapes and the Origin of Species. Princeton University Press. Book. Omitted.
+Kondrashov AS. 1988. Deleterious mutations and the evolution of sexual reproduction. Nature 336:435-440. Already dropped; does not map onto grafted clones. Not this paper. Omitted.
+Kondrashov AS. 2003. Accumulation of Dobzhansky-Muller incompatibilities within a spatially structured population. Evolution (or related 2003 paper). Not opened. 1995 is the dangerous-range lock; Orr 1995 / 2001 remain DMI math. Omitted.
+Muller HJ. 1942. Isolating mechanisms, evolution and temperature. Biol Symp 6:71-125. Still no lockable claim page. Distinct job from Muller 1964 not established on a page. Omitted.
+Wright S. 1938. Size of population and breeding structure in relation to evolution. Science 87:430-431. Short letter; no lockable claim page. Wright 1931 remains. Omitted.
+Kimura M, Ohta T. 1971. Protein polymorphism as a phase of molecular evolution. Nature 229(5285):467-469. DOI 10.1038/229467a0 PMID 4925204. EuropePMC HTML reopened; still no abstract / no claim text. Omitted.
+Lande R. 1976. Natural selection and random genetic drift in phenotypic evolution. Evolution 30(2):314-334. DOI 10.1111/j.1558-5646.1976.tb00911.x PMID 28563044. EuropePMC HTML opened; no abstract / no claim text. 1979 remains the G-matrix lock. Omitted.
+Lande R. 1980. The genetic covariance between characters maintained by pleiotropic mutations. Genetics 94(1):203-215. DOI 10.1093/genetics/94.1.203. Genetics / PMC page not opened with claim text. Omitted.
+Barton NH, Turelli M. 2004. Effects of genetic drift on variance components under a general model of epistasis. Evolution 58(10):2111-2132. DOI 10.1111/j.0014-3820.2004.tb01591.x PMID 15562679. Methods dump (variance components after bottlenecks). Not used as a named original. Omitted.
+Bulmer MG. 1971. The effect of selection on genetic variability. Am Nat 105(943):201-211. DOI 10.1086/282718. Chicago HTML timed out; no EuropePMC claim page opened. Omitted.
+Burger R. 2000. The Mathematical Theory of Selection, Recombination and Mutation. Wiley. Book. Omitted.
+Comai L. 2005. The advantages and disadvantages of being polyploid. Nat Rev Genet 6(11):836-846. DOI 10.1038/nrg1711. Tagged as a review article; not used as a primary source.
+Otto SP, Whitton J. 2000. Polyploid incidence and evolution. Annu Rev Genet 34:401-437. Review article; not used as a primary source.
+Soltis DE / Soltis PS. 2009 / 2015 polyploidy papers. Not opened as a distinct original. Stebbins 1947 and Thomas-Freeling 2006 remain. Omitted.
+Bennett MD, Leitch IJ. 2011. Nuclear DNA amounts in angiosperms. Review / compilation; not used as a primary source.
+Wendel JF. 2000 / 2015 polyploidy reviews. Omitted.
+Adams KL, Wendel JF. 2005. Polyploidy and genome evolution in plants. Curr Opin Plant Biol 8(2):135-141. DOI 10.1016/j.pbi.2005.01.001 PMID 15752992. Tagged as a review article; not used as a primary source.
+Freeling M. 2009. Bias in plant gene content following different sorts of duplication. Annu Rev Plant Biol. Review article; not used as a primary source.
+Edger PP, Pires JC. 2009. Gene and genome duplications: the impact of dosage-sensitivity on the fate of nuclear genes. Chromosome Res 17(5):699-717. DOI 10.1007/s10577-009-9055-9 PMID 19802709. Tagged as a review article; not used as a primary source. Birchler 2007 remains gene balance.
+Mallet J. 2007. Hybrid speciation. Nature 446:279-283. Review article; not used as a primary source. Rieseberg 2003 remains.
+Abbott R et al. 2013. Hybridization and speciation. J Evol Biol. Review article; not used as a primary source.
+Arnold ML. 1992 / 1997 hybridization papers / books. Not locked as a distinct original. Omitted.
+Grant V. 1981. Plant Speciation. Book. Omitted.
 
 - Do not cite Coyne and Orr 1997 as the time-course source (revisit; no claim text; 1989 remains).
 - Do not cite Orr 2005 as the snowball or waiting-time source (not opened; 1995 and 2001 remain).
@@ -907,8 +907,8 @@ Grant V. 1981. Plant Speciation. Book. Skip.
 - Do not cite Muller 1942 as a BDM or ratchet source (still not locked; Dobzhansky 1937 and Muller 1964 remain).
 - Do not cite Wright 1938 as the effective-size source (letter; Wright 1931 remains).
 - Do not cite Kimura and Ohta 1971 Nature as the polymorphism-phase source (still no claim text).
-- Do not cite Lande 1976 as the phenotypic-drift source (no claim text this wave; 1979 remains G-matrix).
-- Do not cite Lande 1980 as the pleiotropic-covariance source (page not opened this wave).
+- Do not cite Lande 1976 as the phenotypic-drift source (no claim text; 1979 remains G-matrix).
+- Do not cite Lande 1980 as the pleiotropic-covariance source (page not opened).
 - Do not cite Barton and Turelli 2004 as a named theory original (methods dump).
 - Do not cite Bulmer 1971 / 1980 as the variance-disequilibrium source (page not opened).
 - Do not cite Comai 2005, Otto and Whitton 2000, Adams and Wendel 2005, Edger and Pires 2009, Bennett and Leitch 2011, Wendel 2000 / 2015, Mallet 2007, Abbott 2013, Grant 1981, or Arnold 1992 / 1997 as theory originals (book or review).
@@ -924,37 +924,37 @@ Grant V. 1981. Plant Speciation. Book. Skip.
 - Do not write VviAGL11 as the sex locus (Dong 2023 chromosome-2 SDR).
 - Do not invent a grape fixation-probability, House-of-Cards, mutational-variance, evolvability, DMI-waiting-time, VSD-load, stomatal-polyploidy, preference-LD, or parapatric-speciation paper.
 
-Lande R. 1976. Natural selection and random genetic drift in phenotypic evolution. Evolution 30(2):314-334. DOI 10.1111/j.1558-5646.1976.tb00911.x PMID 28563044. EuropePMC HTML reopened this wave; still no abstract / no claim text. 1979 remains the G-matrix lock. DROP this wave.
-Lande R. 1980. The genetic covariance between characters maintained by pleiotropic mutations. Genetics 94(1):203-215. DOI 10.1093/genetics/94.1.203. Genetics / OUP Cloudflare; PMC ID not opened with claim text this wave. DROP this wave.
-Bulmer MG. 1971. The effect of selection on genetic variability. Am Nat 105(943):201-211. DOI 10.1086/282718. Still no EuropePMC claim page. DROP this wave.
-Kimura M, Ohta T. 1971. Protein polymorphism as a phase of molecular evolution. Nature 229(5285):467-469. DOI 10.1038/229467a0 PMID 4925204. Still no abstract / no claim text. DROP.
-Wright S. 1938. Size of population and breeding structure in relation to evolution. Science 87:430-431. Short letter. Wright 1931 remains. DROP.
-Coyne JA, Orr HA. 1997. "Patterns of speciation in Drosophila" revisited. Evolution 51(1):295-303. Revisit; 1989 is the lock. DROP.
-Gavrilets S. 1999. A dynamical theory of speciation on holey adaptive landscapes. Am Nat 154(1):1-22. DOI 10.1086/303217. Chicago still not opened. 2000 remains. DROP.
-Kondrashov AS. 1988. Deleterious mutations and the evolution of sexual reproduction. Nature 336:435-440. Already dropped. DROP.
-Levin DA. 1975. Minority cytotype exclusion in local plant populations. Taxon 24:35-43. DOI 10.2307/1218997. Wiley HTML timed out; no EuropePMC claim page opened. Husband 2000 is the lock. DROP this wave.
-Levin DA. 1983. Polyploidy and novelty in flowering plants. Am Nat 122(1):1-25. DOI 10.1086/284115. Chicago HTML timed out. DROP this wave.
-Husband BC. 2004. The role of triploid hybrids in the evolutionary dynamics of mixed-ploidy populations. Heredity or related 2004 paper. Not opened this wave. 2000 is the lock. DROP.
-Ramsey J, Schemske DW. 1998. Pathways, mechanisms, and rates of polyploid formation in flowering plants. Annu Rev Ecol Syst 29:467-501. Review. Skip.
-Ramsey J, Schemske DW. 2002. Neopolyploidy in flowering plants. Annu Rev Ecol Syst 33:589-639. Review. Skip.
-Comai L. 2005. The advantages and disadvantages of being polyploid. Nat Rev Genet 6(11):836-846. Tagged Review. DROP.
-Otto SP, Whitton J. 2000. Polyploid incidence and evolution. Annu Rev Genet 34:401-437. Review. Skip.
-Soltis DE / Soltis PS. 1999 / 2009 polyploidy papers. Review or not opened as a distinct original. Stebbins 1947, Masterson 1994, and Husband 2000 remain. DROP.
-Adams KL, Wendel JF. 2005. Polyploidy and genome evolution in plants. Curr Opin Plant Biol 8(2):135-141. Tagged Review. DROP.
-Edger PP, Pires JC. 2009. Gene and genome duplications: the impact of dosage-sensitivity on the fate of nuclear genes. Chromosome Res 17(5):699-717. Tagged Review. Birchler 2007 remains. DROP.
-Mallet J. 2007. Hybrid speciation. Nature 446:279-283. Review dump. Rieseberg 2003 remains. DROP.
-Arnold ML. 1992 / 1997 hybridization papers / books. Not locked as a distinct original. Skip.
-Grant V. 1981. Plant Speciation. Book. Skip.
-Stebbins GL. 1950. Variation and Evolution in Plants. Book. Skip.
-Ohno S. 1970. Evolution by Gene Duplication. Already filled gene balance. Skip.
-Force A, Lynch M, Pickett FB, Amores A, Yan YL, Postlethwait J. 1999. Preservation of duplicate genes by complementary, degenerative mutations. Genetics 151:1531-1545. Already filled DDC. Skip.
-Ohno S. 1972. So much "junk" DNA in our genome. Brookhaven Symp Biol 23:366-370. Already filled C-value / junk. Skip.
-Innan H, Kondrashov F. 2010. The evolution of gene duplications: classifying and distinguishing between models. Nat Rev Genet 11:97-108. Review. Skip.
-Zhang J. 2003. Evolution by gene duplication: an update. Trends Ecol Evol 18:292-298. Review. Skip.
-Nei M, Rooney AP. 2005. Concerted and birth-and-death evolution of multigene families. Annu Rev Genet 39:121-152. Review. Skip.
-Hughes AL. 1999. Adaptive Evolution of Genes and Genomes. Book. 1994 is the lock. Skip.
-Walsh B. 2003. Population-genetic models of the fates of duplicate genes. Genetica or related 2003 paper. Not opened. 1995 is the lock. DROP.
-Cavalier-Smith T. 2005. Economy, speed and size matter: evolutionary forces driving nuclear genome miniaturization and expansion. Ann Bot 95:147-175. Not opened as a distinct original. 1978 is the lock. DROP.
+Lande R. 1976. Natural selection and random genetic drift in phenotypic evolution. Evolution 30(2):314-334. DOI 10.1111/j.1558-5646.1976.tb00911.x PMID 28563044. EuropePMC HTML reopened; still no abstract / no claim text. 1979 remains the G-matrix lock. Omitted.
+Lande R. 1980. The genetic covariance between characters maintained by pleiotropic mutations. Genetics 94(1):203-215. DOI 10.1093/genetics/94.1.203. Genetics / OUP Cloudflare; PMC ID not opened with claim text. Omitted.
+Bulmer MG. 1971. The effect of selection on genetic variability. Am Nat 105(943):201-211. DOI 10.1086/282718. Still no EuropePMC claim page. Omitted.
+Kimura M, Ohta T. 1971. Protein polymorphism as a phase of molecular evolution. Nature 229(5285):467-469. DOI 10.1038/229467a0 PMID 4925204. Still no abstract / no claim text. Omitted.
+Wright S. 1938. Size of population and breeding structure in relation to evolution. Science 87:430-431. Short letter. Wright 1931 remains. Omitted.
+Coyne JA, Orr HA. 1997. "Patterns of speciation in Drosophila" revisited. Evolution 51(1):295-303. Revisit; 1989 is the lock. Omitted.
+Gavrilets S. 1999. A dynamical theory of speciation on holey adaptive landscapes. Am Nat 154(1):1-22. DOI 10.1086/303217. Chicago still not opened. 2000 remains. Omitted.
+Kondrashov AS. 1988. Deleterious mutations and the evolution of sexual reproduction. Nature 336:435-440. Already dropped. Omitted.
+Levin DA. 1975. Minority cytotype exclusion in local plant populations. Taxon 24:35-43. DOI 10.2307/1218997. Wiley HTML timed out; no EuropePMC claim page opened. Husband 2000 is the lock. Omitted.
+Levin DA. 1983. Polyploidy and novelty in flowering plants. Am Nat 122(1):1-25. DOI 10.1086/284115. Chicago HTML timed out. Omitted.
+Husband BC. 2004. The role of triploid hybrids in the evolutionary dynamics of mixed-ploidy populations. Heredity or related 2004 paper. Not opened. 2000 is the lock. Omitted.
+Ramsey J, Schemske DW. 1998. Pathways, mechanisms, and rates of polyploid formation in flowering plants. Annu Rev Ecol Syst 29:467-501. Review article; not used as a primary source.
+Ramsey J, Schemske DW. 2002. Neopolyploidy in flowering plants. Annu Rev Ecol Syst 33:589-639. Review article; not used as a primary source.
+Comai L. 2005. The advantages and disadvantages of being polyploid. Nat Rev Genet 6(11):836-846. Tagged as a review article; not used as a primary source.
+Otto SP, Whitton J. 2000. Polyploid incidence and evolution. Annu Rev Genet 34:401-437. Review article; not used as a primary source.
+Soltis DE / Soltis PS. 1999 / 2009 polyploidy papers. Review or not opened as a distinct original. Stebbins 1947, Masterson 1994, and Husband 2000 remain. Not used as a primary source.
+Adams KL, Wendel JF. 2005. Polyploidy and genome evolution in plants. Curr Opin Plant Biol 8(2):135-141. Tagged as a review article; not used as a primary source.
+Edger PP, Pires JC. 2009. Gene and genome duplications: the impact of dosage-sensitivity on the fate of nuclear genes. Chromosome Res 17(5):699-717. Tagged as a review article; not used as a primary source. Birchler 2007 remains.
+Mallet J. 2007. Hybrid speciation. Nature 446:279-283. Review article; not used as a primary source. Rieseberg 2003 remains.
+Arnold ML. 1992 / 1997 hybridization papers / books. Not locked as a distinct original. Omitted.
+Grant V. 1981. Plant Speciation. Book. Omitted.
+Stebbins GL. 1950. Variation and Evolution in Plants. Book. Omitted.
+Ohno S. 1970. Evolution by Gene Duplication. Already filled gene balance. Omitted.
+Force A, Lynch M, Pickett FB, Amores A, Yan YL, Postlethwait J. 1999. Preservation of duplicate genes by complementary, degenerative mutations. Genetics 151:1531-1545. Already filled DDC. Omitted.
+Ohno S. 1972. So much "junk" DNA in our genome. Brookhaven Symp Biol 23:366-370. Already filled C-value / junk. Omitted.
+Innan H, Kondrashov F. 2010. The evolution of gene duplications: classifying and distinguishing between models. Nat Rev Genet 11:97-108. Review article; not used as a primary source.
+Zhang J. 2003. Evolution by gene duplication: an update. Trends Ecol Evol 18:292-298. Review article; not used as a primary source.
+Nei M, Rooney AP. 2005. Concerted and birth-and-death evolution of multigene families. Annu Rev Genet 39:121-152. Review article; not used as a primary source.
+Hughes AL. 1999. Adaptive Evolution of Genes and Genomes. Book. 1994 is the lock. Omitted.
+Walsh B. 2003. Population-genetic models of the fates of duplicate genes. Genetica or related 2003 paper. Not opened. 1995 is the lock. Omitted.
+Cavalier-Smith T. 2005. Economy, speed and size matter: evolutionary forces driving nuclear genome miniaturization and expansion. Ann Bot 95:147-175. Not opened as a distinct original. 1978 is the lock. Omitted.
 
 - Do not cite Lande 1976 as the phenotypic-drift source (still no claim text; 1979 remains G-matrix).
 - Do not cite Lande 1980 as the pleiotropic-covariance source (page still not opened).
@@ -981,38 +981,38 @@ Cavalier-Smith T. 2005. Economy, speed and size matter: evolutionary forces driv
 - Do not write VviAGL11 as the sex locus (Dong 2023 chromosome-2 SDR).
 - Do not invent a grape gene-duplication-rate, subfunction-probability, DLS, neofunctionalization, gene-sharing, minority-cytotype, structured-DMI, or nucleoskeletal paper.
 
-Lande R. 1976. Natural selection and random genetic drift in phenotypic evolution. Evolution 30(2):314-334. DOI 10.1111/j.1558-5646.1976.tb00911.x PMID 28563044. EuropePMC HTML reopened this wave; still no abstract / no claim text. 1975 is the mutation-VA lock. 1979 remains G-matrix. DROP this wave.
-Bulmer MG. 1971. The effect of selection on genetic variability. Am Nat 105(943):201-211. DOI 10.1086/282718. Still no EuropePMC claim page. DROP this wave.
-Wright S. 1951. The genetical structure of populations. Ann Eugen 15:323-354. DOI 10.1111/j.1469-1809.1949.tb02451.x PMID 24540312. PubMed / EuropePMC still no abstract. 1931 / 1943 / 1984 remain. DROP this wave.
-Wright S. 1965. The interpretation of population structure by F-statistics with special regard to systems of mating. Evolution 19(3):395-420. DOI 10.1111/j.1558-5646.1965.tb01731.x. Still no lockable claim page. DROP this wave.
-Coyne JA, Orr HA. 1997. "Patterns of speciation in Drosophila" revisited. Evolution 51(1):295-303. DOI 10.1111/j.1558-5646.1997.tb02412.x. EuropePMC reopened; still no abstract. 1989 is the lock. DROP.
-Gavrilets S. 1999. A dynamical theory of speciation on holey adaptive landscapes. Am Nat 154(1):1-22. DOI 10.1086/303217. Chicago still not opened. 1997 Evolution and 2000 remain. DROP this wave.
-Gavrilets S. 1997. Evolution and speciation on holey adaptive landscapes. Trends Ecol Evol 12:307-312. Review. The 1997 Evolution paper is the lock. Skip.
-Levin DA. 1975. Minority cytotype exclusion in local plant populations. Taxon 24:35-43. DOI 10.2307/1218997. Wiley HTML Cloudflare this wave; no EuropePMC claim page opened. Husband 2000 is the lock. DROP this wave.
-Levin DA. 1983. Polyploidy and novelty in flowering plants. Am Nat 122(1):1-25. DOI 10.1086/284115. Chicago HTML Cloudflare. DROP this wave.
-Husband BC. 2004. The role of triploid hybrids in the evolutionary dynamics of mixed-ploidy populations. Biol J Linn Soc 82:537-546. DOI 10.1111/j.1095-8312.2004.00339.x. OUP / Paperity Cloudflare; EuropePMC record has no abstract. 2000 is the lock. DROP this wave.
-Felber F. 1991. Establishment of a tetraploid cytotype in a diploid population. J Evol Biol 4:195-207. DOI 10.1046/j.1420-9101.1991.4020195.x. Wiley not opened. DROP.
-Ramsey J, Schemske DW. 1998. Pathways, mechanisms, and rates of polyploid formation in flowering plants. Annu Rev Ecol Syst 29:467-501. Review. Skip.
-Ramsey J, Schemske DW. 2002. Neopolyploidy in flowering plants. Annu Rev Ecol Syst 33:589-639. Review. Skip.
-Comai L. 2005. The advantages and disadvantages of being polyploid. Nat Rev Genet 6(11):836-846. Tagged Review. DROP.
-Otto SP, Whitton J. 2000. Polyploid incidence and evolution. Annu Rev Genet 34:401-437. Review. Skip.
-Soltis PS, Soltis DE. 2000. The role of genetic and genomic attributes in the success of polyploids. Proc Natl Acad Sci USA 97:7051-7057. DOI 10.1073/pnas.97.13.7051. Opens with "we review"; review dump. Stebbins 1947, Masterson 1994, and Husband 2000 remain. DROP.
-Adams KL, Wendel JF. 2005. Polyploidy and genome evolution in plants. Curr Opin Plant Biol 8(2):135-141. Tagged Review. DROP.
-Edger PP, Pires JC. 2009. Gene and genome duplications: the impact of dosage-sensitivity on the fate of nuclear genes. Chromosome Res 17(5):699-717. Tagged Review. Birchler 2007 remains. DROP.
-Mallet J. 2007. Hybrid speciation. Nature 446:279-283. Review dump. Rieseberg 2003 remains. DROP.
-Arnold ML. 1992 / 1997 hybridization papers / books. Not locked as a distinct original. Skip.
-Grant V. 1981. Plant Speciation. Book. Skip.
-Mayr E. 1954. Change of genetic environment and evolution. Pp. 157-180 in Huxley J, Hardy AC, Ford EB, eds. Evolution as a Process. Allen and Unwin, London. Ridley listing reopened this wave; chapter PDF still not opened. 1942 remains BSC. DROP this wave.
-Ohno S. 1970. Evolution by Gene Duplication. Already filled gene balance. Skip.
-Force A, Lynch M, Pickett FB, Amores A, Yan YL, Postlethwait J. 1999. Preservation of duplicate genes by complementary, degenerative mutations. Genetics 151:1531-1545. Already filled DDC. Skip.
-Innan H, Kondrashov F. 2010. The evolution of gene duplications: classifying and distinguishing between models. Nat Rev Genet 11:97-108. Review. Skip.
-Zhang J. 2003. Evolution by gene duplication: an update. Trends Ecol Evol 18:292-298. Review. Skip.
-Nei M, Rooney AP. 2005. Concerted and birth-and-death evolution of multigene families. Annu Rev Genet 39:121-152. Review. Skip.
-Hughes AL. 1999. Adaptive Evolution of Genes and Genomes. Book. 1994 is the lock. Skip.
-Cavalier-Smith T. 2005. Economy, speed and size matter: evolutionary forces driving nuclear genome miniaturization and expansion. Ann Bot 95:147-175. Skip as review / later synthesis. 1978 remains.
-Bennett MD, Leitch IJ. Plant DNA C-values reviews. Review. Skip.
-Wendel JF. 2000 / later genome-evolution reviews. Review. Skip.
-Freeling M. 2009. Bias in plant gene content following different sorts of duplication. Review. Skip.
+Lande R. 1976. Natural selection and random genetic drift in phenotypic evolution. Evolution 30(2):314-334. DOI 10.1111/j.1558-5646.1976.tb00911.x PMID 28563044. EuropePMC HTML reopened; still no abstract / no claim text. 1975 is the mutation-VA lock. 1979 remains G-matrix. Omitted.
+Bulmer MG. 1971. The effect of selection on genetic variability. Am Nat 105(943):201-211. DOI 10.1086/282718. Still no EuropePMC claim page. Omitted.
+Wright S. 1951. The genetical structure of populations. Ann Eugen 15:323-354. DOI 10.1111/j.1469-1809.1949.tb02451.x PMID 24540312. PubMed / EuropePMC still no abstract. 1931 / 1943 / 1984 remain. Omitted.
+Wright S. 1965. The interpretation of population structure by F-statistics with special regard to systems of mating. Evolution 19(3):395-420. DOI 10.1111/j.1558-5646.1965.tb01731.x. Still no lockable claim page. Omitted.
+Coyne JA, Orr HA. 1997. "Patterns of speciation in Drosophila" revisited. Evolution 51(1):295-303. DOI 10.1111/j.1558-5646.1997.tb02412.x. EuropePMC reopened; still no abstract. 1989 is the lock. Omitted.
+Gavrilets S. 1999. A dynamical theory of speciation on holey adaptive landscapes. Am Nat 154(1):1-22. DOI 10.1086/303217. Chicago still not opened. 1997 Evolution and 2000 remain. Omitted.
+Gavrilets S. 1997. Evolution and speciation on holey adaptive landscapes. Trends Ecol Evol 12:307-312. Review article; not used as a primary source. The 1997 Evolution paper is the lock.
+Levin DA. 1975. Minority cytotype exclusion in local plant populations. Taxon 24:35-43. DOI 10.2307/1218997. Wiley HTML Cloudflare; no EuropePMC claim page opened. Husband 2000 is the lock. Omitted.
+Levin DA. 1983. Polyploidy and novelty in flowering plants. Am Nat 122(1):1-25. DOI 10.1086/284115. Chicago HTML Cloudflare. Omitted.
+Husband BC. 2004. The role of triploid hybrids in the evolutionary dynamics of mixed-ploidy populations. Biol J Linn Soc 82:537-546. DOI 10.1111/j.1095-8312.2004.00339.x. OUP / Paperity Cloudflare; EuropePMC record has no abstract. 2000 is the lock. Omitted.
+Felber F. 1991. Establishment of a tetraploid cytotype in a diploid population. J Evol Biol 4:195-207. DOI 10.1046/j.1420-9101.1991.4020195.x. Wiley not opened. Omitted.
+Ramsey J, Schemske DW. 1998. Pathways, mechanisms, and rates of polyploid formation in flowering plants. Annu Rev Ecol Syst 29:467-501. Review article; not used as a primary source.
+Ramsey J, Schemske DW. 2002. Neopolyploidy in flowering plants. Annu Rev Ecol Syst 33:589-639. Review article; not used as a primary source.
+Comai L. 2005. The advantages and disadvantages of being polyploid. Nat Rev Genet 6(11):836-846. Tagged as a review article; not used as a primary source.
+Otto SP, Whitton J. 2000. Polyploid incidence and evolution. Annu Rev Genet 34:401-437. Review article; not used as a primary source.
+Soltis PS, Soltis DE. 2000. The role of genetic and genomic attributes in the success of polyploids. Proc Natl Acad Sci USA 97:7051-7057. DOI 10.1073/pnas.97.13.7051. Opens with "we review"; review article. Stebbins 1947, Masterson 1994, and Husband 2000 remain. Not used as a primary source.
+Adams KL, Wendel JF. 2005. Polyploidy and genome evolution in plants. Curr Opin Plant Biol 8(2):135-141. Tagged as a review article; not used as a primary source.
+Edger PP, Pires JC. 2009. Gene and genome duplications: the impact of dosage-sensitivity on the fate of nuclear genes. Chromosome Res 17(5):699-717. Tagged as a review article; not used as a primary source. Birchler 2007 remains.
+Mallet J. 2007. Hybrid speciation. Nature 446:279-283. Review article; not used as a primary source. Rieseberg 2003 remains.
+Arnold ML. 1992 / 1997 hybridization papers / books. Not locked as a distinct original. Omitted.
+Grant V. 1981. Plant Speciation. Book. Omitted.
+Mayr E. 1954. Change of genetic environment and evolution. Pp. 157-180 in Huxley J, Hardy AC, Ford EB, eds. Evolution as a Process. Allen and Unwin, London. Ridley listing reopened; chapter PDF still not opened. 1942 remains BSC. Omitted.
+Ohno S. 1970. Evolution by Gene Duplication. Already filled gene balance. Omitted.
+Force A, Lynch M, Pickett FB, Amores A, Yan YL, Postlethwait J. 1999. Preservation of duplicate genes by complementary, degenerative mutations. Genetics 151:1531-1545. Already filled DDC. Omitted.
+Innan H, Kondrashov F. 2010. The evolution of gene duplications: classifying and distinguishing between models. Nat Rev Genet 11:97-108. Review article; not used as a primary source.
+Zhang J. 2003. Evolution by gene duplication: an update. Trends Ecol Evol 18:292-298. Review article; not used as a primary source.
+Nei M, Rooney AP. 2005. Concerted and birth-and-death evolution of multigene families. Annu Rev Genet 39:121-152. Review article; not used as a primary source.
+Hughes AL. 1999. Adaptive Evolution of Genes and Genomes. Book. 1994 is the lock. Omitted.
+Cavalier-Smith T. 2005. Economy, speed and size matter: evolutionary forces driving nuclear genome miniaturization and expansion. Ann Bot 95:147-175. Review / later synthesis; not used as a primary source. 1978 remains.
+Bennett MD, Leitch IJ. Plant DNA C-values reviews. Review article; not used as a primary source.
+Wendel JF. 2000 / later genome-evolution reviews. Review article; not used as a primary source.
+Freeling M. 2009. Bias in plant gene content following different sorts of duplication. Review article; not used as a primary source.
 
 - Do not cite Lande 1976 as the phenotypic-drift source (still no claim text; 1975 is the mutation-VA lock; 1979 remains G-matrix).
 - Do not cite Bulmer 1971 / 1980 as the variance-disequilibrium source (page not opened).
@@ -1052,7 +1052,7 @@ Freeling M. 2009. Bias in plant gene content following different sorts of duplic
 - Do not cite Mayr 1954 as the founder / genetic-revolution source (chapter PDF not opened; 1942 remains BSC).
 - Do not cite Fisher 1937 as the wave-of-advance source (claim text not locked on a page we opened).
 - Do not cite Jukes and Cantor 1969 as the distance source (book chapter; no lockable claim page).
-- Do not cite Stephan 1992 as the diffusion-hitchhiking source (page not opened; Kaplan-Hudson-Langley 1989 remains the filled lock, not a sixteenth-wave add).
+- Do not cite Stephan 1992 as the diffusion-hitchhiking source (page not opened; Kaplan-Hudson-Langley 1989 remains the filled lock).
 - Do not write Gavrilets 1999 as Gavrilets 1997 Evolution or as Gavrilets 2000 or as the 1997 TREE review.
 - Do not write Levin 1975 as Husband 2000.
 - Do not write Felber 1991 as Levin 1975 or as Husband 2000.
@@ -1063,37 +1063,37 @@ Freeling M. 2009. Bias in plant gene content following different sorts of duplic
 - Do not write VviAGL11 as the sex locus (Dong 2023 chromosome-2 SDR).
 - Do not invent a grape holey-ridge, minority-cytotype, 2n-gamete, s_crit, recombination-modifier, epigenetic-complementation, or triploid-fitness paper.
 
-Lande R. 1976. Natural selection and random genetic drift in phenotypic evolution. Evolution 30(2):314-334. DOI 10.1111/j.1558-5646.1976.tb00911.x PMID 28563044. EuropePMC HTML reopened this wave; still no abstract / no claim text. 1975 remains mutation-VA. 1979 remains G-matrix. 1980 remains pleiotropic covariance. DROP this wave.
-Bulmer MG. 1971. The effect of selection on genetic variability. Am Nat 105(943):201-211. DOI 10.1086/282718. Crossref / EuropePMC still no claim text. DROP this wave.
-Wright S. 1951. The genetical structure of populations. Ann Eugen 15:323-354. DOI 10.1111/j.1469-1809.1949.tb02451.x PMID 24540312. PubMed / EuropePMC still no abstract. 1931 / 1943 / 1984 remain. DROP this wave.
-Wright S. 1965. The interpretation of population structure by F-statistics with special regard to systems of mating. Evolution 19(3):395-420. DOI 10.1111/j.1558-5646.1965.tb01731.x. Still no lockable claim page. DROP this wave.
-Coyne JA, Orr HA. 1997. "Patterns of speciation in Drosophila" revisited. Evolution 51(1):295-303. DOI 10.1111/j.1558-5646.1997.tb02412.x PMID 28568795. EuropePMC reopened; still no abstract. 1989 is the lock. DROP.
-Levin DA. 1983. Polyploidy and novelty in flowering plants. Am Nat 122(1):1-25. DOI 10.1086/284115. Crossref / Chicago still no claim text. DROP this wave.
-Husband BC. 2004. The role of triploid hybrids in the evolutionary dynamics of mixed-ploidy populations. Biol J Linn Soc 82:537-546. DOI 10.1111/j.1095-8312.2004.00339.x. OUP Cloudflare; EuropePMC / Crossref have no abstract. 2000 is the experimental lock. Felber-Bever 1997 is the triploid-fitness lock. DROP this wave.
-Fowler NL, Levin DA. 1984. Ecological constraints on the establishment of a novel polyploid in competition with its diploid progenitor. Am Nat 124:703-711. DOI 10.1086/284307. Chicago / Crossref still no abstract on a page we opened. DROP this wave.
-Mayr E. 1954. Change of genetic environment and evolution. Pp. 157-180 in Huxley J, Hardy AC, Ford EB, eds. Evolution as a Process. Allen and Unwin, London. Chapter PDF still not opened. 1942 remains BSC. DROP this wave.
-Fisher RA. 1937. The wave of advance of advantageous genes. Ann Eugen 7:355-369. DOI 10.1111/j.1469-1809.1937.tb02153.x. Wiley abstract is the journal disclaimer, not the claim. Adelaide item page has no abstract. DROP this wave.
-Jukes TH, Cantor CR. 1969. Evolution of protein molecules. In Munro HN, ed. Mammalian Protein Metabolism, vol. III. Academic Press, New York. pp. 21-132. DOI 10.1016/B978-1-4832-3211-9.50009-7. Book chapter; ScienceOpen / Crossref have no claim text. DROP this wave.
-Stephan W, Wiehe THE, Lenz MW. 1992. The effect of strongly selected substitutions on neutral polymorphism: analytical results based on diffusion theory. Theor Popul Biol 41:237-254. DOI 10.1016/0040-5809(92)90045-U. ScienceDirect HTML did not yield claim text. Kaplan-Hudson-Langley 1989 remains the filled lock (already a wave-9 note; not added this wave). DROP this wave.
-Barton NH. 2000. Genetic hitchhiking. Philos Trans R Soc Lond B 355:1553-1562. DOI 10.1098/rstb.2000.0716 PMID 11127900 PMC1692896. EuropePMC tags Review. Otto-Barton 1997 and Barton 1995 are the locks. Skip.
-Charlesworth B, Charlesworth D, Barton NH. 2003. The effects of genetic and geographic structure on neutral variation. Annu Rev Ecol Evol Syst 34:99-125. DOI 10.1146/annurev.ecolsys.34.011802.132359. Tagged Review. Skip.
-Ramsey J, Schemske DW. 1998. Pathways, mechanisms, and rates of polyploid formation in flowering plants. Annu Rev Ecol Syst 29:467-501. Review. Skip.
-Ramsey J, Schemske DW. 2002. Neopolyploidy in flowering plants. Annu Rev Ecol Syst 33:589-639. Review. Skip.
-Comai L. 2005. The advantages and disadvantages of being polyploid. Nat Rev Genet 6(11):836-846. Tagged Review. DROP.
-Otto SP, Whitton J. 2000. Polyploid incidence and evolution. Annu Rev Genet 34:401-437. Review. Skip.
-Soltis DE, Soltis PS. 1999. Polyploidy: recurrent formation and genome evolution. Trends Ecol Evol 14:348-352. Review. Skip.
-Soltis PS, Soltis DE. 2000. The role of genetic and genomic attributes in the success of polyploids. Proc Natl Acad Sci USA 97:7051-7057. DOI 10.1073/pnas.97.13.7051. Opens with "we review"; review dump. DROP.
-Adams KL, Wendel JF. 2005. Polyploidy and genome evolution in plants. Curr Opin Plant Biol 8(2):135-141. Tagged Review. DROP.
-Edger PP, Pires JC. 2009. Gene and genome duplications: the impact of dosage-sensitivity on the fate of nuclear genes. Chromosome Res 17(5):699-717. Tagged Review. Birchler 2007 remains. DROP.
-Mallet J. 2007. Hybrid speciation. Nature 446:279-283. Review dump. Rieseberg 2003 remains. DROP.
-Arnold ML. 1992 / 1997 hybridization papers / books. Not locked as a distinct original. Skip.
-Grant V. 1981. Plant Speciation. Book. Skip.
-Ohno S. 1970. Evolution by Gene Duplication. Already filled gene balance. Skip.
-Force A, Lynch M, Pickett FB, Amores A, Yan YL, Postlethwait J. 1999. Preservation of duplicate genes by complementary, degenerative mutations. Genetics 151:1531-1545. Already filled DDC. Skip.
-Innan H, Kondrashov F. 2010. The evolution of gene duplications: classifying and distinguishing between models. Nat Rev Genet 11:97-108. Review. Skip.
-Zhang J. 2003. Evolution by gene duplication: an update. Trends Ecol Evol 18:292-298. Review. Skip.
-Nei M, Rooney AP. 2005. Concerted and birth-and-death evolution of multigene families. Annu Rev Genet 39:121-152. Review. Skip.
-Hughes AL. 1999. Adaptive Evolution of Genes and Genomes. Book. 1994 is the lock. Skip.
-Slatkin M. 1987. Gene flow and the geographic structure of natural populations. Science 236:787-792. Review. Skip.
+Lande R. 1976. Natural selection and random genetic drift in phenotypic evolution. Evolution 30(2):314-334. DOI 10.1111/j.1558-5646.1976.tb00911.x PMID 28563044. EuropePMC HTML reopened; still no abstract / no claim text. 1975 remains mutation-VA. 1979 remains G-matrix. 1980 remains pleiotropic covariance. Omitted.
+Bulmer MG. 1971. The effect of selection on genetic variability. Am Nat 105(943):201-211. DOI 10.1086/282718. Crossref / EuropePMC still no claim text. Omitted.
+Wright S. 1951. The genetical structure of populations. Ann Eugen 15:323-354. DOI 10.1111/j.1469-1809.1949.tb02451.x PMID 24540312. PubMed / EuropePMC still no abstract. 1931 / 1943 / 1984 remain. Omitted.
+Wright S. 1965. The interpretation of population structure by F-statistics with special regard to systems of mating. Evolution 19(3):395-420. DOI 10.1111/j.1558-5646.1965.tb01731.x. Still no lockable claim page. Omitted.
+Coyne JA, Orr HA. 1997. "Patterns of speciation in Drosophila" revisited. Evolution 51(1):295-303. DOI 10.1111/j.1558-5646.1997.tb02412.x PMID 28568795. EuropePMC reopened; still no abstract. 1989 is the lock. Omitted.
+Levin DA. 1983. Polyploidy and novelty in flowering plants. Am Nat 122(1):1-25. DOI 10.1086/284115. Crossref / Chicago still no claim text. Omitted.
+Husband BC. 2004. The role of triploid hybrids in the evolutionary dynamics of mixed-ploidy populations. Biol J Linn Soc 82:537-546. DOI 10.1111/j.1095-8312.2004.00339.x. OUP Cloudflare; EuropePMC / Crossref have no abstract. 2000 is the experimental lock. Felber-Bever 1997 is the triploid-fitness lock. Omitted.
+Fowler NL, Levin DA. 1984. Ecological constraints on the establishment of a novel polyploid in competition with its diploid progenitor. Am Nat 124:703-711. DOI 10.1086/284307. Chicago / Crossref still no abstract on a page we opened. Omitted.
+Mayr E. 1954. Change of genetic environment and evolution. Pp. 157-180 in Huxley J, Hardy AC, Ford EB, eds. Evolution as a Process. Allen and Unwin, London. Chapter PDF still not opened. 1942 remains BSC. Omitted.
+Fisher RA. 1937. The wave of advance of advantageous genes. Ann Eugen 7:355-369. DOI 10.1111/j.1469-1809.1937.tb02153.x. Wiley abstract is the journal disclaimer, not the claim. Adelaide item page has no abstract. Omitted.
+Jukes TH, Cantor CR. 1969. Evolution of protein molecules. In Munro HN, ed. Mammalian Protein Metabolism, vol. III. Academic Press, New York. pp. 21-132. DOI 10.1016/B978-1-4832-3211-9.50009-7. Book chapter; ScienceOpen / Crossref have no claim text. Omitted.
+Stephan W, Wiehe THE, Lenz MW. 1992. The effect of strongly selected substitutions on neutral polymorphism: analytical results based on diffusion theory. Theor Popul Biol 41:237-254. DOI 10.1016/0040-5809(92)90045-U. ScienceDirect HTML did not yield claim text. Kaplan-Hudson-Langley 1989 remains the filled lock (already covered by an existing note). Omitted.
+Barton NH. 2000. Genetic hitchhiking. Philos Trans R Soc Lond B 355:1553-1562. DOI 10.1098/rstb.2000.0716 PMID 11127900 PMC1692896. EuropePMC tags it as a review; not used as a primary source. Otto-Barton 1997 and Barton 1995 are the locks.
+Charlesworth B, Charlesworth D, Barton NH. 2003. The effects of genetic and geographic structure on neutral variation. Annu Rev Ecol Evol Syst 34:99-125. DOI 10.1146/annurev.ecolsys.34.011802.132359. Tagged as a review article; not used as a primary source.
+Ramsey J, Schemske DW. 1998. Pathways, mechanisms, and rates of polyploid formation in flowering plants. Annu Rev Ecol Syst 29:467-501. Review article; not used as a primary source.
+Ramsey J, Schemske DW. 2002. Neopolyploidy in flowering plants. Annu Rev Ecol Syst 33:589-639. Review article; not used as a primary source.
+Comai L. 2005. The advantages and disadvantages of being polyploid. Nat Rev Genet 6(11):836-846. Tagged as a review article; not used as a primary source.
+Otto SP, Whitton J. 2000. Polyploid incidence and evolution. Annu Rev Genet 34:401-437. Review article; not used as a primary source.
+Soltis DE, Soltis PS. 1999. Polyploidy: recurrent formation and genome evolution. Trends Ecol Evol 14:348-352. Review article; not used as a primary source.
+Soltis PS, Soltis DE. 2000. The role of genetic and genomic attributes in the success of polyploids. Proc Natl Acad Sci USA 97:7051-7057. DOI 10.1073/pnas.97.13.7051. Opens with "we review"; a review article, not used as a primary source.
+Adams KL, Wendel JF. 2005. Polyploidy and genome evolution in plants. Curr Opin Plant Biol 8(2):135-141. Tagged as a review article; not used as a primary source.
+Edger PP, Pires JC. 2009. Gene and genome duplications: the impact of dosage-sensitivity on the fate of nuclear genes. Chromosome Res 17(5):699-717. Tagged as a review article; not used as a primary source. Birchler 2007 remains.
+Mallet J. 2007. Hybrid speciation. Nature 446:279-283. Review article; not used as a primary source. Rieseberg 2003 remains.
+Arnold ML. 1992 / 1997 hybridization papers / books. Not locked as a distinct original. Omitted.
+Grant V. 1981. Plant Speciation. Book. Omitted.
+Ohno S. 1970. Evolution by Gene Duplication. Already filled gene balance. Omitted.
+Force A, Lynch M, Pickett FB, Amores A, Yan YL, Postlethwait J. 1999. Preservation of duplicate genes by complementary, degenerative mutations. Genetics 151:1531-1545. Already filled DDC. Omitted.
+Innan H, Kondrashov F. 2010. The evolution of gene duplications: classifying and distinguishing between models. Nat Rev Genet 11:97-108. Review article; not used as a primary source.
+Zhang J. 2003. Evolution by gene duplication: an update. Trends Ecol Evol 18:292-298. Review article; not used as a primary source.
+Nei M, Rooney AP. 2005. Concerted and birth-and-death evolution of multigene families. Annu Rev Genet 39:121-152. Review article; not used as a primary source.
+Hughes AL. 1999. Adaptive Evolution of Genes and Genomes. Book. 1994 is the lock. Omitted.
+Slatkin M. 1987. Gene flow and the geographic structure of natural populations. Science 236:787-792. Review article; not used as a primary source.
 
 Related: `plant-lit-review`, `vitis-popgen`, `grapevine-adna`, `vitis-pangenome`.

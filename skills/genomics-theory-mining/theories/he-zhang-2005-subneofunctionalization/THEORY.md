@@ -44,7 +44,7 @@ Original paper (year): He X, Zhang J.
   degeneration; not the SNF sequence).
   Distinct from filled Walsh 1995 (neo
   versus null probability). Distinct
-  from filled Walsh 2003 this wave
+  from filled Walsh 2003
   (three-fate iteration). Distinct from
   filled Hughes 1994 (gene sharing /
   MDN). Distinct from filled Lynch and

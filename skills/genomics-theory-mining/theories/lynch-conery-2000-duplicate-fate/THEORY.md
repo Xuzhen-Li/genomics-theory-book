@@ -33,11 +33,11 @@ Original paper (year): Lynch M, Conery JS. 2000.
   1970 / Birchler 2007 gene balance. Distinct
   from filled Ohno 1972 C-value / junk. Distinct
   from filled Lynch and Force 2000 Genetics
-  (this wave; P(subfunctionalization) versus
+  (P(subfunctionalization) versus
   Ne). Distinct from filled Lynch and Force
-  2000 Am Nat (this wave; DLS incompatibility).
-  Distinct from filled Walsh 1995 (this wave;
-  neo-versus-pseudo probability, not the rate).
+  2000 Am Nat (DLS incompatibility).
+  Distinct from filled Walsh 1995
+  (neo-versus-pseudo probability, not the rate).
   Innan and Kondrashov 2010 and Zhang 2003
   were not used (reviews).
 One-sentence prediction: Gene duplicates arise

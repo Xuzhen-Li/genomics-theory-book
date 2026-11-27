@@ -46,13 +46,13 @@ Original paper (year): Felber F, Bever
   populations. OUP HTML Cloudflare;
   the lock is Crossref (author+year+
   venue) plus the DOI-landing claim.
-  Distinct from Felber 1991 this wave
+  Distinct from Felber 1991
   (two-cytotype 2n threshold; not
   triploid fitness). Distinct from
   filled Husband 2000 (experimental
   tetraploid fitness, not the 1997
   triploid-fitness model). Distinct
-  from Levin 1975 this wave. Husband
+  from Levin 1975. Husband
   2004 (triploid bridge in Chamerion)
   still has no opened abstract; 1997
   is the triploid-fitness lock. Distinct

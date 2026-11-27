@@ -39,8 +39,8 @@ Original paper (year): Rieseberg LH, Raymond O,
   (tension-zone dynamics / cline coupling / hybrid
   sink; not transgressive hybrid speciation).
   Distinct from filled Dobzhansky 1940 reinforcement.
-  Distinct from filled Barton and de Cara 2009 (this
-  wave; coupling of incompatibilities). Rieseberg
+  Distinct from filled Barton and de Cara 2009
+  (coupling of incompatibilities). Rieseberg
   1997 Annu Rev Ecol Syst is a review; not the
   source. Abbott commentary / reviews not used.
 One-sentence prediction: Complementary gene action in

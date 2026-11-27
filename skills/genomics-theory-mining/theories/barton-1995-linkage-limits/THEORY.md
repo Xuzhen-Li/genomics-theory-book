@@ -54,7 +54,7 @@ Original paper (year): Barton NH. 1995.
   1989 (sample polymorphism, not
   fixation of a weakly favored
   allele). Distinct from Otto and
-  Barton 1997 this wave (recombination
+  Barton 1997 (recombination
   modifier, not the 1995 s_crit).
   Distinct from filled Barton 1979 /
   1983 / 1986 hybrid-zone papers.

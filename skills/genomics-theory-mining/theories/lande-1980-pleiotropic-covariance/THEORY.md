@@ -40,7 +40,7 @@ Original paper (year): Lande R. 1980.
   beta / multivariate response; not the
   pleiotropy-versus-LD cause of
   correlations). Distinct from filled
-  Lande 1975 this wave (mutation-
+  Lande 1975 (mutation-
   maintained single-character VA; not
   between-character covariance).
   Distinct from filled Turelli 1984

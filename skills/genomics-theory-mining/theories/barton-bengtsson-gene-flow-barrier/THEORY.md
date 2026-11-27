@@ -35,7 +35,7 @@ Original paper (year): Barton N, Bengtsson BO. 1986. The
   among selected clines; not the 1986 barrier-strength
   result for neutrals). Distinct from filled Key 1968
   (names the tension zone). Distinct from filled Barton
-  1986 hybrid-sink paper (this wave; density / hybrid sink
+  1986 hybrid-sink paper (density / hybrid sink
   / linkage formula). Barton and Hewitt 1985 remains a
   review. Hewitt 1988 TREE is a review; not used.
 One-sentence prediction: A hybrid zone is a genome-wide

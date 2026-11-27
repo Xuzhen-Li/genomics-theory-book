@@ -46,13 +46,13 @@ Original paper (year): Lynch M, Force AG.
   Force 1999 DDC (preservation mechanism,
   not hybrid incompatibility). Distinct
   from filled Lynch and Force 2000 Genetics
-  (this wave; P of preservation, not DLS).
+  (P of preservation, not DLS).
   Distinct from filled Lynch and Conery
-  2000 (this wave; silencing rate, not the
+  2000 (silencing rate, not the
   interspecific map). Distinct from filled
   Rieseberg 2003 hybrid speciation.
   Distinct from filled Kondrashov 2003
-  (this wave; structured linear-versus-
+  (structured linear-versus-
   quadratic DMI, not duplicate resolution).
 One-sentence prediction: Isolated
   populations that silence different copies

@@ -26,7 +26,7 @@ Original paper (year): Tajima F, Nei M. 1984. Estimation
   but the pattern is quite irregular. Distinct from
   filled Tajima 1989 (Tajima D as pi versus theta_W; not
   a pairwise distance). Distinct from filled Kimura 1980
-  (this wave; transition / transversion K80, not unequal-
+  (transition / transversion K80, not unequal-
   rate delta). Distinct from filled Nei 1972 / 1978
   (allele-frequency distance, not nucleotide delta).
   Distinct from filled Zuckerkandl and Pauling 1962 /

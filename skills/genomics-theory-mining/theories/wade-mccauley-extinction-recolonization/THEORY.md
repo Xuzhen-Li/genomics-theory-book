@@ -28,7 +28,7 @@ Original paper (year): Wade MJ, McCauley DE. 1988. Extinction
   from filled Levins 1969 (occupancy as colonization-
   extinction balance; not FST / K versus 2Nm). Distinct from
   filled Wright 1931 island (static Nem; no extinction).
-  Distinct from filled Whitlock 1992 (this wave; demographic
+  Distinct from filled Whitlock 1992 (demographic
   fluctuations in general, not the 1988 colonization models).
   Pannell and Charlesworth 2000 is a review; not the source.
 One-sentence prediction: Extinction and recolonization raise

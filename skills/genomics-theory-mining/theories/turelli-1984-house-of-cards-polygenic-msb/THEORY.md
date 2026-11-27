@@ -39,10 +39,10 @@ Original paper (year): Turelli M. 1984.
   VA). Distinct from filled Fisher 1918
   infinitesimal. Distinct from filled Mukai
   1964 MA. Distinct from filled Lynch and
-  Hill 1986 (this wave; neutral Vm, not
+  Hill 1986 (neutral Vm, not
   stabilizing-selection House of Cards).
   Lande 1975 / 1976 / 1980 were not opened
-  as the source this wave.
+  as the source.
 One-sentence prediction: Equilibrium
   polygenic VA under mutation and stabilizing
   selection depends on per-locus mutation

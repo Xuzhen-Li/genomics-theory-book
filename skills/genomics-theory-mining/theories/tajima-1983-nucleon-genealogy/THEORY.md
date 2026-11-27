@@ -27,7 +27,7 @@ Original paper (year): Tajima F. 1983. Evolutionary
   theta_W; not this 1983 genealogy / variance theory).
   Distinct from filled Tajima and Nei 1984 (unequal-rate
   pairwise distance). Distinct from filled Nei and Li 1979
-  (this wave; defines pi; this paper is the sampling
+  (defines pi; this paper is the sampling
   variance / genealogy). Distinct from filled Kingman 1982
   (n-coalescent; not nucleon pairwise-difference variance).
   Distinct from filled Watterson 1975 (theta from S).

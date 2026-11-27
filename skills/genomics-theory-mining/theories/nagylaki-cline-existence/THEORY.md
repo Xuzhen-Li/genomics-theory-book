@@ -20,9 +20,9 @@ Original paper (year): Nagylaki T. 1975. Conditions for
   there is overdominance the population must be
   monomorphic. A barely existing cline can still show large
   gene-frequency variation. Distinct from filled Haldane
-  1948 (this wave; slope given that a cline exists).
-  Distinct from filled Slatkin 1973 (this wave;
-  characteristic length, not the existence threshold).
+  1948 (slope given that a cline exists).
+  Distinct from filled Slatkin 1973
+  (characteristic length, not the existence threshold).
   Distinct from filled Endler 1977.
 One-sentence prediction: Too much gene flow relative to
   selection erases a cline entirely (monomorphism), rather

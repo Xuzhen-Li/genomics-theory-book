@@ -43,8 +43,8 @@ Original paper (year): Orr HA, Turelli M.
   filled Turelli and Orr 1995 (dominance
   theory of Haldane's rule). Distinct from
   filled Rieseberg 2003 hybrid speciation.
-  Distinct from filled Gavrilets 2000 (this
-  wave; parapatric waiting time, not allopatric
+  Distinct from filled Gavrilets 2000
+  (parapatric waiting time, not allopatric
   pairwise p). Orr 2005 was not opened.
 One-sentence prediction: Pairwise DMI
   accumulation is a stochastic waiting-time

@@ -28,13 +28,13 @@ Original paper (year): Barton NH. 1986. The effects of
   filled Barton 1979 (dynamics of the tension zone; not
   this combined barrier formula). Distinct from filled
   Barton 1983 (coupling of selected clines). Distinct from
-  filled Barton and Bengtsson 1986 (this wave; genome-wide
+  filled Barton and Bengtsson 1986 (genome-wide
   barrier at linked neutrals when hybrids are substantially
   unfit and selected loci are numerous; not the hybrid-sink
   density formula). Distinct from filled Key 1968. Barton
   and Hewitt 1985 remains a review. Wallace 1975 hard /
   soft selection was not opened as a claim-text original
-  (wave 8 drop); not the source.
+  (previously omitted); not the source.
 One-sentence prediction: A hybrid zone impedes gene flow
   by the product of a physical barrier, a hybrid-sink
   density dip, and linkage to selected loci; density

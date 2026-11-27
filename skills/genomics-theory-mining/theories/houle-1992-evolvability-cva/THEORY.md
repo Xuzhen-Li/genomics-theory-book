@@ -34,10 +34,10 @@ Original paper (year): Houle D. 1992.
   1979 (G beta; not the comparative measure).
   Distinct from filled Fisher 1918
   infinitesimal. Distinct from filled Turelli
-  1984 (this wave; how VA is maintained, not
+  1984 (how VA is maintained, not
   how to compare evolvability). Distinct from
-  filled Lynch and Hill 1986 (this wave;
-  neutral Vm). Distinct from filled Berg-Coop
+  filled Lynch and Hill 1986
+  (neutral Vm). Distinct from filled Berg-Coop
   2014 polygenic adaptation.
 One-sentence prediction: Evolvability is
   compared as mean-standardized CVA, not as

@@ -21,8 +21,8 @@ Original paper (year): Endler JA. 1977. Geographic
   speciation; hybrid zones; sexual isolation). Distinct
   from filled Wright 1943 IBD (similarity declines with
   continuous distance; not a speciation-despite-gene-flow
-  claim). Distinct from filled Barton 1979 (this wave;
-  tension-zone dynamics, not the cline / parapatric book).
+  claim). Distinct from filled Barton 1979
+  (tension-zone dynamics, not the cline / parapatric book).
   Distinct from filled Mayr 1942 BSC and filled
   Ramachandran et al. 2005 serial founder.
 One-sentence prediction: Steep clines, and a parapatric

@@ -46,8 +46,8 @@ Original paper (year): Lande R. 1975. The
   infinitesimal. Distinct from filled
   Houle 1992 CVA. Lande 1976 Evolution
   still has no abstract (EuropePMC
-  reopened this wave). Lande 1980 is a
-  separate lock this wave.
+  reopened). Lande 1980 is a
+  separate lock.
 One-sentence prediction: Mutation can
   maintain large polygenic VA under
   strong stabilizing selection, and that

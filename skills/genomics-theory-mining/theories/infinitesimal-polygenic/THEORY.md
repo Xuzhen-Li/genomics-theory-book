@@ -12,7 +12,7 @@ Original paper (year): Fisher RA. 1918. The correlation
   1918 Transactions paper. Names variance and partitions it
   among Mendelian causes.
   Distinct from Fisher 1930 book (geometric model; book locked,
-  geometric page not locked this wave and not filled).
+  geometric page not locked and not filled).
 One-sentence prediction: A continuously varying trait is the
   sum of many Mendelian loci of small effect plus environment;
   relatives correlate in proportion to shared Mendelian variance.

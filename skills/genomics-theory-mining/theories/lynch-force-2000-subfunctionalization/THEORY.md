@@ -39,12 +39,12 @@ Original paper (year): Lynch M, Force A. 2000.
   the Ne / subfunction-number probability).
   Distinct from filled Ohno 1970 / Birchler
   2007 gene balance. Distinct from filled
-  Lynch and Conery 2000 (this wave; genomic
+  Lynch and Conery 2000 (genomic
   birth and few-Myr silencing, not P versus
-  Ne). Distinct from filled Walsh 1995 (this
-  wave; neo versus null, not complementary
+  Ne). Distinct from filled Walsh 1995
+  (neo versus null, not complementary
   subfunctions). Distinct from filled Hughes
-  1994 (this wave; gene sharing / MDN).
+  1994 (gene sharing / MDN).
 One-sentence prediction: Preservation by
   complementary degenerative mutations is
   appreciable if long-term Ne is on the order

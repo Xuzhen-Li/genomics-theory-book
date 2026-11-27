@@ -31,7 +31,7 @@ Original paper (year): Charlesworth B. 1994. The
   multiplying Ne by f0). Distinct from filled Gillespie
   2000 (genetic draft from recurrent sweeps). Distinct
   from filled Hudson and Kaplan 1995 and Nordborg 1996
-  (this wave; recombination formulas).
+  (recombination formulas).
 One-sentence prediction: Background selection multiplies
   Ne by the frequency of mutation-free gametes; slightly
   deleterious mutations then fix faster and advantageous

@@ -8,7 +8,7 @@ Original paper (year): Galtier N, Piganeau G, Mouchiroud
   Genetics 159(2):907-911.
   DOI 10.1093/genetics/159.2.907 PMID 11693127
   PMC1461818. Short letter; it is the paper that names
-  the hypothesis. Wave 2 dropped gBGC for lack of a
+  the hypothesis. Earlier notes omitted gBGC for lack of a
   single original; this is that lock.
   Not the source: Eyre-Walker A. 1993. Recombination and
   mammalian genome evolution. Proc R Soc Lond B

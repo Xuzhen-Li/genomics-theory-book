@@ -32,8 +32,8 @@ Original paper (year): Lynch M, Hill WG. 1986.
   (molecular substitution rate equals mutation
   rate; not phenotypic Vm). Distinct from
   filled Lande 1979 (G beta under selection).
-  Distinct from filled Turelli 1984 (this
-  wave; stabilizing-selection House of Cards,
+  Distinct from filled Turelli 1984
+  (stabilizing-selection House of Cards,
   not the neutral 2NVm). Distinct from filled
   Mukai 1964 (viability MA). Distinct from
   filled Lynch 2011 drift-barrier (mutation-

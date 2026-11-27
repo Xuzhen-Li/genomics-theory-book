@@ -12,7 +12,7 @@ Original paper (year): Mayr E. 1942. Systematics and the
   Columbia biological series no. 13; general editor L. C.
   Dunn. Same book standard as filled Maynard Smith 1978 /
   Anderson 1949 / Klekowski 1988. Archive.org scan HTML
-  timed out this wave (identifier
+  timed out (identifier
   systematicsorigi0000mayr_p0y7 is a reprint listing);
   definition page not locked in a 1942 page image. Lock
   1942 as the named biological-species book. Founder
