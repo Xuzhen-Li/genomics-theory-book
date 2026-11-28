@@ -2,7 +2,7 @@
 
 **地位：大多数新重复基因会丢失、重复是新基因的主要来源：已验证。亚功能化是两个拷贝都被保留的主要途径：部分验证。** 基因组以很高的速率获得重复基因，大多数拷贝在几百万年内失活。幸存者被保留的原因有好几种：一个拷贝获得新功能；两个拷贝分担祖先基因的功能；额外的剂量有用；或者一个基因两种功能之间的冲突得到化解。这些情况都会发生。哪一种最常见，取决于生物、重复的类型和拷贝的年龄。
 
-本仓库相关条目：[ddc-subfunctionalization](../../skills/genomics-theory-mining/theories/ddc-subfunctionalization/THEORY.md)、[he-zhang-2005-subneofunctionalization](../../skills/genomics-theory-mining/theories/he-zhang-2005-subneofunctionalization/THEORY.md)、[lynch-conery-2000-duplicate-fate](../../skills/genomics-theory-mining/theories/lynch-conery-2000-duplicate-fate/THEORY.md)、[lynch-force-2000-subfunctionalization](../../skills/genomics-theory-mining/theories/lynch-force-2000-subfunctionalization/THEORY.md)、[walsh-1995-neo-versus-pseudo](../../skills/genomics-theory-mining/theories/walsh-1995-neo-versus-pseudo/THEORY.md)、[kondrashov-2002-purifying-both-paralogs](../../skills/genomics-theory-mining/theories/kondrashov-2002-purifying-both-paralogs/THEORY.md)。
+本仓库相关条目：[ddc-subfunctionalization](../../theories/ddc-subfunctionalization/THEORY.md)、[he-zhang-2005-subneofunctionalization](../../theories/he-zhang-2005-subneofunctionalization/THEORY.md)、[lynch-conery-2000-duplicate-fate](../../theories/lynch-conery-2000-duplicate-fate/THEORY.md)、[lynch-force-2000-subfunctionalization](../../theories/lynch-force-2000-subfunctionalization/THEORY.md)、[walsh-1995-neo-versus-pseudo](../../theories/walsh-1995-neo-versus-pseudo/THEORY.md)、[kondrashov-2002-purifying-both-paralogs](../../theories/kondrashov-2002-purifying-both-paralogs/THEORY.md)、[hughes-1994-gene-sharing-mdn](../../theories/hughes-1994-gene-sharing-mdn/THEORY.md)、[lynch-ohely-walsh-force-2001-establishment](../../theories/lynch-ohely-walsh-force-2001-establishment/THEORY.md)。
 
 ## 19.1 内容与历史
 

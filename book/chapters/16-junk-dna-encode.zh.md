@@ -2,7 +2,7 @@
 
 **地位：人类基因组中有很大的无功能部分已验证；把 ENCODE 的 80% 生化活性解读为功能已被否定。** 比较基因组学发现，人类基因组约 5–11% 处于纯化选择之下，具体数值取决于方法以及功能序列更替的快慢。突变负荷给出的上限约为四分之一。转录或蛋白结合之类的生化活性在基因组大部分区域都很常见，但其本身并不说明一段序列具有由选择维持的功能。在这些方法给出的范围内，功能部分的确切比例仍有争议。
 
-本仓库相关条目：[c-value-junk-dna](../../skills/genomics-theory-mining/theories/c-value-junk-dna/THEORY.md)、[selfish-dna](../../skills/genomics-theory-mining/theories/selfish-dna/THEORY.md)、[mutational-genetic-load](../../skills/genomics-theory-mining/theories/mutational-genetic-load/THEORY.md)、[nearly-neutral-theory](../../skills/genomics-theory-mining/theories/nearly-neutral-theory/THEORY.md)、[drift-barrier-hypothesis](../../skills/genomics-theory-mining/theories/drift-barrier-hypothesis/THEORY.md)。
+本仓库相关条目：[c-value-junk-dna](../../theories/c-value-junk-dna/THEORY.md)、[selfish-dna](../../theories/selfish-dna/THEORY.md)、[mutational-genetic-load](../../theories/mutational-genetic-load/THEORY.md)、[nearly-neutral-theory](../../theories/nearly-neutral-theory/THEORY.md)、[drift-barrier-hypothesis](../../theories/drift-barrier-hypothesis/THEORY.md)。
 
 ## 16.1 内容与历史
 

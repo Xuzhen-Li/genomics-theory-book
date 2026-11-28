@@ -2,7 +2,7 @@
 
 **地位：已验证（作为零模型）。** 在一个随机交配、足够大、没有选择、突变和迁移的群体中，基因型频率经过一代就达到 p²、2pq、q² 并保持不变。这一代数关系是精确的。它在实际中的价值是作为零模型：真实群体出现偏离是正常的，偏离本身反映交配系统、群体结构、选择或基因型检测错误。
 
-本仓库相关条目：[inbreeding-depression](../../skills/genomics-theory-mining/theories/inbreeding-depression/THEORY.md)、[baker-law](../../skills/genomics-theory-mining/theories/baker-law/THEORY.md)。
+本仓库相关条目：[inbreeding-depression](../../theories/inbreeding-depression/THEORY.md)、[baker-law](../../theories/baker-law/THEORY.md)。
 
 ## 2.1 内容与历史
 

@@ -2,7 +2,7 @@
 
 **Status: Partly verified.** That recurrent deleterious mutation lowers mean fitness, and that this mutation load depends mainly on the mutation rate, is a well-established result of theory, and inbreeding depression shows that populations carry many recessive deleterious alleles. The cost of domestication, an increase in the number or frequency of deleterious variants in crops and livestock, is supported in rice, cassava, sunflower, maize and grapevine, but not in soybean or in several animal breeds, and the usual genomic measures count predicted deleterious alleles rather than measured fitness.
 
-Related notes in this repository: [mutational-genetic-load](../../skills/genomics-theory-mining/theories/mutational-genetic-load/THEORY.md), [mutation-selection-balance](../../skills/genomics-theory-mining/theories/mutation-selection-balance/THEORY.md), [haldane-cost-of-selection](../../skills/genomics-theory-mining/theories/haldane-cost-of-selection/THEORY.md), [inbreeding-depression](../../skills/genomics-theory-mining/theories/inbreeding-depression/THEORY.md), [kondrashov-1995-dangerous-range-vsd](../../skills/genomics-theory-mining/theories/kondrashov-1995-dangerous-range-vsd/THEORY.md).
+Related notes in this repository: [mutational-genetic-load](../../theories/mutational-genetic-load/THEORY.md), [mutation-selection-balance](../../theories/mutation-selection-balance/THEORY.md), [haldane-cost-of-selection](../../theories/haldane-cost-of-selection/THEORY.md), [inbreeding-depression](../../theories/inbreeding-depression/THEORY.md), [kondrashov-1995-dangerous-range-vsd](../../theories/kondrashov-1995-dangerous-range-vsd/THEORY.md).
 
 ## 10.1 Statement and history
 

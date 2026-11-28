@@ -2,7 +2,7 @@
 
 **地位：已验证（数学框架）。** 溯祖是标准繁殖模型在大群体下的极限，它对随机交配、大小恒定群体中性变异的预测可以直接推导出来。大多数模拟和群体历史推断都建立在它之上。尚未解决的是真实物种多大程度上满足它的假设：群体结构、连锁选择、后代数偏斜和无性繁殖都会改变谱系，而在设定错误的模型下推断出的历史可能既精确又错误。
 
-本仓库相关条目：[coalescent](../../skills/genomics-theory-mining/theories/coalescent/THEORY.md)、[infinite-sites-watterson](../../skills/genomics-theory-mining/theories/infinite-sites-watterson/THEORY.md)、[tajima-1983-nucleon-genealogy](../../skills/genomics-theory-mining/theories/tajima-1983-nucleon-genealogy/THEORY.md)、[ewens-sampling-formula](../../skills/genomics-theory-mining/theories/ewens-sampling-formula/THEORY.md)、[tajima-d](../../skills/genomics-theory-mining/theories/tajima-d/THEORY.md)、[stepping-stone-model](../../skills/genomics-theory-mining/theories/stepping-stone-model/THEORY.md)。
+本仓库相关条目：[coalescent](../../theories/coalescent/THEORY.md)、[infinite-sites-watterson](../../theories/infinite-sites-watterson/THEORY.md)、[tajima-1983-nucleon-genealogy](../../theories/tajima-1983-nucleon-genealogy/THEORY.md)、[ewens-sampling-formula](../../theories/ewens-sampling-formula/THEORY.md)、[tajima-d](../../theories/tajima-d/THEORY.md)、[stepping-stone-model](../../theories/stepping-stone-model/THEORY.md)。
 
 ## 5.1 内容与历史
 

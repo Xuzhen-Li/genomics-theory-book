@@ -2,7 +2,7 @@
 
 **地位：许多异源多倍化之后的偏向性分级丢失与亚基因组优势已验证；其成因部分验证。** 全基因组重复之后，大多数重复基因会丢失一个拷贝，这一过程称为分级丢失（fractionation）。在许多多倍体中，丢失更多地落在某一个亲本亚基因组上，而保留基因较多的亚基因组表达也较高，这就是亚基因组（或基因组）优势。这一格局在玉米、拟南芥属、芸薹属、草莓、沟酸浆属和花生中都有记录，并在杂交后的最初几代就已出现。它并不普遍：有些重复事件（可能是同源多倍化）表现为无偏的丢失和相等的表达。转座子及其在基因附近的甲基化是对优势的主要解释，但可能不是唯一原因。
 
-本仓库相关条目：[fractionation-diploidization-after-wgd](../../skills/genomics-theory-mining/theories/fractionation-diploidization-after-wgd/THEORY.md)、[gene-balance-dosage](../../skills/genomics-theory-mining/theories/gene-balance-dosage/THEORY.md)、[allopolyploidy-secondary-polyploidy](../../skills/genomics-theory-mining/theories/allopolyploidy-secondary-polyploidy/THEORY.md)。
+本仓库相关条目：[fractionation-diploidization-after-wgd](../../theories/fractionation-diploidization-after-wgd/THEORY.md)、[gene-balance-dosage](../../theories/gene-balance-dosage/THEORY.md)、[allopolyploidy-secondary-polyploidy](../../theories/allopolyploidy-secondary-polyploidy/THEORY.md)。
 
 ## 22.1 内容与历史
 

@@ -2,7 +2,7 @@
 
 **地位：部分验证。** 核心预测成立：达到固定或以多态形式出现的变异，大多是中性或轻微有害的，而不是有利的；中性替代速率等于突变速率；功能受约束的位点进化更慢。尚未解决的是适应性替代和连锁选择额外贡献了多少，以及中性模型能在多大程度上作为多态的默认解释。近年的两篇观点文章在这一点上意见相反 [1, 2]。
 
-本仓库相关条目：[neutral-theory](../../skills/genomics-theory-mining/theories/neutral-theory/THEORY.md)、[mcdonald-kreitman](../../skills/genomics-theory-mining/theories/mcdonald-kreitman/THEORY.md)、[kimura-1962-fixation-probability](../../skills/genomics-theory-mining/theories/kimura-1962-fixation-probability/THEORY.md)、[kimura-ohta-1971-polymorphism-phase](../../skills/genomics-theory-mining/theories/kimura-ohta-1971-polymorphism-phase/THEORY.md)、[infinite-sites-watterson](../../skills/genomics-theory-mining/theories/infinite-sites-watterson/THEORY.md)。
+本仓库相关条目：[neutral-theory](../../theories/neutral-theory/THEORY.md)、[mcdonald-kreitman](../../theories/mcdonald-kreitman/THEORY.md)、[kimura-1962-fixation-probability](../../theories/kimura-1962-fixation-probability/THEORY.md)、[kimura-ohta-1971-polymorphism-phase](../../theories/kimura-ohta-1971-polymorphism-phase/THEORY.md)、[infinite-sites-watterson](../../theories/infinite-sites-watterson/THEORY.md)。
 
 ## 3.1 内容与历史
 

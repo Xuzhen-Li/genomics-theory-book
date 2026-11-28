@@ -2,7 +2,7 @@
 
 **Status: Partly verified.** The central prediction, that the efficacy of selection against slightly deleterious mutations rises with effective population size (Ne), is supported by comparisons across mammals, animals and plants and between selfing and outcrossing relatives. What remains open is the shape of the distribution of fitness effects (DFE) on which every quantitative prediction depends, what Ne means across long timescales, and how to separate near neutrality from linked selection.
 
-Related notes in this repository: [nearly-neutral-theory](../../skills/genomics-theory-mining/theories/nearly-neutral-theory/THEORY.md), [ohta-1972-population-size-rate](../../skills/genomics-theory-mining/theories/ohta-1972-population-size-rate/THEORY.md), [drift-barrier-hypothesis](../../skills/genomics-theory-mining/theories/drift-barrier-hypothesis/THEORY.md), [mutational-genetic-load](../../skills/genomics-theory-mining/theories/mutational-genetic-load/THEORY.md).
+Related notes in this repository: [nearly-neutral-theory](../../theories/nearly-neutral-theory/THEORY.md), [ohta-1972-population-size-rate](../../theories/ohta-1972-population-size-rate/THEORY.md), [drift-barrier-hypothesis](../../theories/drift-barrier-hypothesis/THEORY.md), [mutational-genetic-load](../../theories/mutational-genetic-load/THEORY.md).
 
 ## 4.1 Statement and history
 

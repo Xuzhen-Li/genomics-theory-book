@@ -2,7 +2,7 @@
 
 **Status: Biased fractionation and subgenome dominance after many allopolyploidies, Verified; their causes, Partly verified.** After a whole-genome duplication most duplicated genes lose one copy, a process called fractionation. In many polyploids the losses fall more often on one parental subgenome, and the subgenome that keeps more genes is also more highly expressed; this is subgenome (or genome) dominance. The pattern is documented in maize, *Arabidopsis*, *Brassica*, strawberry, *Mimulus* and peanut, and appears within the first generations after hybridization. It is not universal: some duplications, probably autopolyploid, show unbiased loss and equal expression. Transposable elements and their methylation near genes are the leading explanation of dominance, but probably not the only cause.
 
-Related notes in this repository: [fractionation-diploidization-after-wgd](../../skills/genomics-theory-mining/theories/fractionation-diploidization-after-wgd/THEORY.md), [gene-balance-dosage](../../skills/genomics-theory-mining/theories/gene-balance-dosage/THEORY.md), [allopolyploidy-secondary-polyploidy](../../skills/genomics-theory-mining/theories/allopolyploidy-secondary-polyploidy/THEORY.md).
+Related notes in this repository: [fractionation-diploidization-after-wgd](../../theories/fractionation-diploidization-after-wgd/THEORY.md), [gene-balance-dosage](../../theories/gene-balance-dosage/THEORY.md), [allopolyploidy-secondary-polyploidy](../../theories/allopolyploidy-secondary-polyploidy/THEORY.md).
 
 ## 22.1 Statement and history
 

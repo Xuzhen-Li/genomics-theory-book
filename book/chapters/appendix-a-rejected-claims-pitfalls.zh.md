@@ -2,7 +2,7 @@
 
 本附录汇总全书关于失败的说法和跨章节反复出现的错误的结论，并给出一份简短的术语与符号表和全部图的索引。每一条都指向详细讨论证据的那一章。
 
-本仓库相关条目：[c-value-junk-dna](../../skills/genomics-theory-mining/theories/c-value-junk-dna/THEORY.md)、[molecular-clock](../../skills/genomics-theory-mining/theories/molecular-clock/THEORY.md)、[island-model](../../skills/genomics-theory-mining/theories/island-model/THEORY.md)。
+本仓库相关条目：[c-value-junk-dna](../../theories/c-value-junk-dna/THEORY.md)、[molecular-clock](../../theories/molecular-clock/THEORY.md)、[island-model](../../theories/island-model/THEORY.md)。
 
 ## A.1 地位标签的用法
 

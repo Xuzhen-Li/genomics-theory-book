@@ -2,7 +2,7 @@
 
 **地位：已验证。** 连锁不平衡（LD）由漂变产生、被重组打破、期望 r² 由 4Nc 决定，这一理论得到模拟和数据的确认；基于 LD 的重组图谱在大尺度上与系谱图谱和交换图谱一致。在许多物种中重组集中于热点；哺乳动物中多数热点由 PRDM9 决定，而植物没有 PRDM9，交换集中在基因启动子附近。尚未解决的是如何在 LD 图谱中把重组与群体历史和选择分开，以及为什么不同物种的交换景观差别如此之大。
 
-本仓库相关条目：[hill-robertson-interference](../../skills/genomics-theory-mining/theories/hill-robertson-interference/THEORY.md)、[barton-1995-linkage-limits](../../skills/genomics-theory-mining/theories/barton-1995-linkage-limits/THEORY.md)、[gene-conversion](../../skills/genomics-theory-mining/theories/gene-conversion/THEORY.md)、[otto-barton-1997-recombination-modifier](../../skills/genomics-theory-mining/theories/otto-barton-1997-recombination-modifier/THEORY.md)。
+本仓库相关条目：[hill-robertson-interference](../../theories/hill-robertson-interference/THEORY.md)、[barton-1995-linkage-limits](../../theories/barton-1995-linkage-limits/THEORY.md)、[gene-conversion](../../theories/gene-conversion/THEORY.md)、[otto-barton-1997-recombination-modifier](../../theories/otto-barton-1997-recombination-modifier/THEORY.md)。
 
 ## 7.1 内容与历史
 

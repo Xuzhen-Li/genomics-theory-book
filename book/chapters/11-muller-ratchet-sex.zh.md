@@ -2,7 +2,7 @@
 
 **地位：Muller 棘轮在不重组基因组中已验证；有性生殖的优势部分验证。** 在小的无性群体中，携带有害突变最少的那一类基因组会因漂变丢失且无法重建；这种棘轮已在 RNA 病毒、细菌和新生 Y 染色体中得到实验证明，在内共生菌、线粒体以及无性动植物中也表现为有害变化积累更快。有性生殖之所以得以维持，是因为重组帮助了选择（对抗有害突变、促进有利突变或对抗寄生者），这一点有实验支持；但在自然界中哪种机制强到足以支付有性生殖的两倍代价尚无定论，而且若干无性谱系并没有显示多余的负荷。
 
-本仓库相关条目：[muller-ratchet](../../skills/genomics-theory-mining/theories/muller-ratchet/THEORY.md)、[organelle-plastid-muller-ratchet](../../skills/genomics-theory-mining/theories/organelle-plastid-muller-ratchet/THEORY.md)、[two-fold-cost-of-sex](../../skills/genomics-theory-mining/theories/two-fold-cost-of-sex/THEORY.md)、[hill-robertson-interference](../../skills/genomics-theory-mining/theories/hill-robertson-interference/THEORY.md)、[clonal-interference](../../skills/genomics-theory-mining/theories/clonal-interference/THEORY.md)、[mutation-accumulation](../../skills/genomics-theory-mining/theories/mutation-accumulation/THEORY.md)、[meselson-effect](../../skills/genomics-theory-mining/theories/meselson-effect/THEORY.md)、[y-chromosome-degeneration](../../skills/genomics-theory-mining/theories/y-chromosome-degeneration/THEORY.md)。
+本仓库相关条目：[muller-ratchet](../../theories/muller-ratchet/THEORY.md)、[organelle-plastid-muller-ratchet](../../theories/organelle-plastid-muller-ratchet/THEORY.md)、[two-fold-cost-of-sex](../../theories/two-fold-cost-of-sex/THEORY.md)、[hill-robertson-interference](../../theories/hill-robertson-interference/THEORY.md)、[clonal-interference](../../theories/clonal-interference/THEORY.md)、[mutation-accumulation](../../theories/mutation-accumulation/THEORY.md)、[meselson-effect](../../theories/meselson-effect/THEORY.md)、[y-chromosome-degeneration](../../theories/y-chromosome-degeneration/THEORY.md)。
 
 ## 11.1 内容与历史
 

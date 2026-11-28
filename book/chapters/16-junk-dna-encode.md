@@ -2,7 +2,7 @@
 
 **Status: A large non-functional fraction of the human genome Verified; the reading of ENCODE’s 80% biochemical activity as function Rejected.** Comparative genomics finds that about 5–11% of the human genome is under purifying selection, depending on method and on how fast functional sequence turns over. Mutational load sets an upper limit of about a quarter. Biochemical activity, such as transcription or protein binding, is common across most of the genome but does not by itself show that a sequence has a function that selection maintains. The exact functional fraction remains contested within the range set by these methods.
 
-Related notes in this repository: [c-value-junk-dna](../../skills/genomics-theory-mining/theories/c-value-junk-dna/THEORY.md), [selfish-dna](../../skills/genomics-theory-mining/theories/selfish-dna/THEORY.md), [mutational-genetic-load](../../skills/genomics-theory-mining/theories/mutational-genetic-load/THEORY.md), [nearly-neutral-theory](../../skills/genomics-theory-mining/theories/nearly-neutral-theory/THEORY.md), [drift-barrier-hypothesis](../../skills/genomics-theory-mining/theories/drift-barrier-hypothesis/THEORY.md).
+Related notes in this repository: [c-value-junk-dna](../../theories/c-value-junk-dna/THEORY.md), [selfish-dna](../../theories/selfish-dna/THEORY.md), [mutational-genetic-load](../../theories/mutational-genetic-load/THEORY.md), [nearly-neutral-theory](../../theories/nearly-neutral-theory/THEORY.md), [drift-barrier-hypothesis](../../theories/drift-barrier-hypothesis/THEORY.md).
 
 ## 16.1 Statement and history
 

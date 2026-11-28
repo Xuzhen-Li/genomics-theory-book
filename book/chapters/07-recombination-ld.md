@@ -2,7 +2,7 @@
 
 **Status: Verified.** The theory that linkage disequilibrium (LD) is built by drift and broken by recombination, with an expected r² set by 4Nc, is confirmed by simulation and by data, and LD-based recombination maps agree with pedigree and crossover maps at broad scales. Recombination is concentrated in hotspots in many species; in mammals PRDM9 directs most of them, while plants lack PRDM9 and place crossovers near gene promoters. What remains open is how to separate recombination from demography and selection in LD maps, and why crossover landscapes differ so much among species.
 
-Related notes in this repository: [hill-robertson-interference](../../skills/genomics-theory-mining/theories/hill-robertson-interference/THEORY.md), [barton-1995-linkage-limits](../../skills/genomics-theory-mining/theories/barton-1995-linkage-limits/THEORY.md), [gene-conversion](../../skills/genomics-theory-mining/theories/gene-conversion/THEORY.md), [otto-barton-1997-recombination-modifier](../../skills/genomics-theory-mining/theories/otto-barton-1997-recombination-modifier/THEORY.md).
+Related notes in this repository: [hill-robertson-interference](../../theories/hill-robertson-interference/THEORY.md), [barton-1995-linkage-limits](../../theories/barton-1995-linkage-limits/THEORY.md), [gene-conversion](../../theories/gene-conversion/THEORY.md), [otto-barton-1997-recombination-modifier](../../theories/otto-barton-1997-recombination-modifier/THEORY.md).
 
 ## 7.1 Statement and history
 

@@ -2,7 +2,7 @@
 
 **地位：选择清除的存在已验证；硬扫荡与软扫荡各占多少有争议。** 强正选择会在局部留下多样性降低、频率谱偏斜和长单倍型的足迹；乳糖酶持续性和玉米驯化基因 tb1 等经典例子已由功能研究确认。理论还表明，来自现存变异或反复突变的适应会产生足迹较弱的软扫荡。软扫荡是否主导人类、果蝇或作物的适应仍有争议，因为群体历史和背景选择可以产生同样的模式。
 
-本仓库相关条目：[hitchhiking-sweeps](../../skills/genomics-theory-mining/theories/hitchhiking-sweeps/THEORY.md)、[soft-sweep](../../skills/genomics-theory-mining/theories/soft-sweep/THEORY.md)、[kaplan-coalescent-hitchhiking](../../skills/genomics-theory-mining/theories/kaplan-coalescent-hitchhiking/THEORY.md)、[braverman-hitchhiking-sfs](../../skills/genomics-theory-mining/theories/braverman-hitchhiking-sfs/THEORY.md)、[wiehe-stephan-hitchhiking-alpha-v](../../skills/genomics-theory-mining/theories/wiehe-stephan-hitchhiking-alpha-v/THEORY.md)、[genetic-draft](../../skills/genomics-theory-mining/theories/genetic-draft/THEORY.md)。
+本仓库相关条目：[hitchhiking-sweeps](../../theories/hitchhiking-sweeps/THEORY.md)、[soft-sweep](../../theories/soft-sweep/THEORY.md)、[kaplan-coalescent-hitchhiking](../../theories/kaplan-coalescent-hitchhiking/THEORY.md)、[braverman-hitchhiking-sfs](../../theories/braverman-hitchhiking-sfs/THEORY.md)、[wiehe-stephan-hitchhiking-alpha-v](../../theories/wiehe-stephan-hitchhiking-alpha-v/THEORY.md)、[genetic-draft](../../theories/genetic-draft/THEORY.md)、[fay-wu-h](../../theories/fay-wu-h/THEORY.md)。
 
 ## 9.1 内容与历史
 

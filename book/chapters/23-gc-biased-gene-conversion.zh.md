@@ -2,7 +2,7 @@
 
 **地位：哺乳动物和鸟类中的 GC 偏向基因转换已验证；作为真核生物和植物中普遍存在的力量，部分验证。** 当一个携带 G 或 C 等位基因和 A 或 T 等位基因的杂合子发生重组时，异源双链中的错配修复可以把一个等位基因转换成另一个。如果转换偏向 G 和 C，这些等位基因就会进入一半以上的配子，于是在交换频繁的区域，这一过程就像是对 GC 的弱选择。GC 偏向基因转换（gBGC）解释了人类和其他哺乳动物基因组中重组与 GC 含量之间的联系、鸟类的 GC 格局，以及许多假的正选择信号。在许多真核生物和植物中它得到间接证据的支持，但在植物和真菌中直接的四分子研究没有发现净偏向。
 
-本仓库相关条目：[gc-biased-gene-conversion](../../skills/genomics-theory-mining/theories/gc-biased-gene-conversion/THEORY.md)、[gene-conversion](../../skills/genomics-theory-mining/theories/gene-conversion/THEORY.md)、[begun-aquadro-recombination-diversity](../../skills/genomics-theory-mining/theories/begun-aquadro-recombination-diversity/THEORY.md)、[hill-robertson-interference](../../skills/genomics-theory-mining/theories/hill-robertson-interference/THEORY.md)、[nearly-neutral-theory](../../skills/genomics-theory-mining/theories/nearly-neutral-theory/THEORY.md)。
+本仓库相关条目：[gc-biased-gene-conversion](../../theories/gc-biased-gene-conversion/THEORY.md)、[gene-conversion](../../theories/gene-conversion/THEORY.md)、[begun-aquadro-recombination-diversity](../../theories/begun-aquadro-recombination-diversity/THEORY.md)、[hill-robertson-interference](../../theories/hill-robertson-interference/THEORY.md)、[nearly-neutral-theory](../../theories/nearly-neutral-theory/THEORY.md)。
 
 ## 23.1 内容与历史
 
