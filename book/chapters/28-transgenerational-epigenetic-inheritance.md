@@ -2,7 +2,7 @@
 
 **Status: Inheritance of spontaneous and induced epialleles in plants, Verified; inheritance of small RNA responses in nematodes, Verified (over a few generations); environmentally induced inheritance that lasts many generations in plants, Contested; transgenerational epigenetic inheritance in mammals and humans, Contested.** Epigenetic marks such as cytosine methylation, histone modifications and small RNAs can change gene expression without a change in DNA sequence. Transgenerational epigenetic inheritance means that such a state passes through the germline to generations that were never exposed to the cause. Plants are prone to it, because they reset DNA methylation less thoroughly between generations than mammals. The strong claim, that environments routinely write lasting adaptive memories into the germline, is much weaker in the evidence.
 
-Related notes in this repository: [rodin-riggs-2003-epigenetic-complementation](../../theories/rodin-riggs-2003-epigenetic-complementation/THEORY.md), [selfish-dna](../../theories/selfish-dna/THEORY.md).
+Related notes in this repository: [rodin-riggs-2003-epigenetic-complementation](../../theories/rodin-riggs-2003-epigenetic-complementation/THEORY.md), [selfish-dna](../../theories/selfish-dna/THEORY.md), [transgenerational-epigenetic-inheritance](../../theories/transgenerational-epigenetic-inheritance/THEORY.md).
 
 ## 28.1 Statement and history
 

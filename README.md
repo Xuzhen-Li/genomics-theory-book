@@ -2,7 +2,7 @@
 
 English | [中文](README.zh.md)
 
-[Read the book](https://github.com/Xuzhen-Li/genomics-theory-book/wiki) on the Wiki, or open the [chapter index](book/INDEX.md) in this repository.
+[Read the book](https://github.com/Xuzhen-Li/genomics-theory-book/wiki) on the Wiki, or open the [chapter index](book/INDEX.md) in this repository. The Wiki is updated from this repository when main changes. To change a chapter, edit the file here; edits made on the Wiki website are overwritten.
 
 A book about classic theories in genetics and genome evolution, and how well each one has held up. Every chapter states the theory and its history, lists what it predicts, weighs the evidence for and against, and gives a status label: Verified, Partly verified, Contested or Rejected. Each chapter also covers plants and crops, including grapevine and other clonally propagated perennials, and explains how to test the theory with public data.
 
@@ -71,12 +71,10 @@ Source files: [book/README.md](book/README.md). Status table: [book/STATUS.md](b
 
 A. [Rejected claims and common pitfalls](https://github.com/Xuzhen-Li/genomics-theory-book/wiki/appendix-a-rejected-claims-pitfalls)
 
-A reading copy of the book chapters is also on the [Wiki](https://github.com/Xuzhen-Li/genomics-theory-book/wiki). The Wiki is updated from this repository when main changes. To change a chapter, edit the file here; edits made on the Wiki website are overwritten.
-
 ## Theory notes
 
-Short notes on individual theories live in [`theories/`](theories/), one folder each (`THEORY.md`). The index is [`theories/README.md`](theories/README.md). There are 145 filled theory notes. Later additions (`reviews/`, `research/`, `scripts/`) stay in that theory's folder.
+Short notes on individual theories live in [`theories/`](theories/), one folder each (`THEORY.md`). The index is [`theories/README.md`](theories/README.md). There are 154 theory notes. Later additions (`reviews/`, `research/`, `scripts/`) stay in that theory's folder.
 
-Code in this repository is MIT. Book text and figures are CC BY 4.0; see [book/LICENSE.md](book/LICENSE.md). Unpublished genotypes and private coordinates do not belong here.
+Code in this repository is MIT. Book text and the book’s own figures are CC BY 4.0; reproduced published figures keep their original licence (stated in each caption). See [book/LICENSE.md](book/LICENSE.md). Unpublished genotypes and private coordinates do not belong here.
 
 Xuzhen Li, [ORCID 0000-0003-3670-6657](https://orcid.org/0000-0003-3670-6657)

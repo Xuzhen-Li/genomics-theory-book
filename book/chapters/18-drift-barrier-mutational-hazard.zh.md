@@ -2,7 +2,7 @@
 
 **地位：突变率演化的漂变壁垒部分验证；突变危害作为基因组结构的主要原因存在争议。** 漂变壁垒假说认为，选择会把突变率一直压低，直到进一步改进带来的好处小到在随机遗传漂变面前显现不出来；因此有效群体大小（Ne）较小的物种突变率较高。微生物之间和脊椎动物之间的比较都找到了预测的负相关，但关系噪声很大，并取决于 Ne 的估计方法。与之相关的突变危害假说认为，内含子和基因间序列之类的额外 DNA 是一种微弱的突变负担，只在漂变强的地方积累。它能很好地解释一些格局，但一项校正了系统发育的检验没有找到支持，植物线粒体也与其最简单的预测相反。
 
-本仓库相关条目：[drift-barrier-hypothesis](../../theories/drift-barrier-hypothesis/THEORY.md)、[lynch-conery-2003-genome-complexity](../../theories/lynch-conery-2003-genome-complexity/THEORY.md)、[nearly-neutral-theory](../../theories/nearly-neutral-theory/THEORY.md)、[mutational-genetic-load](../../theories/mutational-genetic-load/THEORY.md)、[mutation-accumulation](../../theories/mutation-accumulation/THEORY.md)。
+本仓库相关条目：[drift-barrier-hypothesis](../../theories/drift-barrier-hypothesis/THEORY.md)、[lynch-conery-2003-genome-complexity](../../theories/lynch-conery-2003-genome-complexity/THEORY.md)、[nearly-neutral-theory](../../theories/nearly-neutral-theory/THEORY.md)、[mutational-genetic-load](../../theories/mutational-genetic-load/THEORY.md)、[mutation-accumulation](../../theories/mutation-accumulation/THEORY.md)、[mutational-hazard-hypothesis](../../theories/mutational-hazard-hypothesis/THEORY.md)。
 
 ## 18.1 内容与历史
 

@@ -2,6 +2,8 @@
 
 **Status: Verified.** Particulate inheritance with 1:1 segregation and independent assortment of unlinked loci is one of the best-supported results in biology. Every known exception (linkage, segregation distortion, parent-of-origin effects, paramutation, organelle inheritance, polysomic segregation) changes the ratios, not the particulate gene.
 
+Related notes in this repository: [mendelian-segregation](../../theories/mendelian-segregation/THEORY.md).
+
 ## 1.1 Statement and history
 
 Mendel crossed pea varieties that differed in single characters and counted the offspring. Two rules came out of those counts. A heterozygote transmits each of its two alleles to half of its gametes (segregation), and alleles at different characters are transmitted independently of each other (independent assortment). The paper of 1866 was rediscovered around 1900, and its interpretation has been argued over ever since. van Dijk, Weissing and Ellis traced Mendel’s interest in inheritance to the plant-improvement culture of his region [1], and van Dijk and colleagues argued that his later Hieracium work was not a failed attempt to repeat the pea ratios [2].

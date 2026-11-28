@@ -2,7 +2,7 @@
 
 **地位：基本定理已验证（作为关于选择所致变化的精确陈述）；几何模型部分验证。** 按 Price 和 Ewens 的理解，基本定理是一个数学结果：平均适合度中由自然选择引起的那部分变化，等于适合度的加性遗传方差。如今对植物和动物野外群体的估计表明，这一方差常常明显大于零。几何模型正确地预测了大多数突变有害、突变越大越难有利、群体接近最适点时有利效应常近似指数分布；它关于强烈的“复杂性代价”的预测，以及把它当作上位性的一般模型，只得到部分支持。
 
-本仓库相关条目：[fisher-geometric-model](../../theories/fisher-geometric-model/THEORY.md)、[orr-exponential-factors](../../theories/orr-exponential-factors/THEORY.md)、[price-equation](../../theories/price-equation/THEORY.md)、[rockman-qtn-versus-polygenes](../../theories/rockman-qtn-versus-polygenes/THEORY.md)、[berg-coop-polygenic-adaptation](../../theories/berg-coop-polygenic-adaptation/THEORY.md)、[infinitesimal-polygenic](../../theories/infinitesimal-polygenic/THEORY.md)、[haldane-cost-of-selection](../../theories/haldane-cost-of-selection/THEORY.md)。
+本仓库相关条目：[fisher-geometric-model](../../theories/fisher-geometric-model/THEORY.md)、[orr-exponential-factors](../../theories/orr-exponential-factors/THEORY.md)、[price-equation](../../theories/price-equation/THEORY.md)、[rockman-qtn-versus-polygenes](../../theories/rockman-qtn-versus-polygenes/THEORY.md)、[berg-coop-polygenic-adaptation](../../theories/berg-coop-polygenic-adaptation/THEORY.md)、[infinitesimal-polygenic](../../theories/infinitesimal-polygenic/THEORY.md)、[haldane-cost-of-selection](../../theories/haldane-cost-of-selection/THEORY.md)、[fisher-fundamental-theorem](../../theories/fisher-fundamental-theorem/THEORY.md)。
 
 ## 13.1 内容与历史
 

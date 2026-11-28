@@ -2,7 +2,7 @@
 
 **Status: The gap between genome-wide significant hits and family-based heritability, Verified; most of that gap is hidden in many variants of small effect, Verified (largely closed for human height); rare variants and inflated family estimates as the remaining gap, Partly verified; the omnigenic model of core and peripheral genes, Contested.** Twin and family studies estimated high heritability for many human traits, but the first genome-wide association studies (GWAS) found variants that explained only a small part of it. This gap was called missing heritability. The omnigenic model proposes why associations are spread across most of the genome: regulatory networks are so interconnected that almost every gene expressed in a relevant cell type affects a small set of core genes.
 
-Related notes in this repository: [infinitesimal-polygenic](../../theories/infinitesimal-polygenic/THEORY.md), [rockman-qtn-versus-polygenes](../../theories/rockman-qtn-versus-polygenes/THEORY.md), [berg-coop-polygenic-adaptation](../../theories/berg-coop-polygenic-adaptation/THEORY.md), [lande-1975-mutation-maintained-va](../../theories/lande-1975-mutation-maintained-va/THEORY.md).
+Related notes in this repository: [infinitesimal-polygenic](../../theories/infinitesimal-polygenic/THEORY.md), [rockman-qtn-versus-polygenes](../../theories/rockman-qtn-versus-polygenes/THEORY.md), [berg-coop-polygenic-adaptation](../../theories/berg-coop-polygenic-adaptation/THEORY.md), [lande-1975-mutation-maintained-va](../../theories/lande-1975-mutation-maintained-va/THEORY.md), [missing-heritability-omnigenic](../../theories/missing-heritability-omnigenic/THEORY.md).
 
 ## 30.1 Statement and history
 

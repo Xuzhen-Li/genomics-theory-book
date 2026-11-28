@@ -2,7 +2,7 @@
 
 [English](README.md) | 中文
 
-[阅读本书](https://github.com/Xuzhen-Li/genomics-theory-book/wiki)，或打开仓库中的[章节目录](book/INDEX.zh.md)。
+[阅读本书](https://github.com/Xuzhen-Li/genomics-theory-book/wiki)，或打开仓库中的[章节目录](book/INDEX.zh.md)。每次 main 更新后，Wiki 会从本仓库同步。要改章节请改仓库里的文件；在 Wiki 网页上的修改会被覆盖。
 
 这是一本关于遗传学与基因组演化中经典理论、以及各理论如今站得住多少的书。每一章陈述该理论及其历史，列出它的预测，权衡正反证据，并给出地位标签：已验证、部分验证、有争议或被否定。每一章也讨论植物和作物，包括葡萄和其他无性繁殖的多年生植物，并说明如何用公开数据检验该理论。
 
@@ -71,12 +71,10 @@
 
 A. [被否定的说法与常见误区](https://github.com/Xuzhen-Li/genomics-theory-book/wiki/appendix-a-rejected-claims-pitfalls.zh)
 
-书的各章阅读副本也在 [Wiki](https://github.com/Xuzhen-Li/genomics-theory-book/wiki)。每次 main 更新后，Wiki 会从本仓库同步。要改章节请改仓库里的文件；在 Wiki 网页上的修改会被覆盖。
-
 ## 理论条目
 
-各理论的短条目在 [`theories/`](theories/)，每个理论一个文件夹（`THEORY.md`）。目录见 [`theories/README.md`](theories/README.md)。目前有 145 条已完成的理论条目。后续补充（`reviews/`、`research/`、`scripts/`）放在该理论自己的文件夹里。
+各理论的短条目在 [`theories/`](theories/)，每个理论一个文件夹（`THEORY.md`）。目录见 [`theories/README.md`](theories/README.md)。目前有 154 条理论条目。后续补充（`reviews/`、`research/`、`scripts/`）放在该理论自己的文件夹里。
 
-本仓库中的代码为 MIT。书的正文和插图为 CC BY 4.0，见 [book/LICENSE.md](book/LICENSE.md)。未发表的基因型和私有坐标不属于此处。
+本仓库中的代码为 MIT。书的正文和自绘图为 CC BY 4.0；转载的发表图保留原许可（见各图注）。详见 [book/LICENSE.md](book/LICENSE.md)。未发表的基因型和私有坐标不属于此处。
 
 Xuzhen Li, [ORCID 0000-0003-3670-6657](https://orcid.org/0000-0003-3670-6657)

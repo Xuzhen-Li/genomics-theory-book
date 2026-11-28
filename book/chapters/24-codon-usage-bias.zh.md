@@ -2,7 +2,7 @@
 
 **地位：密码子使用由选择、突变和漂变之间的平衡决定，大群体中高表达基因受翻译选择，已验证；翻译选择在植物和其他小群体物种中是主要力量，部分验证。** 同义密码子的使用并不均等。在细菌、酵母和果蝇中，高表达基因偏好与丰富 tRNA 相匹配的密码子，而这种偏好的强度随有效群体大小和生长速率而变，正如选择–突变–漂变模型所预测的那样。在物种之间，大部分差异来自突变偏向；在哺乳动物和许多植物中，密码子使用受到 GC 偏向基因转换的强烈影响。在植物中，翻译选择可以检测到，但通常很弱，在自交物种中更弱。
 
-本仓库相关条目：[nearly-neutral-theory](../../theories/nearly-neutral-theory/THEORY.md)、[hill-robertson-interference](../../theories/hill-robertson-interference/THEORY.md)、[gc-biased-gene-conversion](../../theories/gc-biased-gene-conversion/THEORY.md)。
+本仓库相关条目：[nearly-neutral-theory](../../theories/nearly-neutral-theory/THEORY.md)、[hill-robertson-interference](../../theories/hill-robertson-interference/THEORY.md)、[gc-biased-gene-conversion](../../theories/gc-biased-gene-conversion/THEORY.md)、[codon-usage-selection-mutation-drift](../../theories/codon-usage-selection-mutation-drift/THEORY.md)。
 
 ## 24.1 内容与历史
 
