@@ -2,7 +2,7 @@
 
 **Status: Gene content variation within species (pangenomes), Verified; ongoing transfer of organelle DNA to the nucleus, Verified; horizontal gene transfer in prokaryotes, Verified; horizontal gene transfer as a source of genes in plants and animals, Partly verified; whether accessory genes are mostly adaptive or neutral, Contested; claims of extensive horizontal transfer into the human and tardigrade genomes, Rejected.** A single genome does not hold all the genes of a species. Genes vary in presence among individuals, move from organelles into the nucleus, and sometimes cross species boundaries. This chapter treats three related claims: that a species is better described by a pangenome than by one reference genome, that organelle genomes keep sending DNA to the nucleus, and that genes cross species boundaries often enough to matter.
 
-Related notes in this repository: [endosymbiosis-organelle-origin](../../theories/endosymbiosis-organelle-origin/THEORY.md), [organelle-plastid-muller-ratchet](../../theories/organelle-plastid-muller-ratchet/THEORY.md), [c-value-junk-dna](../../theories/c-value-junk-dna/THEORY.md).
+Related notes in this repository: [endosymbiosis-organelle-origin](../../theories/endosymbiosis-organelle-origin/THEORY.md), [organelle-plastid-muller-ratchet](../../theories/organelle-plastid-muller-ratchet/THEORY.md), [c-value-junk-dna](../../theories/c-value-junk-dna/THEORY.md), [pangenome-hgt-organelle-transfer](../../theories/pangenome-hgt-organelle-transfer/THEORY.md).
 
 ## 29.1 Statement and history
 

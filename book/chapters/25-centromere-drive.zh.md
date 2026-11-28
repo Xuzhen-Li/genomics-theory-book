@@ -2,7 +2,7 @@
 
 **地位：雌性减数分裂中的着丝粒驱动，部分验证（已在小鼠和沟酸浆中证明）；作为着丝粒快速进化的普遍解释，有争议。** 着丝粒在所有真核生物中承担同样的工作，但它们的 DNA 和部分蛋白质进化得非常快。着丝粒驱动假说用雌性减数分裂的不对称来解释这一悖论：四个产物中只有一个成为卵细胞，因此一个更牢固地附着在纺锤体卵细胞一侧的着丝粒，会被传给一半以上的后代。不断扩张的卫星重复序列可能在这种竞争中获胜，着丝粒蛋白随后进化以恢复公平分离。较强着丝粒的偏向传递现已在小鼠中从细胞层面得到证明，一个与着丝粒相关的驱动等位基因也已在野生植物群体中测得。驱动及其抑制能否解释大部分着丝粒进化，仍未定论。
 
-本仓库相关条目：[selfish-dna](../../theories/selfish-dna/THEORY.md)、[molecular-drive](../../theories/molecular-drive/THEORY.md)、[bateson-dobzhansky-muller-incompatibilities](../../theories/bateson-dobzhansky-muller-incompatibilities/THEORY.md)。
+本仓库相关条目：[selfish-dna](../../theories/selfish-dna/THEORY.md)、[molecular-drive](../../theories/molecular-drive/THEORY.md)、[bateson-dobzhansky-muller-incompatibilities](../../theories/bateson-dobzhansky-muller-incompatibilities/THEORY.md)、[centromere-drive](../../theories/centromere-drive/THEORY.md)。
 
 ## 25.1 内容与历史
 

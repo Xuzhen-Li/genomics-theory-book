@@ -2,7 +2,7 @@
 
 **地位：植物中自发和诱导表观等位基因的遗传，已验证；线虫中小 RNA 反应的遗传，已验证（持续若干代）；植物中持续许多代的环境诱导遗传，有争议；哺乳动物和人类的跨代表观遗传，有争议。** 胞嘧啶甲基化、组蛋白修饰和小 RNA 等表观遗传标记可以在 DNA 序列不变的情况下改变基因表达。跨代表观遗传是指这样一种状态经由种系传给从未接触过诱因的世代。植物容易出现这种遗传，因为它们在世代之间对 DNA 甲基化的重置不如哺乳动物彻底。而更强的说法，即环境经常把持久的适应性记忆写入种系，证据要弱得多。
 
-本仓库相关条目：[rodin-riggs-2003-epigenetic-complementation](../../theories/rodin-riggs-2003-epigenetic-complementation/THEORY.md)、[selfish-dna](../../theories/selfish-dna/THEORY.md)。
+本仓库相关条目：[rodin-riggs-2003-epigenetic-complementation](../../theories/rodin-riggs-2003-epigenetic-complementation/THEORY.md)、[selfish-dna](../../theories/selfish-dna/THEORY.md)、[transgenerational-epigenetic-inheritance](../../theories/transgenerational-epigenetic-inheritance/THEORY.md)。
 
 ## 28.1 内容与历史
 
