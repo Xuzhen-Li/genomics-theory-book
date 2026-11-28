@@ -2,7 +2,7 @@
 
 **地位：种内基因含量变异（泛基因组），已验证；细胞器 DNA 持续向细胞核转移，已验证；原核生物中的水平基因转移，已验证；水平基因转移作为植物和动物基因的来源，部分验证；附属基因主要是适应性的还是中性的，有争议；人类和缓步动物基因组中存在大量水平转移的说法，被否定。** 一个基因组并不包含一个物种的全部基因。基因在个体之间有无不同，从细胞器进入细胞核，有时还跨越物种界限。本章讨论三个相关的说法：用泛基因组描述一个物种比用一个参考基因组更好；细胞器基因组不断把 DNA 送入细胞核；基因跨越物种界限的频率高到足以产生影响。
 
-本仓库相关条目：[endosymbiosis-organelle-origin](../../skills/genomics-theory-mining/theories/endosymbiosis-organelle-origin/THEORY.md)、[organelle-plastid-muller-ratchet](../../skills/genomics-theory-mining/theories/organelle-plastid-muller-ratchet/THEORY.md)、[c-value-junk-dna](../../skills/genomics-theory-mining/theories/c-value-junk-dna/THEORY.md)。
+本仓库相关条目：[endosymbiosis-organelle-origin](../../theories/endosymbiosis-organelle-origin/THEORY.md)、[organelle-plastid-muller-ratchet](../../theories/organelle-plastid-muller-ratchet/THEORY.md)、[c-value-junk-dna](../../theories/c-value-junk-dna/THEORY.md)。
 
 ## 29.1 内容与历史
 

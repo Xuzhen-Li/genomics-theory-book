@@ -2,7 +2,7 @@
 
 **地位：剂量平衡效应和剂量敏感基因的互补保留已验证；作为哪些重复基因被保留的一般规律，部分验证。** 基因平衡假说认为，许多基因的产物在复合体、通路和调控网络中按固定比例起作用，所以只改变某些基因的剂量而不改变其伙伴的剂量是有害的。它解释了为什么改变一条染色体比改变整个基因组更糟，并预测全基因组重复后保留的基因很少在小规模重复后保留，反之亦然。这两种格局在植物、动物、酵母和纤毛虫中都已发现。剂量补偿以及基因对剂量反应的多变，限制了这条规律的适用范围。
 
-本仓库相关条目：[gene-balance-dosage](../../skills/genomics-theory-mining/theories/gene-balance-dosage/THEORY.md)、[fractionation-diploidization-after-wgd](../../skills/genomics-theory-mining/theories/fractionation-diploidization-after-wgd/THEORY.md)、[allopolyploidy-secondary-polyploidy](../../skills/genomics-theory-mining/theories/allopolyploidy-secondary-polyploidy/THEORY.md)、[ddc-subfunctionalization](../../skills/genomics-theory-mining/theories/ddc-subfunctionalization/THEORY.md)、[kondrashov-2002-purifying-both-paralogs](../../skills/genomics-theory-mining/theories/kondrashov-2002-purifying-both-paralogs/THEORY.md)。
+本仓库相关条目：[gene-balance-dosage](../../theories/gene-balance-dosage/THEORY.md)、[fractionation-diploidization-after-wgd](../../theories/fractionation-diploidization-after-wgd/THEORY.md)、[allopolyploidy-secondary-polyploidy](../../theories/allopolyploidy-secondary-polyploidy/THEORY.md)、[ddc-subfunctionalization](../../theories/ddc-subfunctionalization/THEORY.md)、[kondrashov-2002-purifying-both-paralogs](../../theories/kondrashov-2002-purifying-both-paralogs/THEORY.md)。
 
 ## 20.1 内容与历史
 

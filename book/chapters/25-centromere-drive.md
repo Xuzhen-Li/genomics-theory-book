@@ -2,7 +2,7 @@
 
 **Status: Centromere drive in female meiosis, Partly verified (demonstrated in mice and monkeyflowers); as the general explanation of rapid centromere evolution, Contested.** Centromeres do the same job in every eukaryote, yet their DNA and some of their proteins evolve very fast. The centromere-drive hypothesis explains this paradox by the asymmetry of female meiosis: only one of the four products becomes the egg, so a centromere that attaches more strongly to the egg side of the spindle is transmitted to more than half of the offspring. Expanding satellite arrays could win this contest, and centromeric proteins would then evolve to restore fair segregation. Biased transmission of stronger centromeres is now shown at the cell level in mice, and a centromere-associated driver is measured in a wild plant population. Whether drive and its suppression explain most centromere evolution is still open.
 
-Related notes in this repository: [selfish-dna](../../skills/genomics-theory-mining/theories/selfish-dna/THEORY.md), [molecular-drive](../../skills/genomics-theory-mining/theories/molecular-drive/THEORY.md), [bateson-dobzhansky-muller-incompatibilities](../../skills/genomics-theory-mining/theories/bateson-dobzhansky-muller-incompatibilities/THEORY.md).
+Related notes in this repository: [selfish-dna](../../theories/selfish-dna/THEORY.md), [molecular-drive](../../theories/molecular-drive/THEORY.md), [bateson-dobzhansky-muller-incompatibilities](../../theories/bateson-dobzhansky-muller-incompatibilities/THEORY.md).
 
 ## 25.1 Statement and history
 

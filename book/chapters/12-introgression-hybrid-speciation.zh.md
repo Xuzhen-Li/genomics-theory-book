@@ -2,7 +2,7 @@
 
 **地位：渐渗已验证；同倍体杂交物种形成部分验证。** 基因组数据表明物种间基因流很常见，渐渗的等位基因可以是适应性的，如藏族人的 EPAS1、Heliconius 的拟态基因和玉米的高地适应；同时，大量渐渗祖先成分会被选择清除。杂交也可以产生新物种，在植物中以异源多倍化最为明确；不改变倍性的杂交物种形成只在少数案例中有强证据，如野生向日葵和意大利麻雀。
 
-本仓库相关条目：[introgression-hybrid-swarm](../../skills/genomics-theory-mining/theories/introgression-hybrid-swarm/THEORY.md)、[rieseberg-complementary-gene-hybrid-speciation](../../skills/genomics-theory-mining/theories/rieseberg-complementary-gene-hybrid-speciation/THEORY.md)、[hybrid-zone-dynamics](../../skills/genomics-theory-mining/theories/hybrid-zone-dynamics/THEORY.md)、[barton-hybrid-sink-barrier](../../skills/genomics-theory-mining/theories/barton-hybrid-sink-barrier/THEORY.md)、[bateson-dobzhansky-muller-incompatibilities](../../skills/genomics-theory-mining/theories/bateson-dobzhansky-muller-incompatibilities/THEORY.md)、[allopolyploidy-secondary-polyploidy](../../skills/genomics-theory-mining/theories/allopolyploidy-secondary-polyploidy/THEORY.md)。
+本仓库相关条目：[introgression-hybrid-swarm](../../theories/introgression-hybrid-swarm/THEORY.md)、[rieseberg-complementary-gene-hybrid-speciation](../../theories/rieseberg-complementary-gene-hybrid-speciation/THEORY.md)、[hybrid-zone-dynamics](../../theories/hybrid-zone-dynamics/THEORY.md)、[barton-hybrid-sink-barrier](../../theories/barton-hybrid-sink-barrier/THEORY.md)、[bateson-dobzhansky-muller-incompatibilities](../../theories/bateson-dobzhansky-muller-incompatibilities/THEORY.md)、[allopolyploidy-secondary-polyploidy](../../theories/allopolyploidy-secondary-polyploidy/THEORY.md)。
 
 ## 12.1 内容与历史
 

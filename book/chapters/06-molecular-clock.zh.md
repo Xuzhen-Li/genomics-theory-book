@@ -2,7 +2,7 @@
 
 **地位：部分验证。** 在同一基因、一组相关谱系之内，分子分化大致与时间成比例地积累，这使分子定年成为可能。严格、普适的分子钟被否定：速率在基因、谱系和生活史之间不同，表观速率还取决于测量所用的时间尺度。因此现代定年使用宽松分子钟和谨慎的校准；植物的结果显示，世代时间和生长方式以仍在研究中的方式影响每年的速率。
 
-本仓库相关条目：[molecular-clock](../../skills/genomics-theory-mining/theories/molecular-clock/THEORY.md)、[ohta-1972-population-size-rate](../../skills/genomics-theory-mining/theories/ohta-1972-population-size-rate/THEORY.md)、[kimura-ohta-1971-polymorphism-phase](../../skills/genomics-theory-mining/theories/kimura-ohta-1971-polymorphism-phase/THEORY.md)、[nearly-neutral-theory](../../skills/genomics-theory-mining/theories/nearly-neutral-theory/THEORY.md)。
+本仓库相关条目：[molecular-clock](../../theories/molecular-clock/THEORY.md)、[ohta-1972-population-size-rate](../../theories/ohta-1972-population-size-rate/THEORY.md)、[kimura-ohta-1971-polymorphism-phase](../../theories/kimura-ohta-1971-polymorphism-phase/THEORY.md)、[nearly-neutral-theory](../../theories/nearly-neutral-theory/THEORY.md)。
 
 ## 6.1 内容与历史
 

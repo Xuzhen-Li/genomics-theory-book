@@ -2,7 +2,7 @@
 
 **地位：部分验证。** 反复出现的有害突变会降低平均适合度，且这种突变负荷主要取决于突变率，这是理论上已确立的结果；近交衰退表明群体携带许多隐性有害等位基因。驯化代价，即作物和家畜中有害变异的数目或频率增加，在水稻、木薯、向日葵、玉米和葡萄中得到支持，但在大豆和若干动物品种中不成立；而且常用的基因组指标统计的是预测的有害等位基因，而不是测得的适合度。
 
-本仓库相关条目：[mutational-genetic-load](../../skills/genomics-theory-mining/theories/mutational-genetic-load/THEORY.md)、[mutation-selection-balance](../../skills/genomics-theory-mining/theories/mutation-selection-balance/THEORY.md)、[haldane-cost-of-selection](../../skills/genomics-theory-mining/theories/haldane-cost-of-selection/THEORY.md)、[inbreeding-depression](../../skills/genomics-theory-mining/theories/inbreeding-depression/THEORY.md)、[kondrashov-1995-dangerous-range-vsd](../../skills/genomics-theory-mining/theories/kondrashov-1995-dangerous-range-vsd/THEORY.md)。
+本仓库相关条目：[mutational-genetic-load](../../theories/mutational-genetic-load/THEORY.md)、[mutation-selection-balance](../../theories/mutation-selection-balance/THEORY.md)、[haldane-cost-of-selection](../../theories/haldane-cost-of-selection/THEORY.md)、[inbreeding-depression](../../theories/inbreeding-depression/THEORY.md)、[kondrashov-1995-dangerous-range-vsd](../../theories/kondrashov-1995-dangerous-range-vsd/THEORY.md)。
 
 ## 10.1 内容与历史
 

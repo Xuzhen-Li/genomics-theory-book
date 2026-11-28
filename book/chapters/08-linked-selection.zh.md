@@ -2,7 +2,7 @@
 
 **地位：现象已验证；相对贡献与 Lewontin 悖论有争议。** 一个位点上的选择会降低连锁位点的中性多样性；多样性与重组率的正相关已在果蝇、人类、鸟类和植物中发现，背景选择和清除模型能预测基因组上多样性变化的很大一部分。有争议的是：在每个物种中背景选择和清除各占多少，以及连锁选择能否解释为什么物种间多样性的变化范围远小于群体大小的变化范围（Lewontin 悖论）。
 
-本仓库相关条目：[background-selection](../../skills/genomics-theory-mining/theories/background-selection/THEORY.md)、[hudson-kaplan-bgs-with-recombination](../../skills/genomics-theory-mining/theories/hudson-kaplan-bgs-with-recombination/THEORY.md)、[nordborg-charlesworth-bgs-map](../../skills/genomics-theory-mining/theories/nordborg-charlesworth-bgs-map/THEORY.md)、[hitchhiking-sweeps](../../skills/genomics-theory-mining/theories/hitchhiking-sweeps/THEORY.md)、[genetic-draft](../../skills/genomics-theory-mining/theories/genetic-draft/THEORY.md)、[hill-robertson-interference](../../skills/genomics-theory-mining/theories/hill-robertson-interference/THEORY.md)、[begun-aquadro-recombination-diversity](../../skills/genomics-theory-mining/theories/begun-aquadro-recombination-diversity/THEORY.md)。
+本仓库相关条目：[background-selection](../../theories/background-selection/THEORY.md)、[hudson-kaplan-bgs-with-recombination](../../theories/hudson-kaplan-bgs-with-recombination/THEORY.md)、[nordborg-charlesworth-bgs-map](../../theories/nordborg-charlesworth-bgs-map/THEORY.md)、[hitchhiking-sweeps](../../theories/hitchhiking-sweeps/THEORY.md)、[genetic-draft](../../theories/genetic-draft/THEORY.md)、[hill-robertson-interference](../../theories/hill-robertson-interference/THEORY.md)、[begun-aquadro-recombination-diversity](../../theories/begun-aquadro-recombination-diversity/THEORY.md)。
 
 ## 8.1 内容与历史
 

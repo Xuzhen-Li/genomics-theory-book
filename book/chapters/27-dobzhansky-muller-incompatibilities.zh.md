@@ -2,7 +2,7 @@
 
 **地位：Dobzhansky–Muller 不亲和作为杂种不育和不能存活的原因，已验证；快于线性的积累（雪球效应），部分验证；推动等位基因分化的进化力量，有争议。** 两个相互隔离的群体可以各自固定在自身遗传背景中运作良好的新等位基因。当两个群体相遇时，双方的衍生等位基因第一次在杂种中组合，其中一些组合不能协同工作。任何中间基因型都不必适合度低下，因此不亲和可以在不跨越适合度低谷的情况下进化。自 1990 年代以来，这一模型有了群体遗传理论、定量检验，以及在动物和植物中克隆的许多不亲和基因。
 
-本仓库相关条目：[bateson-dobzhansky-muller-incompatibilities](../../skills/genomics-theory-mining/theories/bateson-dobzhansky-muller-incompatibilities/THEORY.md)、[orr-snowball-incompatibilities](../../skills/genomics-theory-mining/theories/orr-snowball-incompatibilities/THEORY.md)、[orr-turelli-2001-dmi-waiting-time](../../skills/genomics-theory-mining/theories/orr-turelli-2001-dmi-waiting-time/THEORY.md)、[coyne-orr-time-course-of-isolation](../../skills/genomics-theory-mining/theories/coyne-orr-time-course-of-isolation/THEORY.md)、[haldane-rule](../../skills/genomics-theory-mining/theories/haldane-rule/THEORY.md)、[rieseberg-complementary-gene-hybrid-speciation](../../skills/genomics-theory-mining/theories/rieseberg-complementary-gene-hybrid-speciation/THEORY.md)。
+本仓库相关条目：[bateson-dobzhansky-muller-incompatibilities](../../theories/bateson-dobzhansky-muller-incompatibilities/THEORY.md)、[orr-snowball-incompatibilities](../../theories/orr-snowball-incompatibilities/THEORY.md)、[orr-turelli-2001-dmi-waiting-time](../../theories/orr-turelli-2001-dmi-waiting-time/THEORY.md)、[coyne-orr-time-course-of-isolation](../../theories/coyne-orr-time-course-of-isolation/THEORY.md)、[haldane-rule](../../theories/haldane-rule/THEORY.md)、[rieseberg-complementary-gene-hybrid-speciation](../../theories/rieseberg-complementary-gene-hybrid-speciation/THEORY.md)。
 
 ## 27.1 内容与历史
 

@@ -2,7 +2,7 @@
 
 **Status: Spread of transposable elements as selfish DNA Verified; a regular adaptive role for them Partly verified.** Transposable elements are present in almost all eukaryotes, spread by copying themselves within and between genomes, and are mostly harmful when they insert near genes. Hosts silence them, and selection removes many insertions. Population genomics in plants and animals now measures this directly. Some insertions become useful alleles or regulatory elements, and transposition can respond to stress, but how much of adaptation depends on them is still open.
 
-Related notes in this repository: [selfish-dna](../../skills/genomics-theory-mining/theories/selfish-dna/THEORY.md), [genome-shock](../../skills/genomics-theory-mining/theories/genome-shock/THEORY.md), [c-value-junk-dna](../../skills/genomics-theory-mining/theories/c-value-junk-dna/THEORY.md), [lynch-conery-2003-genome-complexity](../../skills/genomics-theory-mining/theories/lynch-conery-2003-genome-complexity/THEORY.md), [mutation-selection-balance](../../skills/genomics-theory-mining/theories/mutation-selection-balance/THEORY.md).
+Related notes in this repository: [selfish-dna](../../theories/selfish-dna/THEORY.md), [genome-shock](../../theories/genome-shock/THEORY.md), [c-value-junk-dna](../../theories/c-value-junk-dna/THEORY.md), [lynch-conery-2003-genome-complexity](../../theories/lynch-conery-2003-genome-complexity/THEORY.md), [mutation-selection-balance](../../theories/mutation-selection-balance/THEORY.md), [mcclintock-te](../../theories/mcclintock-te/THEORY.md).
 
 ## 17.1 Statement and history
 

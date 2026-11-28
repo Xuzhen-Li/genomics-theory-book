@@ -2,7 +2,7 @@
 
 **地位：重组停止后的 Y 退化，已验证；其群体遗传成因，部分验证；性拮抗作为重组停止的原因，有争议。Haldane 法则作为一种格局，已验证（动物；已推广到有性染色体的植物）；其显性解释，部分验证。** X 和 Y（或 Z 和 W）染色体起源于一对普通常染色体。一旦性别决定位点周围的区域停止重组，Y 上的拷贝就会丢失基因和功能，而 X 上的拷贝可能进化出剂量补偿。Haldane 注意到，当物种杂种的某一性别缺失、稀少或不育时，受影响的是异配性别。两种观点由性染色体的同一特征联系在一起，即半合性：单条 X 上的隐性突变会暴露出来，在正常雄性和杂种中都是如此。
 
-本仓库相关条目：[y-chromosome-degeneration](../../skills/genomics-theory-mining/theories/y-chromosome-degeneration/THEORY.md)、[muller-ratchet](../../skills/genomics-theory-mining/theories/muller-ratchet/THEORY.md)、[hill-robertson-interference](../../skills/genomics-theory-mining/theories/hill-robertson-interference/THEORY.md)、[haldane-rule](../../skills/genomics-theory-mining/theories/haldane-rule/THEORY.md)、[turelli-orr-dominance-haldane](../../skills/genomics-theory-mining/theories/turelli-orr-dominance-haldane/THEORY.md)。
+本仓库相关条目：[y-chromosome-degeneration](../../theories/y-chromosome-degeneration/THEORY.md)、[muller-ratchet](../../theories/muller-ratchet/THEORY.md)、[hill-robertson-interference](../../theories/hill-robertson-interference/THEORY.md)、[haldane-rule](../../theories/haldane-rule/THEORY.md)、[turelli-orr-dominance-haldane](../../theories/turelli-orr-dominance-haldane/THEORY.md)。
 
 ## 26.1 内容与历史
 

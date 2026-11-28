@@ -2,7 +2,7 @@
 
 This appendix gathers what the book has learned about claims that failed and about mistakes that recur across chapters. It also gives a short glossary of terms and symbols and an index of all figures. Each entry points to the chapter where the evidence is discussed in full.
 
-Related notes in this repository: [c-value-junk-dna](../../skills/genomics-theory-mining/theories/c-value-junk-dna/THEORY.md), [molecular-clock](../../skills/genomics-theory-mining/theories/molecular-clock/THEORY.md), [island-model](../../skills/genomics-theory-mining/theories/island-model/THEORY.md).
+Related notes in this repository: [c-value-junk-dna](../../theories/c-value-junk-dna/THEORY.md), [molecular-clock](../../theories/molecular-clock/THEORY.md), [island-model](../../theories/island-model/THEORY.md).
 
 ## A.1 How the status labels are used
 

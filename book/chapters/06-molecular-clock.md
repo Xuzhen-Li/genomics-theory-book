@@ -2,7 +2,7 @@
 
 **Status: Partly verified.** Molecular divergence does accumulate roughly in proportion to time within a gene and a group of related lineages, which makes molecular dating possible. A strict, universal clock is rejected: rates differ among genes, lineages and life histories, and apparent rates depend on the timescale over which they are measured. Modern dating therefore uses relaxed clocks and careful calibration, and plant results show that generation time and growth shape per-year rates in ways that are still being worked out.
 
-Related notes in this repository: [molecular-clock](../../skills/genomics-theory-mining/theories/molecular-clock/THEORY.md), [ohta-1972-population-size-rate](../../skills/genomics-theory-mining/theories/ohta-1972-population-size-rate/THEORY.md), [kimura-ohta-1971-polymorphism-phase](../../skills/genomics-theory-mining/theories/kimura-ohta-1971-polymorphism-phase/THEORY.md), [nearly-neutral-theory](../../skills/genomics-theory-mining/theories/nearly-neutral-theory/THEORY.md).
+Related notes in this repository: [molecular-clock](../../theories/molecular-clock/THEORY.md), [ohta-1972-population-size-rate](../../theories/ohta-1972-population-size-rate/THEORY.md), [kimura-ohta-1971-polymorphism-phase](../../theories/kimura-ohta-1971-polymorphism-phase/THEORY.md), [nearly-neutral-theory](../../theories/nearly-neutral-theory/THEORY.md).
 
 ## 6.1 Statement and history
 

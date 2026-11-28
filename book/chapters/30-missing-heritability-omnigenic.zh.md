@@ -2,7 +2,7 @@
 
 **地位：全基因组显著位点与基于家系的遗传力之间存在差距，已验证；这一差距大部分隐藏在许多小效应变异中，已验证（对人类身高已基本弥合）；稀有变异和被高估的家系估计构成剩余差距，部分验证；核心基因与外周基因的全基因模型，有争议。** 双生子和家系研究估计许多人类性状有很高的遗传力，但最初的全基因组关联研究（GWAS）找到的变异只能解释其中一小部分。这一差距被称为遗失遗传力。全基因模型试图解释为什么关联散布在基因组的大部分区域：调控网络高度互联，在相关细胞类型中表达的几乎每个基因都会影响一小组核心基因。
 
-本仓库相关条目：[infinitesimal-polygenic](../../skills/genomics-theory-mining/theories/infinitesimal-polygenic/THEORY.md)、[rockman-qtn-versus-polygenes](../../skills/genomics-theory-mining/theories/rockman-qtn-versus-polygenes/THEORY.md)、[berg-coop-polygenic-adaptation](../../skills/genomics-theory-mining/theories/berg-coop-polygenic-adaptation/THEORY.md)、[lande-1975-mutation-maintained-va](../../skills/genomics-theory-mining/theories/lande-1975-mutation-maintained-va/THEORY.md)。
+本仓库相关条目：[infinitesimal-polygenic](../../theories/infinitesimal-polygenic/THEORY.md)、[rockman-qtn-versus-polygenes](../../theories/rockman-qtn-versus-polygenes/THEORY.md)、[berg-coop-polygenic-adaptation](../../theories/berg-coop-polygenic-adaptation/THEORY.md)、[lande-1975-mutation-maintained-va](../../theories/lande-1975-mutation-maintained-va/THEORY.md)。
 
 ## 30.1 内容与历史
 

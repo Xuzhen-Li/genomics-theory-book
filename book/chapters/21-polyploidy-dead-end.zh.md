@@ -2,7 +2,7 @@
 
 **地位：新近形成的多倍体分化速率较低，部分验证；多倍化是植物谱系长期的死胡同，有争议。** 死胡同假说认为，多倍体形成得很频繁，却很少留下众多后代，所以多倍体在现存物种中很常见，对长期的物种分化贡献却很小。大规模系统发育分析发现，新近的多倍体物种形成速率较低、灭绝速率较高，而且只有很少一部分多倍化事件被长期保留下来。然而，每一种开花植物都源自古老的基因组重复，许多重复事件之后出现了分化速率的变化，而用来估计速率的方法又有已知的偏差。答案取决于时间尺度，也取决于怎样识别多倍体谱系。
 
-本仓库相关条目：[allopolyploidy-secondary-polyploidy](../../skills/genomics-theory-mining/theories/allopolyploidy-secondary-polyploidy/THEORY.md)、[masterson-1994-stomatal-polyploidy](../../skills/genomics-theory-mining/theories/masterson-1994-stomatal-polyploidy/THEORY.md)、[felber-bever-1997-triploid-fitness-coexistence](../../skills/genomics-theory-mining/theories/felber-bever-1997-triploid-fitness-coexistence/THEORY.md)、[fractionation-diploidization-after-wgd](../../skills/genomics-theory-mining/theories/fractionation-diploidization-after-wgd/THEORY.md)、[gene-balance-dosage](../../skills/genomics-theory-mining/theories/gene-balance-dosage/THEORY.md)。
+本仓库相关条目：[allopolyploidy-secondary-polyploidy](../../theories/allopolyploidy-secondary-polyploidy/THEORY.md)、[masterson-1994-stomatal-polyploidy](../../theories/masterson-1994-stomatal-polyploidy/THEORY.md)、[felber-bever-1997-triploid-fitness-coexistence](../../theories/felber-bever-1997-triploid-fitness-coexistence/THEORY.md)、[fractionation-diploidization-after-wgd](../../theories/fractionation-diploidization-after-wgd/THEORY.md)、[gene-balance-dosage](../../theories/gene-balance-dosage/THEORY.md)。
 
 ## 21.1 内容与历史
 

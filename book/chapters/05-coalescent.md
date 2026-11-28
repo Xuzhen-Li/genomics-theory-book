@@ -2,7 +2,7 @@
 
 **Status: Verified (mathematical framework).** The coalescent is the large-population limit of the standard models of reproduction, and its predictions for neutral variation in a randomly mating population of constant size follow by derivation. It is the basis of most simulation and demographic inference. What is not settled is how often real species meet its assumptions: population structure, linked selection, skewed offspring numbers and clonal reproduction all change the genealogy, and a history inferred from a misspecified model can be precise and wrong.
 
-Related notes in this repository: [coalescent](../../skills/genomics-theory-mining/theories/coalescent/THEORY.md), [infinite-sites-watterson](../../skills/genomics-theory-mining/theories/infinite-sites-watterson/THEORY.md), [tajima-1983-nucleon-genealogy](../../skills/genomics-theory-mining/theories/tajima-1983-nucleon-genealogy/THEORY.md), [ewens-sampling-formula](../../skills/genomics-theory-mining/theories/ewens-sampling-formula/THEORY.md), [tajima-d](../../skills/genomics-theory-mining/theories/tajima-d/THEORY.md), [stepping-stone-model](../../skills/genomics-theory-mining/theories/stepping-stone-model/THEORY.md).
+Related notes in this repository: [coalescent](../../theories/coalescent/THEORY.md), [infinite-sites-watterson](../../theories/infinite-sites-watterson/THEORY.md), [tajima-1983-nucleon-genealogy](../../theories/tajima-1983-nucleon-genealogy/THEORY.md), [ewens-sampling-formula](../../theories/ewens-sampling-formula/THEORY.md), [tajima-d](../../theories/tajima-d/THEORY.md), [stepping-stone-model](../../theories/stepping-stone-model/THEORY.md).
 
 ## 5.1 Statement and history
 

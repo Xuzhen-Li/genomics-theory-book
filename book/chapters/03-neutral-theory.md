@@ -2,7 +2,7 @@
 
 **Status: Partly verified.** The core predictions hold: most variants that reach fixation or appear as polymorphism are neutral or slightly deleterious rather than advantageous, the neutral substitution rate equals the mutation rate, and functionally constrained sites evolve more slowly. What is not settled is how much adaptive substitution and linked selection add, and how far neutral models can be used as the default for polymorphism. Two recent perspectives disagree on this point [1, 2].
 
-Related notes in this repository: [neutral-theory](../../skills/genomics-theory-mining/theories/neutral-theory/THEORY.md), [mcdonald-kreitman](../../skills/genomics-theory-mining/theories/mcdonald-kreitman/THEORY.md), [kimura-1962-fixation-probability](../../skills/genomics-theory-mining/theories/kimura-1962-fixation-probability/THEORY.md), [kimura-ohta-1971-polymorphism-phase](../../skills/genomics-theory-mining/theories/kimura-ohta-1971-polymorphism-phase/THEORY.md), [infinite-sites-watterson](../../skills/genomics-theory-mining/theories/infinite-sites-watterson/THEORY.md).
+Related notes in this repository: [neutral-theory](../../theories/neutral-theory/THEORY.md), [mcdonald-kreitman](../../theories/mcdonald-kreitman/THEORY.md), [kimura-1962-fixation-probability](../../theories/kimura-1962-fixation-probability/THEORY.md), [kimura-ohta-1971-polymorphism-phase](../../theories/kimura-ohta-1971-polymorphism-phase/THEORY.md), [infinite-sites-watterson](../../theories/infinite-sites-watterson/THEORY.md).
 
 ## 3.1 Statement and history
 

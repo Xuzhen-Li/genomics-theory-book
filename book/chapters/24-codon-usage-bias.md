@@ -2,7 +2,7 @@
 
 **Status: Codon usage set by a balance of selection, mutation and drift, with translational selection in highly expressed genes of large populations, Verified; translational selection as the main force in plants and other species with small populations, Partly verified.** Synonymous codons are not used equally. In bacteria, yeast and *Drosophila*, highly expressed genes prefer codons that match abundant tRNAs, and the strength of this preference follows effective population size and growth rate, as the selection–mutation–drift model predicts. Between species, much of the variation comes from mutation bias, and in mammals and many plants codon usage is shaped strongly by GC-biased gene conversion. In plants, translational selection is detectable but usually weak, and weaker in selfers.
 
-Related notes in this repository: [nearly-neutral-theory](../../skills/genomics-theory-mining/theories/nearly-neutral-theory/THEORY.md), [hill-robertson-interference](../../skills/genomics-theory-mining/theories/hill-robertson-interference/THEORY.md), [gc-biased-gene-conversion](../../skills/genomics-theory-mining/theories/gc-biased-gene-conversion/THEORY.md).
+Related notes in this repository: [nearly-neutral-theory](../../theories/nearly-neutral-theory/THEORY.md), [hill-robertson-interference](../../theories/hill-robertson-interference/THEORY.md), [gc-biased-gene-conversion](../../theories/gc-biased-gene-conversion/THEORY.md).
 
 ## 24.1 Statement and history
 

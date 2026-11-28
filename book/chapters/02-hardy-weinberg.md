@@ -2,7 +2,7 @@
 
 **Status: Verified (as a null model).** Under random mating in a large population with no selection, mutation or migration, genotype frequencies reach p², 2pq and q² after one generation and stay there. The algebra is exact. Its value in practice is as a null model: departures are expected in real populations and tell us about mating system, structure, selection or genotyping error.
 
-Related notes in this repository: [inbreeding-depression](../../skills/genomics-theory-mining/theories/inbreeding-depression/THEORY.md), [baker-law](../../skills/genomics-theory-mining/theories/baker-law/THEORY.md).
+Related notes in this repository: [inbreeding-depression](../../theories/inbreeding-depression/THEORY.md), [baker-law](../../theories/baker-law/THEORY.md).
 
 ## 2.1 Statement and history
 

@@ -15,7 +15,7 @@ A book about classic theories in genetics and genome evolution, and how well eac
 - Every reference was checked against Crossref or OpenAlex (title, authors, year, journal, DOI), and its abstract or full text was read before it was cited. Claims are limited to what those sources report.
 - Figure 1 of a chapter is a published figure where an openly licensed one exists (CC BY or CC0). It is reproduced unchanged, with authors, year, title, journal, figure number, DOI and licence in the caption. Where no open figure exists, the book uses a redrawing marked “Redrawn after” its source, or its own schematic or simulation.
 - Own figures follow one house style: text at least 6 pt, text contrast at least 4.5:1, and no text on borders. Each script fixes its random seed (20261126) and can be rerun.
-- Each chapter links to the related short theory notes in [`../skills/genomics-theory-mining/theories/`](../skills/genomics-theory-mining/theories/).
+- Each chapter links to the related short theory notes in [`../theories/`](../theories/).
 
 ## Rerunning the figures
 

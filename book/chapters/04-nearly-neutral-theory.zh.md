@@ -2,7 +2,7 @@
 
 **地位：部分验证。** 核心预测——针对轻微有害突变的选择效率随有效群体大小（Ne）提高——在哺乳类、动物和植物之间的比较中，以及自交与异交近缘种的比较中都得到支持。尚未解决的是：所有定量预测都依赖的适合度效应分布（DFE）是什么形状，长时间尺度上的 Ne 是什么含义，以及如何把近中性与连锁选择区分开。
 
-本仓库相关条目：[nearly-neutral-theory](../../skills/genomics-theory-mining/theories/nearly-neutral-theory/THEORY.md)、[ohta-1972-population-size-rate](../../skills/genomics-theory-mining/theories/ohta-1972-population-size-rate/THEORY.md)、[drift-barrier-hypothesis](../../skills/genomics-theory-mining/theories/drift-barrier-hypothesis/THEORY.md)、[mutational-genetic-load](../../skills/genomics-theory-mining/theories/mutational-genetic-load/THEORY.md)。
+本仓库相关条目：[nearly-neutral-theory](../../theories/nearly-neutral-theory/THEORY.md)、[ohta-1972-population-size-rate](../../theories/ohta-1972-population-size-rate/THEORY.md)、[drift-barrier-hypothesis](../../theories/drift-barrier-hypothesis/THEORY.md)、[mutational-genetic-load](../../theories/mutational-genetic-load/THEORY.md)。
 
 ## 4.1 内容与历史
 

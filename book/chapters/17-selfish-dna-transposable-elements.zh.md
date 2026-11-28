@@ -2,7 +2,7 @@
 
 **地位：转座子作为自私 DNA 的扩散已验证；转座子经常起适应作用部分验证。** 转座子几乎存在于所有真核生物中，在基因组内和基因组之间复制自身而扩散；插入到基因附近时大多有害。宿主会把它们沉默，选择也会清除许多插入。植物和动物的群体基因组学现在可以直接测量这些过程。有些插入成为有用的等位基因或调控元件，转座也可以对胁迫作出反应，但适应在多大程度上依赖转座子仍未解决。
 
-本仓库相关条目：[selfish-dna](../../skills/genomics-theory-mining/theories/selfish-dna/THEORY.md)、[genome-shock](../../skills/genomics-theory-mining/theories/genome-shock/THEORY.md)、[c-value-junk-dna](../../skills/genomics-theory-mining/theories/c-value-junk-dna/THEORY.md)、[lynch-conery-2003-genome-complexity](../../skills/genomics-theory-mining/theories/lynch-conery-2003-genome-complexity/THEORY.md)、[mutation-selection-balance](../../skills/genomics-theory-mining/theories/mutation-selection-balance/THEORY.md)。
+本仓库相关条目：[selfish-dna](../../theories/selfish-dna/THEORY.md)、[genome-shock](../../theories/genome-shock/THEORY.md)、[c-value-junk-dna](../../theories/c-value-junk-dna/THEORY.md)、[lynch-conery-2003-genome-complexity](../../theories/lynch-conery-2003-genome-complexity/THEORY.md)、[mutation-selection-balance](../../theories/mutation-selection-balance/THEORY.md)、[mcclintock-te](../../theories/mcclintock-te/THEORY.md)。
 
 ## 17.1 内容与历史
 

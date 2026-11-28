@@ -2,7 +2,7 @@
 
 **地位：基因组大小与基因数脱钩已验证；其原因部分验证。** 单倍体 DNA 含量（C 值）在真核生物间相差数万倍，在开花植物间约相差 2,400 倍，与生物复杂性或基因数无关。基因组序列显示了多余 DNA 的所在：主要是转座子和其他重复序列，多倍化带来更多变化。至于为什么有些谱系保留得更多，则较少定论。转座子扩增与 DNA 清除速率的差异有充分记录；通过细胞大小和发育时间起作用的选择（核型效应）有良好的相关性证据，也有少数群体水平的支持；有效群体大小的作用存在争议。
 
-本仓库相关条目：[c-value-junk-dna](../../skills/genomics-theory-mining/theories/c-value-junk-dna/THEORY.md)、[cavalier-smith-1978-nucleoskeletal-c-value](../../skills/genomics-theory-mining/theories/cavalier-smith-1978-nucleoskeletal-c-value/THEORY.md)、[lynch-conery-2003-genome-complexity](../../skills/genomics-theory-mining/theories/lynch-conery-2003-genome-complexity/THEORY.md)、[drift-barrier-hypothesis](../../skills/genomics-theory-mining/theories/drift-barrier-hypothesis/THEORY.md)、[selfish-dna](../../skills/genomics-theory-mining/theories/selfish-dna/THEORY.md)、[nearly-neutral-theory](../../skills/genomics-theory-mining/theories/nearly-neutral-theory/THEORY.md)。
+本仓库相关条目：[c-value-junk-dna](../../theories/c-value-junk-dna/THEORY.md)、[cavalier-smith-1978-nucleoskeletal-c-value](../../theories/cavalier-smith-1978-nucleoskeletal-c-value/THEORY.md)、[lynch-conery-2003-genome-complexity](../../theories/lynch-conery-2003-genome-complexity/THEORY.md)、[drift-barrier-hypothesis](../../theories/drift-barrier-hypothesis/THEORY.md)、[selfish-dna](../../theories/selfish-dna/THEORY.md)、[nearly-neutral-theory](../../theories/nearly-neutral-theory/THEORY.md)。
 
 ## 15.1 内容与历史
 
