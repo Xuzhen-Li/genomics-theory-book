@@ -11,6 +11,8 @@ Skill: [`skills/genomics-theory-mining/SKILL.md`](skills/genomics-theory-mining/
 
 书：[Genomics Theory Book](book/README.zh.md)，逐章讲经典理论，每章有地位标签（已验证 / 部分验证 / 有争议 / 被否定）、核对过的参考文献和图。目录：[book/INDEX.zh.md](book/INDEX.zh.md)。地位总表：[book/STATUS.zh.md](book/STATUS.zh.md)。
 
+书的各章阅读副本也在 [Wiki](https://github.com/Xuzhen-Li/genomics-theory-book/wiki)。每次 main 更新后，Wiki 会从本仓库同步。要改章节请改仓库里的文件；在 Wiki 网页上的修改会被覆盖。
+
 ## 安装
 
 ```bash

@@ -12,6 +12,8 @@ There are 145 filled theory notes.
 
 Book: [Genomics Theory Book](book/README.md), chapters on classic theories, each with a status label (Verified / Partly verified / Contested / Rejected), checked references and figures. Contents: [book/INDEX.md](book/INDEX.md). Status table: [book/STATUS.md](book/STATUS.md).
 
+A reading copy of the book chapters is also on the [Wiki](https://github.com/Xuzhen-Li/genomics-theory-book/wiki). The Wiki is updated from this repository when main changes. To change a chapter, edit the file here; edits made on the Wiki website are overwritten.
+
 ## Install
 
 ```bash
