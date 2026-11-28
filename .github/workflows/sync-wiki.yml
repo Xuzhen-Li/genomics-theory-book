@@ -1,0 +1,85 @@
+name: Sync Wiki
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - book/chapters/**
+      - book/INDEX.md
+      - book/INDEX.zh.md
+      - wiki/**
+      - .github/workflows/sync-wiki.yml
+  workflow_dispatch:
+
+concurrency:
+  group: wiki-sync
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v4
+        with:
+          path: repo
+
+      - name: Check that the Wiki repository exists
+        id: wiki
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -uo pipefail
+          WIKI_URL="https://github.com/${GITHUB_REPOSITORY}.wiki.git"
+          AUTH=$(printf "x-access-token:%s" "${GH_TOKEN}" | base64 | tr -d "\n")
+          set +e
+          MSG=$(git -c "http.https://github.com/.extraheader=AUTHORIZATION: basic ${AUTH}" ls-remote "${WIKI_URL}" HEAD 2>&1)
+          status=$?
+          set -e
+          lower=$(printf "%s" "${MSG}" | tr "A-Z" "a-z")
+          case "${lower}" in
+            *repository\ not\ found*)
+              printf "exists=no\n" > "${GITHUB_OUTPUT}"
+              echo "::warning::The Wiki git repository does not exist yet. In the GitHub repository: Settings > Features > Wikis (enable), then create the first page once. After that, run this workflow again (workflow_dispatch, or a later change on main)."
+              ;;
+            *)
+              if [ "${status}" -eq 0 ]; then
+                printf "exists=yes\n" > "${GITHUB_OUTPUT}"
+              else
+                echo "::error::git ls-remote of the Wiki repository failed, and the error was not a missing-repository response."
+                printf "%s\n" "${MSG}"
+                exit 1
+              fi
+              ;;
+          esac
+
+      - name: Check out the Wiki
+        if: steps.wiki.outputs.exists == 'yes'
+        uses: actions/checkout@v4
+        with:
+          repository: ${{ github.repository }}.wiki
+          path: wiki-dest
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Copy chapters and generate Home and sidebar
+        if: steps.wiki.outputs.exists == 'yes'
+        run: python3 -B repo/wiki/sync_wiki.py --repo-root repo --wiki-root wiki-dest --update
+
+      - name: Commit and push if the Wiki changed
+        if: steps.wiki.outputs.exists == 'yes'
+        working-directory: wiki-dest
+        run: |
+          set -euo pipefail
+          git config user.name "Xuzhen Li"
+          git config user.email "193294039+Xuzhen-Li@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No Wiki changes."
+          else
+            git commit -m "Update Wiki from ${GITHUB_SHA}"
+            git push
+          fi
